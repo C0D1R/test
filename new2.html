@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<head>
+    <title>title1</title>
+    <style>
+        * {
+            margin: none;
+            padding: none;
+            list-style: none;
+        }
+        .wrap {
+            width: 100%;
+            max-width: 1400px;
+            margin: auto;
+        }
+        .item {
+            background-color: #ffa;
+            margin: 0px 10px 20px;
+            padding: 10px;
+        }
+        @media screen and (min-width: 768px) {
+            .wrap {
+                display: flex;
+            }   
+        }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body>
+    <div class="wrap">
+        <div class="item">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id facilisis libero, non pulvinar ex. Aliquam rutrum ullamcorper nulla in congue. Sed imperdiet blandit elementum. Vivamus malesuada mi ut urna molestie vestibulum. Phasellus tincidunt finibus turpis, ac vehicula odio semper sed. Vestibulum tincidunt ac purus ac tempus. In velit urna, bibendum at pretium quis, gravida eget magna. Maecenas dictum sed ante sed volutpat. Sed molestie nibh nibh, ut facilisis dolor scelerisque sed.
+        </div>
+        <div class="item">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id facilisis libero, non pulvinar ex. Aliquam rutrum ullamcorper nulla in congue. Sed imperdiet blandit elementum. Vivamus malesuada mi ut urna molestie vestibulum. Phasellus tincidunt finibus turpis, ac vehicula odio semper sed. Vestibulum tincidunt ac purus ac tempus. In velit urna, bibendum at pretium quis, gravida eget magna. Maecenas dictum sed ante sed volutpat. Sed molestie nibh nibh, ut facilisis dolor scelerisque sed.
+        </div>
+        <div class="item">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id facilisis libero, non pulvinar ex. Aliquam rutrum ullamcorper nulla in congue. Sed imperdiet blandit elementum. Vivamus malesuada mi ut urna molestie vestibulum. Phasellus tincidunt finibus turpis, ac vehicula odio semper sed. Vestibulum tincidunt ac purus ac tempus. In velit urna, bibendum at pretium quis, gravida eget magna. Maecenas dictum sed ante sed volutpat. Sed molestie nibh nibh, ut facilisis dolor scelerisque sed.
+        </div>
+    </div>
+    <div id="list">1</div>
+    <script>
+        alert("START");
+        function DataTransferTypeGET() {
+            $('#list').html("");
+            $.ajax({
+                type: 'GET',
+                url: var_url,
+                data: {
+                    langValue: "1"
+                },
+                success: function(msg) {
+                    alert("SUCCESS");
+                    $('#list').html(msg);
+                }
+            });
+        }
+        var var_url = "https://script.google.com/macros/s/AKfycbxKYcbGdIL2udFEJZ2nEJrH11b3-U9caNobVK9z8AzhCdNOTN8ai3Ps6l383mPu6buPqg/exec";
+        DataTransferTypeGET();
+    </script>
+</body>
