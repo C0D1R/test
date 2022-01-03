@@ -41,12 +41,19 @@
     <script>
         alert("START");
         function DataTransferTypeGET() {
+            const lang = document.getElementsByName("language");
+            const sem = document.getElementsByName("semester");
+            const dept = document.getElementsByName("department");
+            const courty = document.getElementsByName("course_type");
             $('#list').html("");
             $.ajax({
                 type: 'GET',
                 url: var_url,
                 data: {
-                    langValue: "1"
+                    language: lang,
+                    semester: sem,
+                    department: dept,
+                    coursetype: courty
                 },
                 success: function(msg) {
                     alert("SUCCESS");
@@ -54,7 +61,7 @@
                 }
             });
         }
-        var var_url = "https://script.google.com/macros/s/AKfycbxKYcbGdIL2udFEJZ2nEJrH11b3-U9caNobVK9z8AzhCdNOTN8ai3Ps6l383mPu6buPqg/exec";
+        var var_url = "https://script.google.com/macros/s/AKfycbxlIfOf6bRKlkDQmhmPY2l8rCl0UNOCdQb2jhjbnJ8Dh1jqCnxVzlepIMrwsxU8_efK3g/exec";
         DataTransferTypeGET();
     </script>
 </body>
