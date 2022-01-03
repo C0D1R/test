@@ -28,11 +28,6 @@ window.onload = function() {
 btn.addEventListener("click", function() {
     sessionStorage.clear();
     list.innerHTML = "";
-
-    const lang = document.getElementsByName("language");
-    const sem = document.getElementsByName("semester");
-    const dept = document.getElementsByName("department");
-    const courty = document.getElementsByName("course_type");
 /*
     var langValue = getRadioBoxValue(lang);
     var semValue = getRadioBoxValue(sem);
@@ -41,6 +36,10 @@ btn.addEventListener("click", function() {
 */
     const url = "https://script.google.com/macros/s/AKfycbxlIfOf6bRKlkDQmhmPY2l8rCl0UNOCdQb2jhjbnJ8Dh1jqCnxVzlepIMrwsxU8_efK3g/exec";
     (function() {
+        const lang = document.getElementsByName("language");
+        const sem = document.getElementsByName("semester");
+        const dept = document.getElementsByName("department");
+        const courty = document.getElementsByName("course_type");
         $('#list').html("");
         $.ajax({
             type: 'GET',
