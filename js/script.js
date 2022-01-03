@@ -63,5 +63,5 @@ btn.addEventListener("click", function() {
                 $('#list').html(msg);
             }
         });
-    })
+    }());
 });
