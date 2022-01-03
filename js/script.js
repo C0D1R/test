@@ -1,15 +1,5 @@
-const lang = document.getElementsByName("language");
-const sem = document.getElementsByName("semester");
-const dept = document.getElementsByName("department");
-const courty = document.getElementsByName("course_type");
-
 const btn = document.getElementById("btn");
 const list = document.getElementById("list");
-
-var langValue = "";
-var semValue = "";
-var deptValue = "";
-var courtyValue = [];
 
 function getRadioBoxValue(RadioBoxValue) {
     for(let i = 0, len = RadioBoxValue.length; i < len; i++) {
@@ -39,11 +29,16 @@ btn.addEventListener("click", function() {
     sessionStorage.clear();
     list.innerHTML = "";
 
-    langValue = getRadioBoxValue(lang);
-    semValue = getRadioBoxValue(sem);
-    deptValue = getRadioBoxValue(dept);
-    courtyValue = getCheckBoxValue(courty);
-
+    const lang = document.getElementsByName("language");
+    const sem = document.getElementsByName("semester");
+    const dept = document.getElementsByName("department");
+    const courty = document.getElementsByName("course_type");
+/*
+    var langValue = getRadioBoxValue(lang);
+    var semValue = getRadioBoxValue(sem);
+    var deptValue = getRadioBoxValue(dept);
+    var courtyValue = getCheckBoxValue(courty);
+*/
     const url = "https://script.google.com/macros/s/AKfycbxlIfOf6bRKlkDQmhmPY2l8rCl0UNOCdQb2jhjbnJ8Dh1jqCnxVzlepIMrwsxU8_efK3g/exec";
     (function() {
         $('#list').html("");
@@ -51,10 +46,10 @@ btn.addEventListener("click", function() {
             type: 'GET',
             url: url,
             data: {
-                language: langValue,
-                semester: semValue,
-                department: deptValue,
-                coursetype: courtyValue
+                language: getRadioBoxValue(lang),
+                semester: getRadioBoxValue(sem),
+                department: getRadioBoxValue(dept),
+                coursetype: getCheckBoxValue(courty)
             },
             success: function(msg) {
                 $('#list').html(msg);
