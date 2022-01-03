@@ -31,18 +31,20 @@ btn.addEventListener("click", function() {
     (function() {
         $('#list').html("");
         const url = "https://script.google.com/macros/s/AKfycbxlIfOf6bRKlkDQmhmPY2l8rCl0UNOCdQb2jhjbnJ8Dh1jqCnxVzlepIMrwsxU8_efK3g/exec";
+        /*
         const lang = document.getElementsByName("language");
         const sem = document.getElementsByName("semester");
         const dept = document.getElementsByName("department");
         const courty = document.getElementsByName("course_type");
+        */
         $.ajax({
             type: 'GET',
             url: url,
             data: {
-                language: getRadioBoxValue(lang),
-                semester: getRadioBoxValue(sem),
-                department: getRadioBoxValue(dept),
-                coursetype: getCheckBoxValue(courty)
+                language: getRadioBoxValue(document.getElementsByName("language")),
+                semester: getRadioBoxValue(document.getElementsByName("semester")),
+                department: getRadioBoxValue(document.getElementsByName("department")),
+                coursetype: getCheckBoxValue(document.getElementsByName("course_type"))
             },
             success: function(msg) {
                 $('#list').html(msg);
