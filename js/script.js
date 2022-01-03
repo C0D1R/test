@@ -45,9 +45,7 @@ btn.addEventListener("click", function() {
     courtyValue = getCheckBoxValue(courty);
 
     const url = "https://script.google.com/macros/s/AKfycbxlIfOf6bRKlkDQmhmPY2l8rCl0UNOCdQb2jhjbnJ8Dh1jqCnxVzlepIMrwsxU8_efK3g/exec";
-    alert("CLICK");
     (function() {
-        alert("HEY GOOGLE");
         $('#list').html("");
         $.ajax({
             type: 'GET',
@@ -59,8 +57,8 @@ btn.addEventListener("click", function() {
                 coursetype: courtyValue
             },
             success: function(msg) {
-                alert("SUCCESS");
                 $('#list').html(msg);
+                console.log(msg);
             }
         });
     }());
