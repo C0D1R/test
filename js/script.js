@@ -12,8 +12,7 @@ function getCheckBoxValue(CheckBoxValue) {
     let CheckedValue = [];
     for(let i = 0, j = 0, len = CheckBoxValue.length; i < len; i++) {
         if(CheckBoxValue[i].checked) {
-            CheckedValue[j] = CheckBoxValue[i].value;
-            j++;
+            CheckedValue[j++] = CheckBoxValue[i].value;
         }
     }
     return CheckedValue;
