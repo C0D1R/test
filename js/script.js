@@ -47,6 +47,7 @@ btn.addEventListener("click", function() {
     const url = "https://script.google.com/macros/s/AKfycbxlIfOf6bRKlkDQmhmPY2l8rCl0UNOCdQb2jhjbnJ8Dh1jqCnxVzlepIMrwsxU8_efK3g/exec";
     
     (function() {
+        alert("HEY GOOGLE");
         $('#list').html("");
         $.ajax({
             type: 'GET',
