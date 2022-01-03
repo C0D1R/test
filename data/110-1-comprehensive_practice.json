@@ -1,0 +1,26 @@
+[
+    {
+        "list_name": "創業入門",
+        "list_credit": "3",
+        "list_lecturer": "黃識銘",
+        "list_type": "分類通識必修",
+        "list_field_class": "綜合實踐領域",
+        "list_time": "五 5 6 7"
+    },
+    {
+        "list_name": "國際鏈結社區實務",
+        "list_credit": "3",
+        "list_lecturer": "楊晴絨",
+        "list_type": "分類通識必修",
+        "list_field_class": "綜合實踐領域",
+        "list_time": "五 6 7 8"
+    },
+    {
+        "list_name": "手機拍攝實務",
+        "list_credit": "3",
+        "list_lecturer": "許擇瑋",
+        "list_type": "分類通識必修",
+        "list_field_class": "綜合實踐領域",
+        "list_time": "五 2 3 4"
+    }
+]

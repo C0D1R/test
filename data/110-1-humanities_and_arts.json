@@ -1,0 +1,594 @@
+[
+    {
+        "list_name": "中國古典短篇小說選讀",
+        "list_credit": "3",
+        "list_lecturer": "駱育萱",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "人物史：帝、后與名人",
+        "list_credit": "3",
+        "list_lecturer": "王見川",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "俄羅斯文化",
+        "list_credit": "3",
+        "list_lecturer": "陳桂容",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "傳統休閒文化",
+        "list_credit": "3",
+        "list_lecturer": "孫宏仁",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "千面英雄(A)",
+        "list_credit": "3",
+        "list_lecturer": "陳能治",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "千面英雄(B)",
+        "list_credit": "3",
+        "list_lecturer": "陳能治",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "南瀛探索(A)",
+        "list_credit": "3",
+        "list_lecturer": "劉淑玲",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "南瀛探索(B)",
+        "list_credit": "3",
+        "list_lecturer": "劉淑玲",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "口頭報告訓練(A)",
+        "list_credit": "3",
+        "list_lecturer": "張秀惠",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "口頭報告訓練(B)",
+        "list_credit": "3",
+        "list_lecturer": "張秀惠",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "古典文學與創意",
+        "list_credit": "3",
+        "list_lecturer": "王淑蕙",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "古典文學與設計",
+        "list_credit": "3",
+        "list_lecturer": "王淑蕙",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "古典文學賞讀(A)",
+        "list_credit": "3",
+        "list_lecturer": "許雅貴",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "古典文學賞讀(B)",
+        "list_credit": "3",
+        "list_lecturer": "施寬文",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "台灣傳統寺廟裝飾",
+        "list_credit": "3",
+        "list_lecturer": "孫宏仁",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "台灣原住民文化探討",
+        "list_credit": "3",
+        "list_lecturer": "盧彥光",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "台灣民俗與風物",
+        "list_credit": "3",
+        "list_lecturer": "王見川",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "哲學思維與公共議題",
+        "list_credit": "3",
+        "list_lecturer": "林麗美",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "哲學與人生",
+        "list_credit": "3",
+        "list_lecturer": "方中士",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "商業美學與文創藝術─在地文化與城市文創",
+        "list_credit": "3",
+        "list_lecturer": "蕭百芳",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "在地文化與城市文創-老街文創與再生",
+        "list_credit": "3",
+        "list_lecturer": "蕭百芳",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 2 3 4"
+    },
+    {
+        "list_name": "城市敘事-從城市意象到城市行銷",
+        "list_credit": "3",
+        "list_lecturer": "陳憶蘇、蔡蕙如",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "多元藝術自我療癒",
+        "list_credit": "3",
+        "list_lecturer": "王萬清",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "媒體識讀與報導實務",
+        "list_credit": "3",
+        "list_lecturer": "高碧玉",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "小說選讀",
+        "list_credit": "3",
+        "list_lecturer": "馬美娟",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "府城‧游於藝",
+        "list_credit": "3",
+        "list_lecturer": "葉瓊霞",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "影視美學",
+        "list_credit": "3",
+        "list_lecturer": "陳雯宜",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "戲劇與文化",
+        "list_credit": "3",
+        "list_lecturer": "王淳美",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "探索府城─五條港",
+        "list_credit": "3",
+        "list_lecturer": "陳雯宜",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "故事學-從傳統故事到新故事",
+        "list_credit": "3",
+        "list_lecturer": "蔡蕙如",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "文學與生活—走．讀文學",
+        "list_credit": "3",
+        "list_lecturer": "陳憶蘇",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "日本文學與文化",
+        "list_credit": "3",
+        "list_lecturer": "李詠青",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "歐洲概論",
+        "list_credit": "3",
+        "list_lecturer": "方子毓",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "歷史、書寫與記憶",
+        "list_credit": "3",
+        "list_lecturer": "沈文珺",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "歷史與思想",
+        "list_credit": "3",
+        "list_lecturer": "王惠琛",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "歷史與文化",
+        "list_credit": "3",
+        "list_lecturer": "方子毓",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "歷史軼聞趣事研究(A)",
+        "list_credit": "3",
+        "list_lecturer": "黃煥堯",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "歷史軼聞趣事研究(B)",
+        "list_credit": "3",
+        "list_lecturer": "黃煥堯",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 7 8 9"
+    },
+    {
+        "list_name": "民俗、信仰與文化",
+        "list_credit": "3",
+        "list_lecturer": "楊雅琪",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "民間文學與在地文化采風",
+        "list_credit": "3",
+        "list_lecturer": "蔡蕙如",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "現代文學導讀",
+        "list_credit": "3",
+        "list_lecturer": "羅夏美",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "生命倫理學",
+        "list_credit": "3",
+        "list_lecturer": "楊劍豐",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "生態倫理學",
+        "list_credit": "3",
+        "list_lecturer": "楊劍豐",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "生活美學與藝術療癒",
+        "list_credit": "3",
+        "list_lecturer": "楊淑娥、薛清江",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "當代表演敘事美學",
+        "list_credit": "3",
+        "list_lecturer": "楊美英",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "美學與人生",
+        "list_credit": "3",
+        "list_lecturer": "吳燕如",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 7 8 9"
+    },
+    {
+        "list_name": "臺灣流行音樂概論(A)",
+        "list_credit": "3",
+        "list_lecturer": "陳姿光",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "臺灣流行音樂概論(B)",
+        "list_credit": "3",
+        "list_lecturer": "邱亭雅",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 7 8 9"
+    },
+    {
+        "list_name": "舌尖味蕾的生命美感",
+        "list_credit": "3",
+        "list_lecturer": "陳金英",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "藝術欣賞入門",
+        "list_credit": "3",
+        "list_lecturer": "劉煥玲",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "藝術與城市文化",
+        "list_credit": "3",
+        "list_lecturer": "鍾淑惠",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "藝術賞析(A)",
+        "list_credit": "3",
+        "list_lecturer": "鍾淑惠",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "藝術賞析(B)",
+        "list_credit": "3",
+        "list_lecturer": "劉處英",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 7 8 9"
+    },
+    {
+        "list_name": "蘇軾飲食文學的現代創意",
+        "list_credit": "3",
+        "list_lecturer": "陳金英",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "西方的興起",
+        "list_credit": "3",
+        "list_lecturer": "林柏維",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "西洋古典音樂欣賞(A)",
+        "list_credit": "3",
+        "list_lecturer": "陳姿光",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "西洋古典音樂欣賞(B)",
+        "list_credit": "3",
+        "list_lecturer": "邱亭雅",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "西洋古典音樂欣賞(C)",
+        "list_credit": "3",
+        "list_lecturer": "游千慧",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "西洋古典音樂欣賞(D)",
+        "list_credit": "3",
+        "list_lecturer": "陳姿光",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "西班牙文化",
+        "list_credit": "3",
+        "list_lecturer": "王鶴巘",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "西班牙旅遊",
+        "list_credit": "3",
+        "list_lecturer": "王鶴巘",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "視覺藝術",
+        "list_credit": "3",
+        "list_lecturer": "鍾淑惠",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "語言與文化",
+        "list_credit": "3",
+        "list_lecturer": "葉蓁蓁",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "讀故事，學智慧─資治通鑑故事選讀",
+        "list_credit": "3",
+        "list_lecturer": "施寬文",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "賞藝與創藝",
+        "list_credit": "3",
+        "list_lecturer": "葉瓊霞",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "跨越文化偏見與歧視的批判思考",
+        "list_credit": "3",
+        "list_lecturer": "方中士",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "邁向蓬勃發展之路",
+        "list_credit": "3",
+        "list_lecturer": "王萬清",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 7 8 9"
+    },
+    {
+        "list_name": "雲門美學賞析",
+        "list_credit": "3",
+        "list_lecturer": "劉煥玲",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "電影與在地文化",
+        "list_credit": "3",
+        "list_lecturer": "邱瀅儒",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "電影與性別議題",
+        "list_credit": "3",
+        "list_lecturer": "彭易璟",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "電影與文學",
+        "list_credit": "3",
+        "list_lecturer": "王淳美",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "電影與文學人生處方簽",
+        "list_credit": "3",
+        "list_lecturer": "駱育萱",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 7 8 9"
+    },
+    {
+        "list_name": "電影與道德推理",
+        "list_credit": "3",
+        "list_lecturer": "薛清江",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "四 4 5 6"
+    },
+    {
+        "list_name": "韓國歷史文化",
+        "list_credit": "3",
+        "list_lecturer": "楊子震",
+        "list_type": "分類通識必修",
+        "list_field_class": "人文藝術領域",
+        "list_time": "五 4 5 6"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "list_name": "人際關係與溝通技巧",
+        "list_credit": "2",
+        "list_lecturer": "賴世宗",
+        "list_type": "選修",
+        "list_field_class": "四技高福一甲",
+        "list_time": "一 7 8"
+    },
+    {
+        "list_name": "失智症照護",
+        "list_credit": "2",
+        "list_lecturer": "陳綉琴",
+        "list_type": "選修",
+        "list_field_class": "四技高福二甲",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "社區工作",
+        "list_credit": "3",
+        "list_lecturer": "陳珮沄",
+        "list_type": "選修",
+        "list_field_class": "四技高福三甲",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "社會研究法",
+        "list_credit": "3",
+        "list_lecturer": "胡小玫",
+        "list_type": "選修",
+        "list_field_class": "四技高福二甲",
+        "list_time": "四 6 7 8"
+    },
+    {
+        "list_name": "膳食療養與實作",
+        "list_credit": "2",
+        "list_lecturer": "彭巧珍",
+        "list_type": "選修",
+        "list_field_class": "四技高福二甲",
+        "list_time": "二 1 2"
+    },
+    {
+        "list_name": "自然照護學與實務",
+        "list_credit": "3",
+        "list_lecturer": "劉明宜",
+        "list_type": "選修",
+        "list_field_class": "四技高福三甲",
+        "list_time": "四 5 6 7"
+    },
+    {
+        "list_name": "運動與保健",
+        "list_credit": "2",
+        "list_lecturer": "陳殿和",
+        "list_type": "選修",
+        "list_field_class": "四技高福二甲",
+        "list_time": "一 7 8"
+    },
+    {
+        "list_name": "高齡者福祉生活空間規劃與設計",
+        "list_credit": "2",
+        "list_lecturer": "竇國昌",
+        "list_type": "選修",
+        "list_field_class": "四技高福三甲",
+        "list_time": "二 3 4"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "list_name": "3D建模與實務",
+        "list_credit": "3",
+        "list_lecturer": "李博明",
+        "list_type": "分類通識必修",
+        "list_field_class": "綜合實踐領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "USR永續發展導論",
+        "list_credit": "3",
+        "list_lecturer": "胡小玫",
+        "list_type": "分類通識必修",
+        "list_field_class": "綜合實踐領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "創業實作",
+        "list_credit": "3",
+        "list_lecturer": "黃識銘",
+        "list_type": "分類通識必修",
+        "list_field_class": "綜合實踐領域",
+        "list_time": "六 5 6 7"
+    },
+    {
+        "list_name": "台語生活會話與應用",
+        "list_credit": "3",
+        "list_lecturer": "劉明宜",
+        "list_type": "分類通識必修",
+        "list_field_class": "綜合實踐領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "大數據分析與生活應用",
+        "list_credit": "3",
+        "list_lecturer": "童冠燁",
+        "list_type": "分類通識必修",
+        "list_field_class": "綜合實踐領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "科技生活與感知應用",
+        "list_credit": "3",
+        "list_lecturer": "鄭鈺霖",
+        "list_type": "分類通識必修",
+        "list_field_class": "綜合實踐領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "高齡居家環境安全評估",
+        "list_credit": "3",
+        "list_lecturer": "劉明宜",
+        "list_type": "分類通識必修",
+        "list_field_class": "綜合實踐領域",
+        "list_time": "三 4 5 6"
+    }
+]

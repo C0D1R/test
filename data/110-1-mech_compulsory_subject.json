@@ -1,0 +1,1658 @@
+[
+    {
+        "list_name": "中文閱讀與表達(一)",
+        "list_credit": "2",
+        "list_lecturer": "林麗美",
+        "list_type": "必修",
+        "list_field_class": "四技自控一乙",
+        "list_time": "一 6 7"
+    },
+    {
+        "list_name": "中文閱讀與表達(一)",
+        "list_credit": "2",
+        "list_lecturer": "呂昇陽",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一甲",
+        "list_time": "一 8 9"
+    },
+    {
+        "list_name": "中文閱讀與表達(一)",
+        "list_credit": "2",
+        "list_lecturer": "楊雅琪",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一乙",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "中文閱讀與表達(一)",
+        "list_credit": "2",
+        "list_lecturer": "駱育萱",
+        "list_type": "必修",
+        "list_field_class": "四技自控一甲",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "中文閱讀與表達(一)",
+        "list_credit": "2",
+        "list_lecturer": "楊雅琪",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一甲",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "中文閱讀與表達(一)",
+        "list_credit": "2",
+        "list_lecturer": "郭淑雅",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一乙",
+        "list_time": "一 5 6"
+    },
+    {
+        "list_name": "基礎專業英文(A)",
+        "list_credit": "2",
+        "list_lecturer": "陳詩卉",
+        "list_type": "管制必修",
+        "list_field_class": "四技自控二甲等合開",
+        "list_time": "一 5 6"
+    },
+    {
+        "list_name": "基礎專業英文(A)",
+        "list_credit": "2",
+        "list_lecturer": "黃淑娥",
+        "list_type": "管制必修",
+        "list_field_class": "四技奈米二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "基礎專業英文(B1)",
+        "list_credit": "2",
+        "list_lecturer": "陳怡如",
+        "list_type": "管制必修",
+        "list_field_class": "四技自控二甲等合開",
+        "list_time": "一 5 6"
+    },
+    {
+        "list_name": "基礎專業英文(B1)",
+        "list_credit": "2",
+        "list_lecturer": "黃馨儀",
+        "list_type": "管制必修",
+        "list_field_class": "四技奈米二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "基礎專業英文(B2)",
+        "list_credit": "2",
+        "list_lecturer": "陳淑吟",
+        "list_type": "管制必修",
+        "list_field_class": "四技自控二甲等合開",
+        "list_time": "一 5 6"
+    },
+    {
+        "list_name": "基礎專業英文(B2)",
+        "list_credit": "2",
+        "list_lecturer": "邱千娪",
+        "list_type": "管制必修",
+        "list_field_class": "四技奈米二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "基礎專業英文(C)",
+        "list_credit": "2",
+        "list_lecturer": "陳憶綺",
+        "list_type": "管制必修",
+        "list_field_class": "四技奈米二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "基礎專業英文(C)",
+        "list_credit": "2",
+        "list_lecturer": "陳淑微",
+        "list_type": "管制必修",
+        "list_field_class": "四技自控二甲等合開",
+        "list_time": "一 5 6"
+    },
+    {
+        "list_name": "外語能力檢定",
+        "list_credit": "0",
+        "list_lecturer": "李政源",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "吳忠春",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一乙",
+        "list_time": "四 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "李雨容",
+        "list_type": "必修",
+        "list_field_class": "四技車輛二乙",
+        "list_time": "四 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "劉全",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一乙",
+        "list_time": "四 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "林育昇",
+        "list_type": "必修",
+        "list_field_class": "四技奈米二甲等合開",
+        "list_time": "四 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "陳沛仲",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一甲",
+        "list_time": "四 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "瞿嘉駿",
+        "list_type": "必修",
+        "list_field_class": "四技自控二乙",
+        "list_time": "四 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "陳璟璿",
+        "list_type": "必修",
+        "list_field_class": "四技車輛二甲",
+        "list_time": "四 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "蕭育仁",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一甲",
+        "list_time": "四 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "謝慶存",
+        "list_type": "必修",
+        "list_field_class": "四技自控一甲",
+        "list_time": "四 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "詹超",
+        "list_type": "必修",
+        "list_field_class": "四技自控二甲",
+        "list_time": "四 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "陳宥任",
+        "list_type": "必修",
+        "list_field_class": "四技自控一乙",
+        "list_time": "四 6"
+    },
+    {
+        "list_name": "實務專題(一)",
+        "list_credit": "1",
+        "list_lecturer": "王聖璋",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "實務專題(二)",
+        "list_credit": "1",
+        "list_lecturer": "王聖璋",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "實務專題(二)",
+        "list_credit": "1",
+        "list_lecturer": "王聖璋",
+        "list_type": "必修",
+        "list_field_class": "四技奈米四乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "實務專題(二)",
+        "list_credit": "1",
+        "list_lecturer": "王聖璋",
+        "list_type": "必修",
+        "list_field_class": "四技奈米四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "實務專題(二)",
+        "list_credit": "1",
+        "list_lecturer": "王聖璋",
+        "list_type": "必修",
+        "list_field_class": "四技自控四乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "實務專題(二)",
+        "list_credit": "1",
+        "list_lecturer": "王聖璋",
+        "list_type": "必修",
+        "list_field_class": "四技自控四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "實務專題(二)",
+        "list_credit": "1",
+        "list_lecturer": "王聖璋",
+        "list_type": "必修",
+        "list_field_class": "四技車輛四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "實務專題(二)",
+        "list_credit": "1",
+        "list_lecturer": "王聖璋",
+        "list_type": "必修",
+        "list_field_class": "四技車輛四乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "專業證照",
+        "list_credit": "0",
+        "list_lecturer": "王聖璋",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "陳沛仲",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一甲",
+        "list_time": "四 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "蕭育仁",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一甲",
+        "list_time": "四 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "劉全",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一乙",
+        "list_time": "四 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "沈毓泰",
+        "list_type": "必修",
+        "list_field_class": "四技自控三乙",
+        "list_time": "四 4"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "陳璟璿",
+        "list_type": "必修",
+        "list_field_class": "四技車輛二甲",
+        "list_time": "四 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "林育昇",
+        "list_type": "必修",
+        "list_field_class": "四技奈米二甲等合開",
+        "list_time": "四 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "李雨容",
+        "list_type": "必修",
+        "list_field_class": "四技車輛二乙",
+        "list_time": "四 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "吳敏光",
+        "list_type": "必修",
+        "list_field_class": "四技自控四甲",
+        "list_time": "二 4"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "呂金塗",
+        "list_type": "必修",
+        "list_field_class": "四技自控四乙",
+        "list_time": "一 6"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "吳忠春",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一乙",
+        "list_time": "四 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "詹超",
+        "list_type": "必修",
+        "list_field_class": "四技自控二甲",
+        "list_time": "四 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "王聖禾",
+        "list_type": "必修",
+        "list_field_class": "四技自控三甲",
+        "list_time": "四 6"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "陳宥任",
+        "list_type": "必修",
+        "list_field_class": "四技自控一乙",
+        "list_time": "四 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "林克默",
+        "list_type": "必修",
+        "list_field_class": "四技奈米四乙",
+        "list_time": "二 4"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "曾信智",
+        "list_type": "必修",
+        "list_field_class": "四技奈米四甲",
+        "list_time": "二 6"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "蘇嘉祥",
+        "list_type": "必修",
+        "list_field_class": "四技奈米三甲",
+        "list_time": "一 6"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "戴子堯",
+        "list_type": "必修",
+        "list_field_class": "四技車輛四甲",
+        "list_time": "二 4"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "張超群",
+        "list_type": "必修",
+        "list_field_class": "四技車輛三甲",
+        "list_time": "三 2"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "李友竹",
+        "list_type": "必修",
+        "list_field_class": "四技奈米三乙",
+        "list_time": "一 6"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "謝慶存",
+        "list_type": "必修",
+        "list_field_class": "四技自控一甲",
+        "list_time": "四 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "瞿嘉駿",
+        "list_type": "必修",
+        "list_field_class": "四技自控二乙",
+        "list_time": "四 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "郭聰源",
+        "list_type": "必修",
+        "list_field_class": "四技車輛四乙",
+        "list_time": "二 4"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "陳紅章",
+        "list_type": "必修",
+        "list_field_class": "四技車輛三乙",
+        "list_time": "三 2"
+    },
+    {
+        "list_name": "工廠實習",
+        "list_credit": "2",
+        "list_lecturer": "沈家興",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一甲",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "工廠實習",
+        "list_credit": "2",
+        "list_lecturer": "陳家昇",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一乙",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "工程‧倫理與社會",
+        "list_credit": "2",
+        "list_lecturer": "許藝菊",
+        "list_type": "必修",
+        "list_field_class": "四技自控三乙",
+        "list_time": "四 5 6"
+    },
+    {
+        "list_name": "工程‧倫理與社會",
+        "list_credit": "2",
+        "list_lecturer": "林聰益",
+        "list_type": "必修",
+        "list_field_class": "四技自控三甲",
+        "list_time": "一 5 6"
+    },
+    {
+        "list_name": "工程圖學及實習",
+        "list_credit": "2",
+        "list_lecturer": "陳璟璿",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一甲",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "工程圖學及實習",
+        "list_credit": "2",
+        "list_lecturer": "陳璟璿",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一乙",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "工程數學(一)",
+        "list_credit": "3",
+        "list_lecturer": "呂金塗",
+        "list_type": "必修",
+        "list_field_class": "四技自控二乙",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "工程數學(一)",
+        "list_credit": "3",
+        "list_lecturer": "陳紅章",
+        "list_type": "必修",
+        "list_field_class": "四技車輛二乙",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "工程數學(一)",
+        "list_credit": "3",
+        "list_lecturer": "李雨青",
+        "list_type": "必修",
+        "list_field_class": "四技奈米二甲",
+        "list_time": "一 6 7 8"
+    },
+    {
+        "list_name": "工程數學(一)",
+        "list_credit": "3",
+        "list_lecturer": "蕭瑞陽",
+        "list_type": "必修",
+        "list_field_class": "四技奈米二乙",
+        "list_time": "二 6 7 8"
+    },
+    {
+        "list_name": "工程數學(一)",
+        "list_credit": "3",
+        "list_lecturer": "蕭瑞陽",
+        "list_type": "必修",
+        "list_field_class": "四技自控二甲",
+        "list_time": "二 1 2 3"
+    },
+    {
+        "list_name": "工程數學(一)",
+        "list_credit": "3",
+        "list_lecturer": "陳紅章",
+        "list_type": "必修",
+        "list_field_class": "四技車輛二甲",
+        "list_time": "二 1 2 3"
+    },
+    {
+        "list_name": "工程材料",
+        "list_credit": "3",
+        "list_lecturer": "郭聰源",
+        "list_type": "必修",
+        "list_field_class": "四技車輛二甲",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "工程材料",
+        "list_credit": "3",
+        "list_lecturer": "黃文勇",
+        "list_type": "必修",
+        "list_field_class": "四技自控二甲",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "工程材料",
+        "list_credit": "3",
+        "list_lecturer": "黃文勇",
+        "list_type": "必修",
+        "list_field_class": "四技車輛二乙",
+        "list_time": "二 1 2 3"
+    },
+    {
+        "list_name": "工程材料",
+        "list_credit": "3",
+        "list_lecturer": "蕭育仁",
+        "list_type": "必修",
+        "list_field_class": "四技奈米二甲",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "工程材料",
+        "list_credit": "3",
+        "list_lecturer": "吳忠春",
+        "list_type": "必修",
+        "list_field_class": "四技奈米二乙",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "工程材料",
+        "list_credit": "3",
+        "list_lecturer": "黃文勇",
+        "list_type": "必修",
+        "list_field_class": "四技自控二乙",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "微奈米量測與實習(A)",
+        "list_credit": "2",
+        "list_lecturer": "王聖璋",
+        "list_type": "管制必修",
+        "list_field_class": "四技奈米三乙",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "微奈米量測與實習(A)",
+        "list_credit": "2",
+        "list_lecturer": "林克默",
+        "list_type": "管制必修",
+        "list_field_class": "四技奈米三甲",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "微奈米量測與實習(B)",
+        "list_credit": "2",
+        "list_lecturer": "蕭育仁",
+        "list_type": "管制必修",
+        "list_field_class": "四技奈米三乙",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "微奈米量測與實習(B)",
+        "list_credit": "2",
+        "list_lecturer": "吳忠春",
+        "list_type": "管制必修",
+        "list_field_class": "四技奈米三甲",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "微積分(一)",
+        "list_credit": "3",
+        "list_lecturer": "李雨容",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一乙",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "微積分(一)",
+        "list_credit": "3",
+        "list_lecturer": "邱創雄",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一乙",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "微積分(一)",
+        "list_credit": "3",
+        "list_lecturer": "李雨容",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一甲",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "微積分(一)",
+        "list_credit": "3",
+        "list_lecturer": "陳宥任",
+        "list_type": "必修",
+        "list_field_class": "四技自控一乙",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "微積分(一)",
+        "list_credit": "3",
+        "list_lecturer": "李雨青",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一甲",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "微積分(一)",
+        "list_credit": "3",
+        "list_lecturer": "王慶安",
+        "list_type": "必修",
+        "list_field_class": "四技自控一甲",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "應用電子學及實習",
+        "list_credit": "2",
+        "list_lecturer": "吳敏光",
+        "list_type": "必修",
+        "list_field_class": "四技自控三乙",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "應用電子學及實習",
+        "list_credit": "2",
+        "list_lecturer": "吳敏光",
+        "list_type": "必修",
+        "list_field_class": "四技自控三甲",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技奈米二甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技自控三乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技車輛四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技奈米四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技奈米四乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技自控一甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技自控一乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技車輛三乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "自選必修",
+        "list_field_class": "二技企管延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技自控三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技車輛三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技自控二乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技車輛四乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技奈米三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技奈米二乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技奈米三乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技車輛二甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技自控四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技自控四乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技自控二甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技車輛二乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "服務學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "蕭育仁",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一甲",
+        "list_time": "二 5"
+    },
+    {
+        "list_name": "服務學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "陳沛仲",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一甲",
+        "list_time": "三 4"
+    },
+    {
+        "list_name": "服務學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "謝慶存",
+        "list_type": "必修",
+        "list_field_class": "四技自控一甲",
+        "list_time": "一 5"
+    },
+    {
+        "list_name": "服務學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "陳宥任",
+        "list_type": "必修",
+        "list_field_class": "四技自控一乙",
+        "list_time": "三 4"
+    },
+    {
+        "list_name": "服務學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "劉全",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一乙",
+        "list_time": "五 4"
+    },
+    {
+        "list_name": "服務學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "吳忠春",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一乙",
+        "list_time": "一 5"
+    },
+    {
+        "list_name": "機械工程實驗",
+        "list_credit": "2",
+        "list_lecturer": "陳冠仁,魏慶華",
+        "list_type": "必修",
+        "list_field_class": "四技自控三乙",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "機械工程實驗",
+        "list_credit": "2",
+        "list_lecturer": "陳冠仁,魏慶華",
+        "list_type": "必修",
+        "list_field_class": "四技奈米三乙",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "機械工程實驗",
+        "list_credit": "2",
+        "list_lecturer": "陳冠仁,魏慶華",
+        "list_type": "必修",
+        "list_field_class": "四技自控三甲",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "機械工程實驗",
+        "list_credit": "2",
+        "list_lecturer": "陳冠仁,魏慶華",
+        "list_type": "必修",
+        "list_field_class": "四技奈米三甲",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "機械設計",
+        "list_credit": "3",
+        "list_lecturer": "瞿嘉駿",
+        "list_type": "必修",
+        "list_field_class": "四技奈米三乙",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "機械設計",
+        "list_credit": "3",
+        "list_lecturer": "盧燈茂",
+        "list_type": "必修",
+        "list_field_class": "四技奈米三甲",
+        "list_time": "四 6 7 8"
+    },
+    {
+        "list_name": "機電整合實務",
+        "list_credit": "3",
+        "list_lecturer": "蘇嘉祥",
+        "list_type": "必修",
+        "list_field_class": "四技自控二乙",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "機電整合實務",
+        "list_credit": "3",
+        "list_lecturer": "王聖禾",
+        "list_type": "必修",
+        "list_field_class": "四技自控二甲",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "氣壓控制實務",
+        "list_credit": "3",
+        "list_lecturer": "詹超",
+        "list_type": "必修",
+        "list_field_class": "四技自控一甲",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "氣壓控制實務",
+        "list_credit": "3",
+        "list_lecturer": "詹超",
+        "list_type": "必修",
+        "list_field_class": "四技自控一乙",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "汽車綜合檢修實習(一)",
+        "list_credit": "3",
+        "list_lecturer": "許哲嘉",
+        "list_type": "必修",
+        "list_field_class": "四技車輛三甲",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "汽車綜合檢修實習(一)",
+        "list_credit": "3",
+        "list_lecturer": "張明豪",
+        "list_type": "必修",
+        "list_field_class": "四技車輛三乙",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "汽車電子學",
+        "list_credit": "3",
+        "list_lecturer": "陳沛仲",
+        "list_type": "必修",
+        "list_field_class": "四技車輛二甲",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "汽車電子學",
+        "list_credit": "3",
+        "list_lecturer": "陳沛仲",
+        "list_type": "必修",
+        "list_field_class": "四技車輛二乙",
+        "list_time": "一 1 2 3"
+    },
+    {
+        "list_name": "熱力學",
+        "list_credit": "3",
+        "list_lecturer": "張明豪",
+        "list_type": "必修",
+        "list_field_class": "四技車輛三乙",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "熱力學",
+        "list_credit": "3",
+        "list_lecturer": "李友竹",
+        "list_type": "必修",
+        "list_field_class": "四技奈米二乙",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "熱力學",
+        "list_credit": "3",
+        "list_lecturer": "張崴縉",
+        "list_type": "必修",
+        "list_field_class": "四技車輛三甲",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "熱力學",
+        "list_credit": "3",
+        "list_lecturer": "李友竹",
+        "list_type": "必修",
+        "list_field_class": "四技奈米二甲",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "物理",
+        "list_credit": "3",
+        "list_lecturer": "林開政",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一乙",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "物理",
+        "list_credit": "3",
+        "list_lecturer": "林開政",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一甲",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "物理(一)",
+        "list_credit": "3",
+        "list_lecturer": "莊鎧榤",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一甲",
+        "list_time": "一 5 6 7"
+    },
+    {
+        "list_name": "物理(一)",
+        "list_credit": "3",
+        "list_lecturer": "李友竹",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一乙",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "物理(一)",
+        "list_credit": "3",
+        "list_lecturer": "林祥和",
+        "list_type": "必修",
+        "list_field_class": "四技自控一乙",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "物理(一)",
+        "list_credit": "3",
+        "list_lecturer": "林祥和",
+        "list_type": "必修",
+        "list_field_class": "四技自控一甲",
+        "list_time": "二 1 2 3"
+    },
+    {
+        "list_name": "環安衛概論",
+        "list_credit": "2",
+        "list_lecturer": "陳家昇",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一乙",
+        "list_time": "二 1 2"
+    },
+    {
+        "list_name": "環安衛概論",
+        "list_credit": "2",
+        "list_lecturer": "陳家昇",
+        "list_type": "必修",
+        "list_field_class": "四技自控一甲",
+        "list_time": "一 8 9"
+    },
+    {
+        "list_name": "環安衛概論",
+        "list_credit": "2",
+        "list_lecturer": "陳家昇",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一甲",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "環安衛概論",
+        "list_credit": "2",
+        "list_lecturer": "楊政峰",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一甲",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "環安衛概論",
+        "list_credit": "2",
+        "list_lecturer": "陳家昇",
+        "list_type": "必修",
+        "list_field_class": "四技自控一乙",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "環安衛概論",
+        "list_credit": "2",
+        "list_lecturer": "楊政峰",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一乙",
+        "list_time": "二 5 6"
+    },
+    {
+        "list_name": "自動控制",
+        "list_credit": "3",
+        "list_lecturer": "彭守道",
+        "list_type": "必修",
+        "list_field_class": "四技車輛三甲",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "自動控制",
+        "list_credit": "3",
+        "list_lecturer": "彭守道",
+        "list_type": "必修",
+        "list_field_class": "四技車輛三乙",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "自動控制",
+        "list_credit": "3",
+        "list_lecturer": "沈毓泰",
+        "list_type": "必修",
+        "list_field_class": "四技自控三乙",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "自動控制",
+        "list_credit": "3",
+        "list_lecturer": "劉雲輝",
+        "list_type": "必修",
+        "list_field_class": "四技自控三甲",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "英文能力課程",
+        "list_credit": "3",
+        "list_lecturer": "黃麗麗",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控延修等合開",
+        "list_time": "五 7 8 9"
+    },
+    {
+        "list_name": "英語聽講實務(一)(A)",
+        "list_credit": "2",
+        "list_lecturer": "王福祥",
+        "list_type": "管制必修",
+        "list_field_class": "四技奈米一甲等合開",
+        "list_time": "五 1 2"
+    },
+    {
+        "list_name": "英語聽講實務(一)(A)",
+        "list_credit": "2",
+        "list_lecturer": "陳淑吟",
+        "list_type": "管制必修",
+        "list_field_class": "四技自控一甲等合開",
+        "list_time": "二 5 6"
+    },
+    {
+        "list_name": "英語聽講實務(一)(B)",
+        "list_credit": "2",
+        "list_lecturer": "駱茗芬",
+        "list_type": "管制必修",
+        "list_field_class": "四技奈米一甲等合開",
+        "list_time": "五 1 2"
+    },
+    {
+        "list_name": "英語聽講實務(一)(B1)",
+        "list_credit": "2",
+        "list_lecturer": "吳宜錚",
+        "list_type": "管制必修",
+        "list_field_class": "四技自控一甲等合開",
+        "list_time": "二 5 6"
+    },
+    {
+        "list_name": "英語聽講實務(一)(B2)",
+        "list_credit": "2",
+        "list_lecturer": "駱茗芬",
+        "list_type": "管制必修",
+        "list_field_class": "四技自控一甲等合開",
+        "list_time": "二 5 6"
+    },
+    {
+        "list_name": "英語聽講實務(一)(C)",
+        "list_credit": "2",
+        "list_lecturer": "陳詩卉",
+        "list_type": "管制必修",
+        "list_field_class": "四技自控一甲等合開",
+        "list_time": "二 5 6"
+    },
+    {
+        "list_name": "英語聽講實務(一)(C)",
+        "list_credit": "2",
+        "list_lecturer": "陳詩卉",
+        "list_type": "管制必修",
+        "list_field_class": "四技奈米一甲等合開",
+        "list_time": "五 1 2"
+    },
+    {
+        "list_name": "計算機程式及實習(一)",
+        "list_credit": "1",
+        "list_lecturer": "謝慶存",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一乙",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "計算機程式及實習(一)",
+        "list_credit": "1",
+        "list_lecturer": "謝慶存",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一甲",
+        "list_time": "二 1 2"
+    },
+    {
+        "list_name": "計算機程式及實習(一)",
+        "list_credit": "1",
+        "list_lecturer": "林克默",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一乙",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "計算機程式及實習(一)",
+        "list_credit": "1",
+        "list_lecturer": "林克默",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一甲",
+        "list_time": "一 1 2"
+    },
+    {
+        "list_name": "計算機程式及實習(一)",
+        "list_credit": "1",
+        "list_lecturer": "劉雲輝",
+        "list_type": "必修",
+        "list_field_class": "四技自控一乙",
+        "list_time": "一 8 9"
+    },
+    {
+        "list_name": "計算機程式及實習(一)",
+        "list_credit": "1",
+        "list_lecturer": "謝慶存",
+        "list_type": "必修",
+        "list_field_class": "四技自控一甲",
+        "list_time": "一 6 7"
+    },
+    {
+        "list_name": "車輛實習(一)",
+        "list_credit": "2",
+        "list_lecturer": "劉全",
+        "list_type": "必修",
+        "list_field_class": "四技車輛二甲",
+        "list_time": "一 1 2 3"
+    },
+    {
+        "list_name": "車輛實習(一)",
+        "list_credit": "2",
+        "list_lecturer": "劉全",
+        "list_type": "必修",
+        "list_field_class": "四技車輛二乙",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "進階英文表達(A)",
+        "list_credit": "2",
+        "list_lecturer": "程秋堯",
+        "list_type": "管制必修",
+        "list_field_class": "四技車輛三甲等合開",
+        "list_time": "三 3 4"
+    },
+    {
+        "list_name": "進階英文表達(A)",
+        "list_credit": "2",
+        "list_lecturer": "黃馨儀",
+        "list_type": "管制必修",
+        "list_field_class": "四技自控三甲等合開",
+        "list_time": "三 1 2"
+    },
+    {
+        "list_name": "進階英文表達(B1)",
+        "list_credit": "2",
+        "list_lecturer": "邱千娪",
+        "list_type": "管制必修",
+        "list_field_class": "四技自控三甲等合開",
+        "list_time": "三 1 2"
+    },
+    {
+        "list_name": "進階英文表達(B1)",
+        "list_credit": "2",
+        "list_lecturer": "陳怡如",
+        "list_type": "管制必修",
+        "list_field_class": "四技車輛三甲等合開",
+        "list_time": "三 3 4"
+    },
+    {
+        "list_name": "進階英文表達(B2)",
+        "list_credit": "2",
+        "list_lecturer": "陳淑吟",
+        "list_type": "管制必修",
+        "list_field_class": "四技車輛三甲等合開",
+        "list_time": "三 3 4"
+    },
+    {
+        "list_name": "進階英文表達(B2)",
+        "list_credit": "2",
+        "list_lecturer": "張家華",
+        "list_type": "管制必修",
+        "list_field_class": "四技自控三甲等合開",
+        "list_time": "三 1 2"
+    },
+    {
+        "list_name": "進階英文表達(C)",
+        "list_credit": "2",
+        "list_lecturer": "李政源",
+        "list_type": "管制必修",
+        "list_field_class": "四技自控三甲等合開",
+        "list_time": "三 1 2"
+    },
+    {
+        "list_name": "進階英文表達(C)",
+        "list_credit": "2",
+        "list_lecturer": "李政源",
+        "list_type": "管制必修",
+        "list_field_class": "四技車輛三甲等合開",
+        "list_time": "三 3 4"
+    },
+    {
+        "list_name": "電腦輔助機械製圖及實習",
+        "list_credit": "2",
+        "list_lecturer": "謝慶存",
+        "list_type": "必修",
+        "list_field_class": "四技自控二甲",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "電腦輔助機械製圖及實習",
+        "list_credit": "2",
+        "list_lecturer": "謝慶存",
+        "list_type": "必修",
+        "list_field_class": "四技自控二乙",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "靜力學",
+        "list_credit": "3",
+        "list_lecturer": "劉乃上",
+        "list_type": "必修",
+        "list_field_class": "四技自控二甲",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "靜力學",
+        "list_credit": "3",
+        "list_lecturer": "林育昇",
+        "list_type": "必修",
+        "list_field_class": "四技奈米二乙",
+        "list_time": "一 6 7 8"
+    },
+    {
+        "list_name": "靜力學",
+        "list_credit": "3",
+        "list_lecturer": "瞿嘉駿",
+        "list_type": "必修",
+        "list_field_class": "四技自控二乙",
+        "list_time": "二 1 2 3"
+    },
+    {
+        "list_name": "靜力學",
+        "list_credit": "3",
+        "list_lecturer": "林育昇",
+        "list_type": "必修",
+        "list_field_class": "四技奈米二甲",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "體育生活(一)",
+        "list_credit": "2",
+        "list_lecturer": "洪榮臨",
+        "list_type": "必修",
+        "list_field_class": "四技自控一乙",
+        "list_time": "一 1 2"
+    },
+    {
+        "list_name": "體育生活(一)",
+        "list_credit": "2",
+        "list_lecturer": "陳春安",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一甲",
+        "list_time": "二 1 2"
+    },
+    {
+        "list_name": "體育生活(一)",
+        "list_credit": "2",
+        "list_lecturer": "鄭炎坤",
+        "list_type": "必修",
+        "list_field_class": "四技自控一甲",
+        "list_time": "一 1 2"
+    },
+    {
+        "list_name": "體育生活(一)",
+        "list_credit": "2",
+        "list_lecturer": "谷淑華",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一乙",
+        "list_time": "一 1 2"
+    },
+    {
+        "list_name": "體育生活(一)",
+        "list_credit": "2",
+        "list_lecturer": "賴慶霖",
+        "list_type": "必修",
+        "list_field_class": "四技車輛一甲",
+        "list_time": "一 1 2"
+    },
+    {
+        "list_name": "體育生活(一)",
+        "list_credit": "2",
+        "list_lecturer": "陳艷麗",
+        "list_type": "必修",
+        "list_field_class": "四技奈米一乙",
+        "list_time": "一 1 2"
+    },
+    {
+        "list_name": "體育生活(三)：保齡球(A)",
+        "list_credit": "1",
+        "list_lecturer": "李政達",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控二甲等合開",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：健身雕塑(A)",
+        "list_credit": "1",
+        "list_lecturer": "杜珈霖",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控二甲等合開",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：壘球(A)",
+        "list_credit": "1",
+        "list_lecturer": "洪榮臨",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控二甲等合開",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：壘球(B)",
+        "list_credit": "1",
+        "list_lecturer": "賴慶霖",
+        "list_type": "自選必修",
+        "list_field_class": "四技車輛二甲等合開",
+        "list_time": "一 8 9"
+    },
+    {
+        "list_name": "體育生活(三)：拳擊(B)",
+        "list_credit": "1",
+        "list_lecturer": "李政達",
+        "list_type": "自選必修",
+        "list_field_class": "四技車輛二甲等合開",
+        "list_time": "一 8 9"
+    },
+    {
+        "list_name": "體育生活(三)：有氧舞蹈(A)",
+        "list_credit": "1",
+        "list_lecturer": "徐翠敏",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控二甲等合開",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：有氧舞蹈(B)",
+        "list_credit": "1",
+        "list_lecturer": "邱懿瑩",
+        "list_type": "自選必修",
+        "list_field_class": "四技車輛二甲等合開",
+        "list_time": "一 8 9"
+    },
+    {
+        "list_name": "體育生活(三)：桌球(A)",
+        "list_credit": "1",
+        "list_lecturer": "陳艷麗",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控二甲等合開",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：桌球(B)",
+        "list_credit": "1",
+        "list_lecturer": "陳春安",
+        "list_type": "自選必修",
+        "list_field_class": "四技車輛二甲等合開",
+        "list_time": "一 8 9"
+    },
+    {
+        "list_name": "體育生活(三)：游泳(A)",
+        "list_credit": "1",
+        "list_lecturer": "陳新福",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控二甲等合開",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：游泳(B)",
+        "list_credit": "1",
+        "list_lecturer": "谷淑華",
+        "list_type": "自選必修",
+        "list_field_class": "四技車輛二甲等合開",
+        "list_time": "一 8 9"
+    },
+    {
+        "list_name": "體育生活(三)：瑜珈(A)",
+        "list_credit": "1",
+        "list_lecturer": "張雅評",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控二甲等合開",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：瑜珈(B)",
+        "list_credit": "1",
+        "list_lecturer": "徐翠敏",
+        "list_type": "自選必修",
+        "list_field_class": "四技車輛二甲等合開",
+        "list_time": "一 8 9"
+    },
+    {
+        "list_name": "體育生活(三)：籃球(A)",
+        "list_credit": "1",
+        "list_lecturer": "方佩欣",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控二甲等合開",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：籃球(B)",
+        "list_credit": "1",
+        "list_lecturer": "方佩欣",
+        "list_type": "自選必修",
+        "list_field_class": "四技車輛二甲等合開",
+        "list_time": "一 8 9"
+    },
+    {
+        "list_name": "體育生活(三)：網球(B)",
+        "list_credit": "1",
+        "list_lecturer": "鄭炎坤",
+        "list_type": "自選必修",
+        "list_field_class": "四技車輛二甲等合開",
+        "list_time": "一 8 9"
+    },
+    {
+        "list_name": "體育生活(三)：羽球(A)",
+        "list_credit": "1",
+        "list_lecturer": "傅慧榕",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控二甲等合開",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：羽球(B)",
+        "list_credit": "1",
+        "list_lecturer": "邱榮貞",
+        "list_type": "自選必修",
+        "list_field_class": "四技車輛二甲等合開",
+        "list_time": "一 8 9"
+    }
+]

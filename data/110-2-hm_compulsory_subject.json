@@ -1,0 +1,626 @@
+[
+    {
+        "list_name": "中文閱讀與表達(二)",
+        "list_credit": "2",
+        "list_lecturer": "許雅貴",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一甲",
+        "list_time": "一 1 2"
+    },
+    {
+        "list_name": "中文閱讀與表達(二)",
+        "list_credit": "2",
+        "list_lecturer": "陳金英",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一乙",
+        "list_time": "四 1 2"
+    },
+    {
+        "list_name": "中餐製備與實習",
+        "list_credit": "2",
+        "list_lecturer": "胡永輝",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一甲",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "中餐製備與實習",
+        "list_credit": "2",
+        "list_lecturer": "胡永輝",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一乙",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "企業倫理",
+        "list_credit": "2",
+        "list_lecturer": "林美蘭",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅四乙",
+        "list_time": "二 6 7"
+    },
+    {
+        "list_name": "企業倫理",
+        "list_credit": "2",
+        "list_lecturer": "林美蘭",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅四甲",
+        "list_time": "二 8 9"
+    },
+    {
+        "list_name": "台灣與世界",
+        "list_credit": "2",
+        "list_lecturer": "黃煥堯",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅二乙",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "台灣與世界",
+        "list_credit": "2",
+        "list_lecturer": "楊子震",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅二甲",
+        "list_time": "四 1 2"
+    },
+    {
+        "list_name": "外語能力檢定",
+        "list_credit": "0",
+        "list_lecturer": "李政源",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "外語能力檢定",
+        "list_credit": "0",
+        "list_lecturer": "李政源",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅三乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "外語能力檢定",
+        "list_credit": "0",
+        "list_lecturer": "李政源",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "施慧雯",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一甲",
+        "list_time": "二 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "毛佩娟",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅二甲",
+        "list_time": "二 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "林政陞",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一乙",
+        "list_time": "二 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "鄭淑勻",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅二乙",
+        "list_time": "二 6"
+    },
+    {
+        "list_name": "專業英文",
+        "list_credit": "2",
+        "list_lecturer": "林遠志",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅二乙",
+        "list_time": "一 5 6"
+    },
+    {
+        "list_name": "專業英文",
+        "list_credit": "2",
+        "list_lecturer": "林遠志",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅二甲",
+        "list_time": "一 1 2"
+    },
+    {
+        "list_name": "專業證照",
+        "list_credit": "0",
+        "list_lecturer": "林美蘭",
+        "list_type": "自選必修",
+        "list_field_class": "四技餐旅延修",
+        "list_time": ""
+    },
+    {
+        "list_name": "專業證照",
+        "list_credit": "0",
+        "list_lecturer": "林美蘭",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "專業證照",
+        "list_credit": "0",
+        "list_lecturer": "林美蘭",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅四乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "專題製作(一)",
+        "list_credit": "2",
+        "list_lecturer": "胡中州",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "專題製作(二)",
+        "list_credit": "1",
+        "list_lecturer": "林美蘭",
+        "list_type": "自選必修",
+        "list_field_class": "四技餐旅延修",
+        "list_time": ""
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "林政陞",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一乙",
+        "list_time": "二 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "毛佩娟",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅二甲",
+        "list_time": "二 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "劉國寧",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅四乙",
+        "list_time": "二 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "胡永輝",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅三乙",
+        "list_time": "四 6"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "鄭淑勻",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅二乙",
+        "list_time": "二 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "施慧雯",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一甲",
+        "list_time": "二 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "黃煥堯",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅三甲",
+        "list_time": "二 2"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "胡中州",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅四甲",
+        "list_time": "四 1"
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅三乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅二甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅四乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "自選必修",
+        "list_field_class": "二技企管延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅二乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "旅館客務作業管理",
+        "list_credit": "2",
+        "list_lecturer": "余梅香",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅二甲",
+        "list_time": "一 5 6"
+    },
+    {
+        "list_name": "旅館客務作業管理",
+        "list_credit": "2",
+        "list_lecturer": "余梅香",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅二乙",
+        "list_time": "五 2 3"
+    },
+    {
+        "list_name": "旅館管理",
+        "list_credit": "2",
+        "list_lecturer": "余梅香",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一甲",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "旅館管理",
+        "list_credit": "2",
+        "list_lecturer": "余梅香",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一乙",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "會計學",
+        "list_credit": "3",
+        "list_lecturer": "林憶樺",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一乙",
+        "list_time": "一 1 2 3"
+    },
+    {
+        "list_name": "會計學",
+        "list_credit": "3",
+        "list_lecturer": "薛健宏",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一甲",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "服務學習(二)",
+        "list_credit": "1",
+        "list_lecturer": "施慧雯",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一甲",
+        "list_time": "四 4"
+    },
+    {
+        "list_name": "服務學習(二)",
+        "list_credit": "1",
+        "list_lecturer": "林政陞",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一乙",
+        "list_time": "一 5"
+    },
+    {
+        "list_name": "統計學(二)",
+        "list_credit": "3",
+        "list_lecturer": "胡中州",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅二乙",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "統計學(二)",
+        "list_credit": "3",
+        "list_lecturer": "胡中州",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅二甲",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "經濟學",
+        "list_credit": "3",
+        "list_lecturer": "陳孟修",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一乙",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "經濟學",
+        "list_credit": "3",
+        "list_lecturer": "陳孟修",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一甲",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "英文能力課程",
+        "list_credit": "3",
+        "list_lecturer": "黃麗麗",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控延修等合開",
+        "list_time": "五 7 8 9"
+    },
+    {
+        "list_name": "英語聽講實務(二)(A)",
+        "list_credit": "2",
+        "list_lecturer": "吳佩珊",
+        "list_type": "管制必修",
+        "list_field_class": "四技休閒一乙等合開",
+        "list_time": "四 5 6"
+    },
+    {
+        "list_name": "英語聽講實務(二)(B)",
+        "list_credit": "2",
+        "list_lecturer": "陳怡如",
+        "list_type": "管制必修",
+        "list_field_class": "四技休閒一乙等合開",
+        "list_time": "四 5 6"
+    },
+    {
+        "list_name": "英語聽講實務(二)(C)",
+        "list_credit": "2",
+        "list_lecturer": "李政源",
+        "list_type": "管制必修",
+        "list_field_class": "四技休閒一乙等合開",
+        "list_time": "四 5 6"
+    },
+    {
+        "list_name": "西餐製備與實習",
+        "list_credit": "2",
+        "list_lecturer": "施慧雯",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅二甲",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "西餐製備與實習",
+        "list_credit": "2",
+        "list_lecturer": "施慧雯",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅二乙",
+        "list_time": "四 5 6 7"
+    },
+    {
+        "list_name": "進階英文表達(A)",
+        "list_credit": "2",
+        "list_lecturer": "程秋堯",
+        "list_type": "管制必修",
+        "list_field_class": "四技會資三甲等合開",
+        "list_time": "三 3 4"
+    },
+    {
+        "list_name": "進階英文表達(B)",
+        "list_credit": "2",
+        "list_lecturer": "陳淑吟",
+        "list_type": "管制必修",
+        "list_field_class": "四技會資三甲等合開",
+        "list_time": "三 3 4"
+    },
+    {
+        "list_name": "進階英文表達(C)",
+        "list_credit": "2",
+        "list_lecturer": "陳淑微",
+        "list_type": "管制必修",
+        "list_field_class": "四技會資三甲等合開",
+        "list_time": "三 3 4"
+    },
+    {
+        "list_name": "餐旅人力資源管理",
+        "list_credit": "2",
+        "list_lecturer": "林美蘭",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅三甲",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "餐旅專業實習",
+        "list_credit": "9",
+        "list_lecturer": "胡永輝",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅三乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "餐旅校內實習",
+        "list_credit": "0",
+        "list_lecturer": "林美蘭",
+        "list_type": "自選必修",
+        "list_field_class": "四技餐旅延修",
+        "list_time": ""
+    },
+    {
+        "list_name": "餐旅校內實習",
+        "list_credit": "0",
+        "list_lecturer": "林美蘭",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅四乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "餐旅校內實習",
+        "list_credit": "0",
+        "list_lecturer": "林美蘭",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "餐旅督導實務",
+        "list_credit": "3",
+        "list_lecturer": "胡永輝,劉國寧",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅三甲",
+        "list_time": "四 2 3 4 5"
+    },
+    {
+        "list_name": "餐飲管理",
+        "list_credit": "2",
+        "list_lecturer": "黃旭怡",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一乙",
+        "list_time": "一 8 9"
+    },
+    {
+        "list_name": "餐飲管理",
+        "list_credit": "2",
+        "list_lecturer": "黃旭怡",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一甲",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "體育生活(二)",
+        "list_credit": "2",
+        "list_lecturer": "陳新福",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一甲",
+        "list_time": "二 1 2"
+    },
+    {
+        "list_name": "體育生活(二)",
+        "list_credit": "2",
+        "list_lecturer": "李政達",
+        "list_type": "必修",
+        "list_field_class": "四技餐旅一乙",
+        "list_time": "二 1 2"
+    },
+    {
+        "list_name": "體育生活(四)：壘球(G)",
+        "list_credit": "1",
+        "list_lecturer": "蘇榮裕",
+        "list_type": "管制必修",
+        "list_field_class": "四技控晶二甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "體育生活(四)：拳擊(G)",
+        "list_credit": "1",
+        "list_lecturer": "李政達",
+        "list_type": "管制必修",
+        "list_field_class": "四技控晶二甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "體育生活(四)：排球(G)",
+        "list_credit": "1",
+        "list_lecturer": "邱榮貞",
+        "list_type": "管制必修",
+        "list_field_class": "四技控晶二甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "體育生活(四)：有氧舞蹈(G)",
+        "list_credit": "1",
+        "list_lecturer": "邱懿瑩",
+        "list_type": "管制必修",
+        "list_field_class": "四技控晶二甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "體育生活(四)：桌球(G)",
+        "list_credit": "1",
+        "list_lecturer": "陳春安",
+        "list_type": "管制必修",
+        "list_field_class": "四技控晶二甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "體育生活(四)：瑜珈(G)",
+        "list_credit": "1",
+        "list_lecturer": "張雅評",
+        "list_type": "管制必修",
+        "list_field_class": "四技控晶二甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "體育生活(四)：籃球(G)",
+        "list_credit": "1",
+        "list_lecturer": "傅慧榕",
+        "list_type": "管制必修",
+        "list_field_class": "四技控晶二甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "體育生活(四)：羽球(G)",
+        "list_credit": "1",
+        "list_lecturer": "蘇素月",
+        "list_type": "管制必修",
+        "list_field_class": "四技控晶二甲等合開",
+        "list_time": "四 8 9"
+    }
+]

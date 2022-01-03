@@ -1,0 +1,154 @@
+[
+    {
+        "list_name": "CCNA認證課程(一)",
+        "list_credit": "3",
+        "list_lecturer": "黃惠苓",
+        "list_type": "選修",
+        "list_field_class": "四技資管四甲等合開",
+        "list_time": "二 4 5 6"
+    },
+    {
+        "list_name": "人工智慧",
+        "list_credit": "3",
+        "list_lecturer": "王智昊",
+        "list_type": "選修",
+        "list_field_class": "四技資管四甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "人工智慧應用",
+        "list_credit": "3",
+        "list_lecturer": "王智昊",
+        "list_type": "選修",
+        "list_field_class": "四技資管二甲等合開",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "企業資源規劃系統(A)",
+        "list_credit": "3",
+        "list_lecturer": "吳昭儀",
+        "list_type": "選修",
+        "list_field_class": "四技資管三甲等合開",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "企業資源規劃系統(B)",
+        "list_credit": "3",
+        "list_lecturer": "吳昭儀",
+        "list_type": "選修",
+        "list_field_class": "四技資管三甲等合開",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "多媒體實務與應用(A)",
+        "list_credit": "3",
+        "list_lecturer": "王博文",
+        "list_type": "選修",
+        "list_field_class": "四技資管二甲等合開",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "多媒體實務與應用(B)",
+        "list_credit": "3",
+        "list_lecturer": "王博文",
+        "list_type": "選修",
+        "list_field_class": "四技資管二甲等合開",
+        "list_time": "四 4 5 6"
+    },
+    {
+        "list_name": "無線網路安全",
+        "list_credit": "3",
+        "list_lecturer": "陳偉業",
+        "list_type": "選修",
+        "list_field_class": "四技資管四甲等合開",
+        "list_time": "一 4 5 6"
+    },
+    {
+        "list_name": "網路作業系統(A)",
+        "list_credit": "3",
+        "list_lecturer": "陳志達",
+        "list_type": "選修",
+        "list_field_class": "四技資管二甲等合開",
+        "list_time": "四 4 5 6"
+    },
+    {
+        "list_name": "網路作業系統(B)",
+        "list_credit": "3",
+        "list_lecturer": "陳志達",
+        "list_type": "選修",
+        "list_field_class": "四技資管二甲等合開",
+        "list_time": "一 5 6 7"
+    },
+    {
+        "list_name": "行動商務程式設計(A)",
+        "list_credit": "3",
+        "list_lecturer": "蘇建郡",
+        "list_type": "選修",
+        "list_field_class": "四技資管三甲等合開",
+        "list_time": "一 4 5 6"
+    },
+    {
+        "list_name": "行動商務程式設計(B)",
+        "list_credit": "3",
+        "list_lecturer": "蘇建郡",
+        "list_type": "選修",
+        "list_field_class": "四技資管三甲等合開",
+        "list_time": "四 4 5 6"
+    },
+    {
+        "list_name": "資料探勘實務(A)",
+        "list_credit": "3",
+        "list_lecturer": "黃仁鵬",
+        "list_type": "選修",
+        "list_field_class": "四技資管三甲等合開",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "資料探勘實務(B)",
+        "list_credit": "3",
+        "list_lecturer": "黃仁鵬",
+        "list_type": "選修",
+        "list_field_class": "四技資管三甲等合開",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "資管專業實習(一)",
+        "list_credit": "9",
+        "list_lecturer": "陳炳文",
+        "list_type": "管制選修",
+        "list_field_class": "四技資管四甲等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "跨平台網頁設計",
+        "list_credit": "3",
+        "list_lecturer": "陳志達",
+        "list_type": "選修",
+        "list_field_class": "四技資管三甲等合開",
+        "list_time": "四 1 2 3"
+    },
+    {
+        "list_name": "軟體工程",
+        "list_credit": "3",
+        "list_lecturer": "陳炳文",
+        "list_type": "選修",
+        "list_field_class": "四技資管四甲等合開",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "電子商務理論與實務(A)",
+        "list_credit": "3",
+        "list_lecturer": "陳垂呈",
+        "list_type": "選修",
+        "list_field_class": "四技資管三甲等合開",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "電子商務理論與實務(B)",
+        "list_credit": "3",
+        "list_lecturer": "陳垂呈",
+        "list_type": "選修",
+        "list_field_class": "四技資管三甲等合開",
+        "list_time": "二 4 5 6"
+    }
+]

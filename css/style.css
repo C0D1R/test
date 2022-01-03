@@ -1,0 +1,225 @@
+* {
+    font-family: "Helvetica", "Microsoft JhengHei";
+    padding: 0;
+    margin: 0;
+}
+.body {
+    background-color: #ffffff;
+}
+.headingoutside,
+.footer {
+    background-color: #f5f9f9;
+}
+.headingoutside {
+    height: 106px;
+}
+.headinginside {
+    height: 53px;
+    padding-top: 26.5px;
+    padding-bottom: 26.5px;
+}
+.form {
+    background-color: #ffffff;
+    height: 368px;
+    margin-top: 40px;
+}
+.datalist {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    background-color: #ffffff;
+}
+.footer {
+    height: 100px;
+}
+
+.setmid {
+    margin-left: auto;
+    margin-right: auto;
+}
+.setwidth60 {
+    width: 60%;
+}
+.setwidthpx912 {
+    width: 912px;
+}
+.setwidth82 {
+    width: 82%;
+}
+.setwidthpx1245 {
+    width: 1245px;
+}
+.setwidth100 {
+    width: 100%;
+}
+.float {
+    float: left;
+}
+.clear {
+    clear: both;
+}
+.headings1 {
+    display: block;
+    font-size: 40px;
+}
+.headings2 {
+    color: #5a5a5a;
+    font-size: 40px;
+    font-weight: normal;
+}
+.headings3 {
+    font-size: 40px;
+}
+.th,
+.thb,
+.td,
+.tdb,
+.tdbtnoutside {
+    border-top: 1px solid rgba(0,0,0,0.05);
+}
+.th,
+.thb {
+    width: 15%;
+    font-size: 16px;
+    font-weight: bold;
+    color: #6a6a6a;
+    text-align: right;
+    padding-right: 5%;
+}
+.td,
+.tdb {
+    width: 80%;
+    font-size: 16px;
+    text-align: left;
+}
+.th,
+.td {
+    height: 40px;
+    line-height: 40px;
+}
+.thb,
+.tdb {
+    height: 160px;
+}
+.thb {
+    line-height: 160px;
+}
+.tdb {
+    line-height: 40px;
+}
+.tdbtd {
+    height: 25%;
+}
+.tdbtninside {
+    font-size: 16px;
+    text-align: center;
+    height: 42px;
+    line-height: 42px;
+    margin: 20px 45%;
+    border-top: 1px solid rgba(0,0,0,0.1);
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+.tdbtnoutside {
+    height: 84px;
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+}
+.textsetmid {
+    text-align: center;
+}
+.text2,
+.text25,
+.text3 {
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+    color: #646464;
+}
+.text2 {
+    width: 48px;
+}
+.text25 {
+    width: 52px;
+}
+.text3 {
+    width: 64px;
+}
+.textbtn {
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    width: 80px;
+}
+
+#radio input[type="radio"],
+#checkbox input[type="checkbox"],
+#button input[type="button"] {
+    display: none;
+}
+#radio .round,
+#checkbox .round {
+    border-radius: 16px;
+}
+#button .round {
+    border-radius: 24px;
+}
+#radio .round,
+#checkbox .round {
+    border: 1px solid #005AB5;
+}
+#button .round {
+    border: 1px solid #0072E3;
+}
+
+#radio .button,
+#checkbox .button,
+#button .button {
+    display: inline-block;
+}
+#radio .button,
+#checkbox .button {
+    background-color: #fff;
+    margin-right: 10px;
+    color: #005AB5;
+}
+#button .button {
+    background-color: #0072E3;
+    color: #fff;
+}
+
+#radio .button:hover,
+#checkbox .button:hover {
+    background-color: #46A3FF;
+    cursor: pointer;
+    color: #fff;
+}
+#button .button:hover {
+    background-color: #005AB5;
+    cursor: pointer;
+}
+
+#radio input[type="radio"]:checked + .button,
+#checkbox input[type="checkbox"]:checked + .button {
+    border: 1px solid #0072E3;
+    background-color: #0072E3;
+    color: #fff;
+}
+#button input[type="button"]:active + .button {
+    border: 1px solid #003D79;
+    background-color: #003D79;
+    color: #fff;
+}
+
+.datalistlith,
+.datalistli {
+    height: 60px;
+    line-height: 60px;
+    text-align: left;
+    font-size: 16px;
+}
+.datalistlith {
+    font-weight: bold;
+    color: #333;
+}
+.datalistli {
+    border-top: 1px solid rgba(0,0,0,0.1);
+    color: #333;
+}

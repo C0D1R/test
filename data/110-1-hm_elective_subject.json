@@ -1,0 +1,146 @@
+[
+    {
+        "list_name": "世界飲食文化",
+        "list_credit": "2",
+        "list_lecturer": "施慧雯",
+        "list_type": "選修",
+        "list_field_class": "四技餐旅三乙",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "創意料理製作",
+        "list_credit": "3",
+        "list_lecturer": "施慧雯",
+        "list_type": "選修",
+        "list_field_class": "四技餐旅四甲等合開",
+        "list_time": "五 1 2 3 4"
+    },
+    {
+        "list_name": "國際禮儀",
+        "list_credit": "2",
+        "list_lecturer": "余梅香",
+        "list_type": "選修",
+        "list_field_class": "四技餐旅二甲等合開",
+        "list_time": "二 1 2"
+    },
+    {
+        "list_name": "地方美食與鑑賞",
+        "list_credit": "2",
+        "list_lecturer": "施慧雯",
+        "list_type": "選修",
+        "list_field_class": "四技餐旅一甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "基礎烹調實務",
+        "list_credit": "2",
+        "list_lecturer": "胡永輝",
+        "list_type": "選修",
+        "list_field_class": "四技餐旅一甲等合開",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "感官品評",
+        "list_credit": "3",
+        "list_lecturer": "葉佳聖",
+        "list_type": "選修",
+        "list_field_class": "四技餐旅四甲等合開",
+        "list_time": "三 2 3 4"
+    },
+    {
+        "list_name": "房務作業",
+        "list_credit": "2",
+        "list_lecturer": "鄭竣丰",
+        "list_type": "選修",
+        "list_field_class": "四技餐旅二乙",
+        "list_time": "一 5 6"
+    },
+    {
+        "list_name": "房務作業",
+        "list_credit": "2",
+        "list_lecturer": "鄭竣丰",
+        "list_type": "選修",
+        "list_field_class": "四技餐旅二甲",
+        "list_time": "四 1 2"
+    },
+    {
+        "list_name": "服務業創新管理",
+        "list_credit": "3",
+        "list_lecturer": "劉國寧",
+        "list_type": "選修",
+        "list_field_class": "四技餐旅四甲等合開",
+        "list_time": "一 6 7 8"
+    },
+    {
+        "list_name": "渡假旅館經營管理",
+        "list_credit": "2",
+        "list_lecturer": "梁仲正",
+        "list_type": "選修",
+        "list_field_class": "四技餐旅三乙",
+        "list_time": "四 7 8"
+    },
+    {
+        "list_name": "菜單設計與成本控制",
+        "list_credit": "3",
+        "list_lecturer": "蘇家愷",
+        "list_type": "選修",
+        "list_field_class": "四技餐旅四甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "葡萄酒學",
+        "list_credit": "3",
+        "list_lecturer": "郭朝坤",
+        "list_type": "選修",
+        "list_field_class": "四技餐旅四甲",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "葡萄酒學",
+        "list_credit": "3",
+        "list_lecturer": "郭朝坤",
+        "list_type": "選修",
+        "list_field_class": "四技餐旅四乙",
+        "list_time": "四 5 6 7"
+    },
+    {
+        "list_name": "進階餐旅日文",
+        "list_credit": "2",
+        "list_lecturer": "鄭淑勻",
+        "list_type": "選修",
+        "list_field_class": "四技餐旅二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "餐旅法文",
+        "list_credit": "2",
+        "list_lecturer": "劉恬伶",
+        "list_type": "選修",
+        "list_field_class": "四技餐旅三乙",
+        "list_time": "一 8 9"
+    },
+    {
+        "list_name": "餐旅網路行銷",
+        "list_credit": "3",
+        "list_lecturer": "胡中州",
+        "list_type": "選修",
+        "list_field_class": "四技餐旅四甲等合開",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "餐旅設施規劃與管理",
+        "list_credit": "2",
+        "list_lecturer": "劉國寧",
+        "list_type": "選修",
+        "list_field_class": "四技餐旅三乙",
+        "list_time": "二 5 6"
+    },
+    {
+        "list_name": "餐旅財務概論",
+        "list_credit": "2",
+        "list_lecturer": "喬懷恩",
+        "list_type": "選修",
+        "list_field_class": "四技餐旅三乙",
+        "list_time": "二 7 8"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "list_name": "3D特效設計",
+        "list_credit": "3",
+        "list_lecturer": "翟清雄",
+        "list_type": "選修",
+        "list_field_class": "四技動畫三甲",
+        "list_time": "一 4 5 6"
+    },
+    {
+        "list_name": "3D角色設定與控制",
+        "list_credit": "3",
+        "list_lecturer": "高逸峯",
+        "list_type": "選修",
+        "list_field_class": "四技動畫二甲",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "3D電腦繪圖",
+        "list_credit": "3",
+        "list_lecturer": "徐文俊",
+        "list_type": "選修",
+        "list_field_class": "四技商設二甲",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "互動介面設計",
+        "list_credit": "3",
+        "list_lecturer": "黃于珊",
+        "list_type": "選修",
+        "list_field_class": "四技商設二甲",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "停格動畫設計",
+        "list_credit": "3",
+        "list_lecturer": "劉千凡",
+        "list_type": "選修",
+        "list_field_class": "四技動畫一甲",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "創意文化商品企劃",
+        "list_credit": "3",
+        "list_lecturer": "林佳駿",
+        "list_type": "選修",
+        "list_field_class": "四技創設二甲",
+        "list_time": "四 4 5 6"
+    },
+    {
+        "list_name": "創意生活設計實務",
+        "list_credit": "3",
+        "list_lecturer": "陳一夫",
+        "list_type": "選修",
+        "list_field_class": "四技創設三甲",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "動畫商品開發",
+        "list_credit": "3",
+        "list_lecturer": "劉千凡",
+        "list_type": "選修",
+        "list_field_class": "四技動畫四甲",
+        "list_time": "五 2 3 4"
+    },
+    {
+        "list_name": "包裝概論",
+        "list_credit": "2",
+        "list_lecturer": "楊美維",
+        "list_type": "選修",
+        "list_field_class": "四技商設一甲",
+        "list_time": "五 2 3"
+    },
+    {
+        "list_name": "包裝設計實務",
+        "list_credit": "3",
+        "list_lecturer": "黃綝怡",
+        "list_type": "選修",
+        "list_field_class": "四技商設二甲",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "基礎3D動畫",
+        "list_credit": "3",
+        "list_lecturer": "高逸峯",
+        "list_type": "選修",
+        "list_field_class": "四技動畫一甲",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "實驗動畫",
+        "list_credit": "3",
+        "list_lecturer": "李婉貞",
+        "list_type": "選修",
+        "list_field_class": "四技動畫二甲",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "實驗繪畫",
+        "list_credit": "2",
+        "list_lecturer": "楊美維",
+        "list_type": "選修",
+        "list_field_class": "四技商設二甲",
+        "list_time": "二 5 6"
+    },
+    {
+        "list_name": "廣告設計實務",
+        "list_credit": "3",
+        "list_lecturer": "胡庭耀",
+        "list_type": "選修",
+        "list_field_class": "四技商設三甲",
+        "list_time": "二 4 5 6"
+    },
+    {
+        "list_name": "影片剪輯與特效",
+        "list_credit": "3",
+        "list_lecturer": "許榮峰",
+        "list_type": "選修",
+        "list_field_class": "四技商設三甲",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "故事與文案設計",
+        "list_credit": "2",
+        "list_lecturer": "吳亭誼",
+        "list_type": "選修",
+        "list_field_class": "四技創設一甲",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "數位動畫與特效",
+        "list_credit": "3",
+        "list_lecturer": "李婉貞",
+        "list_type": "選修",
+        "list_field_class": "四技動畫三甲",
+        "list_time": "四 3 4 5"
+    },
+    {
+        "list_name": "數位拍攝與剪輯",
+        "list_credit": "3",
+        "list_lecturer": "蔡銘益",
+        "list_type": "選修",
+        "list_field_class": "四技產設二甲等合開",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "文化商品開發實務",
+        "list_credit": "3",
+        "list_lecturer": "林佳駿",
+        "list_type": "選修",
+        "list_field_class": "四技創設三甲",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "模型製作",
+        "list_credit": "3",
+        "list_lecturer": "蘇沛琪",
+        "list_type": "選修",
+        "list_field_class": "四技創設二甲",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "空間場域電腦繪圖",
+        "list_credit": "3",
+        "list_lecturer": "蘇沛琪",
+        "list_type": "選修",
+        "list_field_class": "四技創設二甲",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "編輯與印前作業",
+        "list_credit": "2",
+        "list_lecturer": "邱昭榮",
+        "list_type": "選修",
+        "list_field_class": "四技商設三甲",
+        "list_time": "一 5 6"
+    },
+    {
+        "list_name": "複合媒材與結構",
+        "list_credit": "3",
+        "list_lecturer": "劉秋雪",
+        "list_type": "選修",
+        "list_field_class": "四技創設二甲",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "設計溝通實務",
+        "list_credit": "3",
+        "list_lecturer": "黃綝怡",
+        "list_type": "選修",
+        "list_field_class": "四技商設四甲",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "設計溝通實務",
+        "list_credit": "3",
+        "list_lecturer": "童鼎鈞",
+        "list_type": "選修",
+        "list_field_class": "四技創設四甲",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "跨媒體設計",
+        "list_credit": "3",
+        "list_lecturer": "陳姿汝",
+        "list_type": "選修",
+        "list_field_class": "四技商設四甲",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "跨領域設計實務",
+        "list_credit": "2",
+        "list_lecturer": "賴孟玲",
+        "list_type": "選修",
+        "list_field_class": "四技創設三甲",
+        "list_time": "三 2 3"
+    },
+    {
+        "list_name": "進階動畫場景設計",
+        "list_credit": "3",
+        "list_lecturer": "李雅雪",
+        "list_type": "選修",
+        "list_field_class": "四技動畫三甲",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "進階數位2D原動畫技巧",
+        "list_credit": "3",
+        "list_lecturer": "林孟欣",
+        "list_type": "選修",
+        "list_field_class": "四技動畫二甲",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "類型電影賞析",
+        "list_credit": "3",
+        "list_lecturer": "李雅雪",
+        "list_type": "選修",
+        "list_field_class": "四技動畫四甲",
+        "list_time": "五 5 6 7"
+    }
+]

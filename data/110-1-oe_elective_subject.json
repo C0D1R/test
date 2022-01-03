@@ -1,0 +1,114 @@
+[
+    {
+        "list_name": "光電實務校外實習",
+        "list_credit": "10",
+        "list_lecturer": "張勝雄",
+        "list_type": "管制選修",
+        "list_field_class": "四技光電四甲等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "基礎光學實習",
+        "list_credit": "2",
+        "list_lecturer": "康智傑",
+        "list_type": "選修",
+        "list_field_class": "四技光電三甲",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "基礎光學實習",
+        "list_credit": "2",
+        "list_lecturer": "林正峰",
+        "list_type": "選修",
+        "list_field_class": "四技光電三乙",
+        "list_time": "五 2 3 4"
+    },
+    {
+        "list_name": "基礎光學設計實務",
+        "list_credit": "2",
+        "list_lecturer": "康智傑",
+        "list_type": "選修",
+        "list_field_class": "四技光電四甲等合開",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "太陽能與固態照明實習",
+        "list_credit": "2",
+        "list_lecturer": "高至誠",
+        "list_type": "選修",
+        "list_field_class": "四技光電二乙",
+        "list_time": "二 6 7 8"
+    },
+    {
+        "list_name": "應用電子學實務",
+        "list_credit": "2",
+        "list_lecturer": "吳坤憲",
+        "list_type": "選修",
+        "list_field_class": "四技光電四甲等合開",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "物理實驗",
+        "list_credit": "2",
+        "list_lecturer": "吳文端",
+        "list_type": "選修",
+        "list_field_class": "四技光電一甲",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "積體電路封裝",
+        "list_credit": "3",
+        "list_lecturer": "涂瑞清",
+        "list_type": "選修",
+        "list_field_class": "四技光電四甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "積體電路製程",
+        "list_credit": "3",
+        "list_lecturer": "鄭錫恩",
+        "list_type": "選修",
+        "list_field_class": "四技光電三甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "職場專業英文",
+        "list_credit": "2",
+        "list_lecturer": "吳文端",
+        "list_type": "選修",
+        "list_field_class": "四技光電四甲",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "職場專業英文",
+        "list_credit": "2",
+        "list_lecturer": "吳文端",
+        "list_type": "選修",
+        "list_field_class": "四技光電四乙",
+        "list_time": "一 5 6"
+    },
+    {
+        "list_name": "電腦輔助光學設計實習",
+        "list_credit": "2",
+        "list_lecturer": "康智傑",
+        "list_type": "選修",
+        "list_field_class": "四技光電三甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "顯示元件設計實務",
+        "list_credit": "2",
+        "list_lecturer": "許進明",
+        "list_type": "選修",
+        "list_field_class": "四技光電四甲等合開",
+        "list_time": "二 6 7 8"
+    },
+    {
+        "list_name": "高等半導體元件物理",
+        "list_credit": "3",
+        "list_lecturer": "鄒文正",
+        "list_type": "選修",
+        "list_field_class": "四技光電三甲等合開",
+        "list_time": "四 2 3 4"
+    }
+]

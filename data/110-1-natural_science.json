@@ -1,0 +1,154 @@
+[
+    {
+        "list_name": "中醫美容",
+        "list_credit": "3",
+        "list_lecturer": "施景中",
+        "list_type": "分類通識必修",
+        "list_field_class": "自然科學領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "健康產業與樂活產業",
+        "list_credit": "3",
+        "list_lecturer": "李國陽",
+        "list_type": "分類通識必修",
+        "list_field_class": "自然科學領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "健康素養與大數據分析",
+        "list_credit": "3",
+        "list_lecturer": "彭巧珍、劉毓芬",
+        "list_type": "分類通識必修",
+        "list_field_class": "自然科學領域",
+        "list_time": "五 7 8 9"
+    },
+    {
+        "list_name": "壓力與健康",
+        "list_credit": "3",
+        "list_lecturer": "蘇春霖",
+        "list_type": "分類通識必修",
+        "list_field_class": "自然科學領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "星空的科學(A)",
+        "list_credit": "3",
+        "list_lecturer": "戴守煌",
+        "list_type": "分類通識必修",
+        "list_field_class": "自然科學領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "星空的科學(B)",
+        "list_credit": "3",
+        "list_lecturer": "戴守煌",
+        "list_type": "分類通識必修",
+        "list_field_class": "自然科學領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "植物芳療與在地生活(A)",
+        "list_credit": "3",
+        "list_lecturer": "沈雅琦",
+        "list_type": "分類通識必修",
+        "list_field_class": "自然科學領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "植物芳療與在地生活(B)",
+        "list_credit": "3",
+        "list_lecturer": "沈雅琦",
+        "list_type": "分類通識必修",
+        "list_field_class": "自然科學領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "無障礙生活與環境",
+        "list_credit": "3",
+        "list_lecturer": "王鈺霖",
+        "list_type": "分類通識必修",
+        "list_field_class": "自然科學領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "環境變遷與永續發展",
+        "list_credit": "3",
+        "list_lecturer": "李國陽",
+        "list_type": "分類通識必修",
+        "list_field_class": "自然科學領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "生命科學概論",
+        "list_credit": "3",
+        "list_lecturer": "李國陽",
+        "list_type": "分類通識必修",
+        "list_field_class": "自然科學領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "疾病與醫療(A)",
+        "list_credit": "3",
+        "list_lecturer": "王麟玉",
+        "list_type": "分類通識必修",
+        "list_field_class": "自然科學領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "疾病與醫療(B)",
+        "list_credit": "3",
+        "list_lecturer": "王哲川",
+        "list_type": "分類通識必修",
+        "list_field_class": "自然科學領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "疾病與醫療(C)",
+        "list_credit": "3",
+        "list_lecturer": "謝宛婷",
+        "list_type": "分類通識必修",
+        "list_field_class": "自然科學領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "科學之旅",
+        "list_credit": "3",
+        "list_lecturer": "戴守煌",
+        "list_type": "分類通識必修",
+        "list_field_class": "自然科學領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "科技與生活",
+        "list_credit": "3",
+        "list_lecturer": "李明倫",
+        "list_type": "分類通識必修",
+        "list_field_class": "自然科學領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "資訊科技與生活",
+        "list_credit": "3",
+        "list_lecturer": "謝慧瑜",
+        "list_type": "分類通識必修",
+        "list_field_class": "自然科學領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "資訊與生活",
+        "list_credit": "3",
+        "list_lecturer": "劉毓芬",
+        "list_type": "分類通識必修",
+        "list_field_class": "自然科學領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "運動與健康",
+        "list_credit": "3",
+        "list_lecturer": "方佩欣",
+        "list_type": "分類通識必修",
+        "list_field_class": "自然科學領域",
+        "list_time": "三 4 5 6"
+    }
+]

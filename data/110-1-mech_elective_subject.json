@@ -1,0 +1,370 @@
+[
+    {
+        "list_name": "Arduino程式設計與應用",
+        "list_credit": "3",
+        "list_lecturer": "劉瑞弘",
+        "list_type": "選修",
+        "list_field_class": "四技自控三甲等合開",
+        "list_time": "五 5 6 7"
+    },
+    {
+        "list_name": "人機介面設計實務",
+        "list_credit": "3",
+        "list_lecturer": "林克默",
+        "list_type": "選修",
+        "list_field_class": "四技自控三甲等合開",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "光電量測技術",
+        "list_credit": "3",
+        "list_lecturer": "劉乃上",
+        "list_type": "選修",
+        "list_field_class": "四技自控三甲等合開",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "分析實驗與數位作圖",
+        "list_credit": "3",
+        "list_lecturer": "周盈年",
+        "list_type": "選修",
+        "list_field_class": "四技奈米二甲等合開",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "創意思考",
+        "list_credit": "2",
+        "list_lecturer": "許藝菊",
+        "list_type": "選修",
+        "list_field_class": "四技奈米二甲等合開",
+        "list_time": "二 1 2"
+    },
+    {
+        "list_name": "創意性工程設計",
+        "list_credit": "3",
+        "list_lecturer": "林聰益",
+        "list_type": "選修",
+        "list_field_class": "四技奈米三甲等合開",
+        "list_time": "二 4 5 6"
+    },
+    {
+        "list_name": "圖控程式設計",
+        "list_credit": "3",
+        "list_lecturer": "沈毓泰",
+        "list_type": "選修",
+        "list_field_class": "四技自控二甲等合開",
+        "list_time": "二 4 5 6"
+    },
+    {
+        "list_name": "專利檢索與創作",
+        "list_credit": "3",
+        "list_lecturer": "吳忠春",
+        "list_type": "選修",
+        "list_field_class": "四技自控三甲等合開",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "工廠管理",
+        "list_credit": "3",
+        "list_lecturer": "曾信智",
+        "list_type": "選修",
+        "list_field_class": "四技自控四甲等合開",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "工業4.0導論",
+        "list_credit": "3",
+        "list_lecturer": "吳敏光",
+        "list_type": "選修",
+        "list_field_class": "四技自控二甲等合開",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "工業日文",
+        "list_credit": "3",
+        "list_lecturer": "楊政峰",
+        "list_type": "選修",
+        "list_field_class": "四技自控三甲等合開",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "底盤工學",
+        "list_credit": "3",
+        "list_lecturer": "張超群",
+        "list_type": "選修",
+        "list_field_class": "四技車輛二甲等合開",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "微奈米工程概論",
+        "list_credit": "3",
+        "list_lecturer": "黃東雍",
+        "list_type": "選修",
+        "list_field_class": "四技奈米一甲等合開",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "應用工程數學",
+        "list_credit": "3",
+        "list_lecturer": "李雨青",
+        "list_type": "選修",
+        "list_field_class": "四技自控三甲等合開",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "數控工具機",
+        "list_credit": "3",
+        "list_lecturer": "蘇嘉祥",
+        "list_type": "選修",
+        "list_field_class": "四技自控二甲等合開",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "智慧型感測數據分析與應用",
+        "list_credit": "3",
+        "list_lecturer": "沈毓泰",
+        "list_type": "選修",
+        "list_field_class": "四技自控四甲等合開",
+        "list_time": "二 1 2 3"
+    },
+    {
+        "list_name": "智慧製造技術",
+        "list_credit": "3",
+        "list_lecturer": "陳璟璿,戴子堯",
+        "list_type": "選修",
+        "list_field_class": "四技自控三甲等合開",
+        "list_time": "二 1 2 3"
+    },
+    {
+        "list_name": "最佳化設計",
+        "list_credit": "3",
+        "list_lecturer": "王聖禾",
+        "list_type": "選修",
+        "list_field_class": "四技自控三甲等合開",
+        "list_time": "二 1 2 3"
+    },
+    {
+        "list_name": "未來科技學",
+        "list_credit": "2",
+        "list_lecturer": "許藝菊",
+        "list_type": "選修",
+        "list_field_class": "四技自控一甲等合開",
+        "list_time": "四 7 8"
+    },
+    {
+        "list_name": "機器人應用",
+        "list_credit": "3",
+        "list_lecturer": "吳敏光",
+        "list_type": "選修",
+        "list_field_class": "四技自控三甲等合開",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "機械專業英文",
+        "list_credit": "3",
+        "list_lecturer": "許藝菊",
+        "list_type": "選修",
+        "list_field_class": "四技自控四甲等合開",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "機械技術史",
+        "list_credit": "3",
+        "list_lecturer": "林聰益",
+        "list_type": "選修",
+        "list_field_class": "四技自控一甲等合開",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "機械產業實習(一)",
+        "list_credit": "10",
+        "list_lecturer": "王聖璋",
+        "list_type": "管制選修",
+        "list_field_class": "四技自控四甲等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "機械製造",
+        "list_credit": "3",
+        "list_lecturer": "曾信智",
+        "list_type": "選修",
+        "list_field_class": "四技車輛三甲等合開",
+        "list_time": "四 4 5 6"
+    },
+    {
+        "list_name": "機械設計",
+        "list_credit": "3",
+        "list_lecturer": "瞿嘉駿",
+        "list_type": "選修",
+        "list_field_class": "四技自控三甲等合開",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "機電整合實務",
+        "list_credit": "3",
+        "list_lecturer": "王聖禾",
+        "list_type": "選修",
+        "list_field_class": "四技奈米二甲等合開",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "汽車展示與行銷",
+        "list_credit": "3",
+        "list_lecturer": "張崴縉",
+        "list_type": "管制選修",
+        "list_field_class": "四技車輛三甲等合開",
+        "list_time": "一 4 5 6"
+    },
+    {
+        "list_name": "汽車工程",
+        "list_credit": "3",
+        "list_lecturer": "張超群",
+        "list_type": "選修",
+        "list_field_class": "四技車輛四甲等合開",
+        "list_time": "二 1 2 3"
+    },
+    {
+        "list_name": "汽車新式裝備",
+        "list_credit": "3",
+        "list_lecturer": "許哲嘉",
+        "list_type": "選修",
+        "list_field_class": "四技車輛一甲等合開",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "汽車板金技術",
+        "list_credit": "3",
+        "list_lecturer": "郭聰源",
+        "list_type": "選修",
+        "list_field_class": "四技車輛二甲等合開",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "流體力學",
+        "list_credit": "3",
+        "list_lecturer": "李友竹",
+        "list_type": "選修",
+        "list_field_class": "四技奈米三甲等合開",
+        "list_time": "二 1 2 3"
+    },
+    {
+        "list_name": "無塵室技術應用",
+        "list_credit": "3",
+        "list_lecturer": "魏慶華",
+        "list_type": "選修",
+        "list_field_class": "四技自控三甲等合開",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "產品設計及模流分析",
+        "list_credit": "3",
+        "list_lecturer": "劉佳營",
+        "list_type": "選修",
+        "list_field_class": "四技自控四甲等合開",
+        "list_time": "四 4 5 6"
+    },
+    {
+        "list_name": "產業概況與技術需求",
+        "list_credit": "3",
+        "list_lecturer": "楊政峰",
+        "list_type": "選修",
+        "list_field_class": "四技自控四甲等合開",
+        "list_time": "五 2 3 4"
+    },
+    {
+        "list_name": "精密機械概論",
+        "list_credit": "3",
+        "list_lecturer": "陳宥任",
+        "list_type": "選修",
+        "list_field_class": "四技奈米一甲等合開",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "職場體驗與證照訓練",
+        "list_credit": "3",
+        "list_lecturer": "吳忠春",
+        "list_type": "選修",
+        "list_field_class": "四技自控四甲等合開",
+        "list_time": "五 7 8 9"
+    },
+    {
+        "list_name": "自動化工具機設計與系統整合",
+        "list_credit": "3",
+        "list_lecturer": "蘇嘉祥",
+        "list_type": "選修",
+        "list_field_class": "四技自控三甲等合開",
+        "list_time": "二 1 2 3"
+    },
+    {
+        "list_name": "製造聯網整合技術",
+        "list_credit": "3",
+        "list_lecturer": "蕭育仁",
+        "list_type": "選修",
+        "list_field_class": "四技自控四甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "車輛動力學",
+        "list_credit": "3",
+        "list_lecturer": "張超群",
+        "list_type": "選修",
+        "list_field_class": "四技車輛四甲等合開",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "車輛工程概論",
+        "list_credit": "3",
+        "list_lecturer": "張明豪",
+        "list_type": "選修",
+        "list_field_class": "四技車輛一甲等合開",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "進階氣壓控制技術",
+        "list_credit": "3",
+        "list_lecturer": "詹超",
+        "list_type": "選修",
+        "list_field_class": "四技自控三甲等合開",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "金屬材料與熱處理技術",
+        "list_credit": "3",
+        "list_lecturer": "吳忠春",
+        "list_type": "選修",
+        "list_field_class": "四技自控四甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "電腦輔助工程分析",
+        "list_credit": "3",
+        "list_lecturer": "呂金塗",
+        "list_type": "選修",
+        "list_field_class": "四技自控四甲等合開",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "電腦輔助製造",
+        "list_credit": "3",
+        "list_lecturer": "蘇嘉祥",
+        "list_type": "選修",
+        "list_field_class": "四技車輛二甲等合開",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "電腦輔助設計",
+        "list_credit": "3",
+        "list_lecturer": "劉佳營",
+        "list_type": "選修",
+        "list_field_class": "四技自控三甲等合開",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "風力發電系統應用實務",
+        "list_credit": "3",
+        "list_lecturer": "劉瑞弘",
+        "list_type": "選修",
+        "list_field_class": "四技自控三甲等合開",
+        "list_time": "五 1 2 3"
+    }
+]

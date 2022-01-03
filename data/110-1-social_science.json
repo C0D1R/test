@@ -1,0 +1,186 @@
+[
+    {
+        "list_name": "全球地緣戰略",
+        "list_credit": "3",
+        "list_lecturer": "蔡漢生",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "商務談判",
+        "list_credit": "3",
+        "list_lecturer": "郭俊麟",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "城市博物館的探索",
+        "list_credit": "3",
+        "list_lecturer": "連子儀",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "五 7 8 9"
+    },
+    {
+        "list_name": "快樂幸福學",
+        "list_credit": "3",
+        "list_lecturer": "張嘉祐",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "五 7 8 9"
+    },
+    {
+        "list_name": "性別關係(A)",
+        "list_credit": "3",
+        "list_lecturer": "蕭金土",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "性別關係(B)",
+        "list_credit": "3",
+        "list_lecturer": "邱瀅儒",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "投資與理財(A)",
+        "list_credit": "3",
+        "list_lecturer": "林容萱",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "投資與理財(B)",
+        "list_credit": "3",
+        "list_lecturer": "林容萱",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "日本流行產業(A)",
+        "list_credit": "3",
+        "list_lecturer": "李詠青",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "日本流行產業(B)",
+        "list_credit": "3",
+        "list_lecturer": "李詠青",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "時事法律",
+        "list_credit": "3",
+        "list_lecturer": "邱涵永",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "智慧財產權法",
+        "list_credit": "3",
+        "list_lecturer": "邱涵永",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "法律理論與案例探討(A)",
+        "list_credit": "3",
+        "list_lecturer": "郭炳昌",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "法律理論與案例探討(B)",
+        "list_credit": "3",
+        "list_lecturer": "郭炳昌",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "法律與犯罪",
+        "list_credit": "3",
+        "list_lecturer": "柯鴻章",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "法律與生活素養",
+        "list_credit": "3",
+        "list_lecturer": "郭炳昌",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "消費文化與社會",
+        "list_credit": "3",
+        "list_lecturer": "林佳蓉",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "生活法律大補帖(A)",
+        "list_credit": "3",
+        "list_lecturer": "曾雅真",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "生活法律大補帖(B)",
+        "list_credit": "3",
+        "list_lecturer": "曾雅真",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "生涯發展與規劃實務",
+        "list_credit": "3",
+        "list_lecturer": "鄭美麗",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "社會學的想像",
+        "list_credit": "3",
+        "list_lecturer": "林佳蓉",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "管理與領導",
+        "list_credit": "3",
+        "list_lecturer": "沈明正",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "經濟與生活",
+        "list_credit": "3",
+        "list_lecturer": "曾盛杰",
+        "list_type": "分類通識必修",
+        "list_field_class": "社會科學領域",
+        "list_time": "三 4 5 6"
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "list_name": "ERP配銷模組",
+        "list_credit": "3",
+        "list_lecturer": "張嘉華",
+        "list_type": "選修",
+        "list_field_class": "四技電商二甲等合開",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "ISO9000品質管理系統",
+        "list_credit": "3",
+        "list_lecturer": "王鵬森",
+        "list_type": "選修",
+        "list_field_class": "四技工管三甲等合開",
+        "list_time": "五 2 3 4"
+    },
+    {
+        "list_name": "人力資源管理",
+        "list_credit": "3",
+        "list_lecturer": "邱清爐",
+        "list_type": "選修",
+        "list_field_class": "四技電商四甲等合開",
+        "list_time": "二 6 7 8"
+    },
+    {
+        "list_name": "企業研究方法",
+        "list_credit": "3",
+        "list_lecturer": "田倜宇",
+        "list_type": "選修",
+        "list_field_class": "四技電商三甲",
+        "list_time": "一 6 7 8"
+    },
+    {
+        "list_name": "企業研究方法",
+        "list_credit": "3",
+        "list_lecturer": "田倜宇",
+        "list_type": "選修",
+        "list_field_class": "四技電商三乙",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "供應鏈管理",
+        "list_credit": "3",
+        "list_lecturer": "楊金山",
+        "list_type": "選修",
+        "list_field_class": "四技工管三乙",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "供應鏈管理",
+        "list_credit": "3",
+        "list_lecturer": "楊金山",
+        "list_type": "選修",
+        "list_field_class": "四技工管三甲",
+        "list_time": "一 6 7 8"
+    },
+    {
+        "list_name": "創意與創新管理",
+        "list_credit": "3",
+        "list_lecturer": "曾碧卿",
+        "list_type": "選修",
+        "list_field_class": "四技電商二甲等合開",
+        "list_time": "四 5 6 7"
+    },
+    {
+        "list_name": "創意與創新管理",
+        "list_credit": "3",
+        "list_lecturer": "曾碧卿",
+        "list_type": "選修",
+        "list_field_class": "四技工管二甲等合開",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "創業管理",
+        "list_credit": "3",
+        "list_lecturer": "甘兆欽",
+        "list_type": "選修",
+        "list_field_class": "四技電商三乙",
+        "list_time": "一 6 7 8"
+    },
+    {
+        "list_name": "創業管理",
+        "list_credit": "3",
+        "list_lecturer": "甘兆欽",
+        "list_type": "選修",
+        "list_field_class": "四技電商三甲",
+        "list_time": "二 6 7 8"
+    },
+    {
+        "list_name": "存貨管理",
+        "list_credit": "3",
+        "list_lecturer": "楊金山",
+        "list_type": "選修",
+        "list_field_class": "四技工管四甲等合開",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "專案管理",
+        "list_credit": "3",
+        "list_lecturer": "林高正",
+        "list_type": "選修",
+        "list_field_class": "四技工管三甲等合開",
+        "list_time": "四 6 7 8"
+    },
+    {
+        "list_name": "影像編修繪圖",
+        "list_credit": "3",
+        "list_lecturer": "李振宇,陳淑玲",
+        "list_type": "選修",
+        "list_field_class": "四技電商三甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "微積分",
+        "list_credit": "3",
+        "list_lecturer": "黃振勝",
+        "list_type": "選修",
+        "list_field_class": "四技電商一甲",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "機率論",
+        "list_credit": "3",
+        "list_lecturer": "陳忠和",
+        "list_type": "選修",
+        "list_field_class": "四技工管二甲等合開",
+        "list_time": "四 6 7 8"
+    },
+    {
+        "list_name": "統計套裝軟體",
+        "list_credit": "3",
+        "list_lecturer": "田倜宇",
+        "list_type": "選修",
+        "list_field_class": "四技工管三甲等合開",
+        "list_time": "四 6 7 8"
+    },
+    {
+        "list_name": "統計資料分析",
+        "list_credit": "3",
+        "list_lecturer": "顏慧",
+        "list_type": "選修",
+        "list_field_class": "四技工管三甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "網頁繪圖和色彩設計",
+        "list_credit": "3",
+        "list_lecturer": "丁介人",
+        "list_type": "選修",
+        "list_field_class": "四技電商二甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "藍海策略",
+        "list_credit": "3",
+        "list_lecturer": "甘兆欽",
+        "list_type": "選修",
+        "list_field_class": "四技工管二甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "行銷管理",
+        "list_credit": "3",
+        "list_lecturer": "曾碧卿",
+        "list_type": "選修",
+        "list_field_class": "四技工管二甲等合開",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "製造業成本會計",
+        "list_credit": "3",
+        "list_lecturer": "王鴻鈞",
+        "list_type": "選修",
+        "list_field_class": "四技工管二甲等合開",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "財務管理",
+        "list_credit": "3",
+        "list_lecturer": "王鴻鈞",
+        "list_type": "選修",
+        "list_field_class": "四技電商三甲等合開",
+        "list_time": "四 6 7 8"
+    },
+    {
+        "list_name": "財務管理",
+        "list_credit": "3",
+        "list_lecturer": "葉雅倫",
+        "list_type": "選修",
+        "list_field_class": "四技工管二甲等合開",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "電子商務金流概論",
+        "list_credit": "3",
+        "list_lecturer": "葉雅倫",
+        "list_type": "選修",
+        "list_field_class": "四技電商四甲等合開",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "非營利管理與社會企業",
+        "list_credit": "3",
+        "list_lecturer": "曾碧卿",
+        "list_type": "選修",
+        "list_field_class": "四技工管四甲等合開",
+        "list_time": "五 2 3 4"
+    },
+    {
+        "list_name": "顧客關係管理",
+        "list_credit": "3",
+        "list_lecturer": "廖顯宗",
+        "list_type": "選修",
+        "list_field_class": "四技電商二乙",
+        "list_time": "五 2 3 4"
+    },
+    {
+        "list_name": "顧客關係管理",
+        "list_credit": "3",
+        "list_lecturer": "廖顯宗",
+        "list_type": "選修",
+        "list_field_class": "四技電商二甲",
+        "list_time": "四 2 3 4"
+    }
+]

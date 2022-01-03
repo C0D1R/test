@@ -1,31 +1,31 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>一分鐘找到各系課程｜STUST－課程查詢系統</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
-        <meta name="keywords" content="大學, 科大, 南台, 選課">
-        <meta name="description" content="查詢課程不再是一件繁瑣的事！「STUST－課程查詢系統」整理了所有科系的課程，藉由圖形化的搜尋介面，幫助你迅速找到想心目中的課程。">
-        <meta name="canonical" href="https://c0d1r.github.io/STUST-timetable/index.html">
-        <meta name="author" content="C0D1R">
-
-        <meta property="og:url" content="https://c0d1r.github.io/STUST-timetable/index.html">
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="STUST－課程查詢系統">
-        <meta property="og:description" content="查詢課程不再是一件繁瑣的事！「STUST－課程查詢系統」整理了所有科系的課程，藉由圖形化的搜尋介面，幫助你迅速地找到心目中的課程。">
-        <meta property="og:image" content="https://c0d1r.github.io/STUST-timetable/img/og.png">
-        <meta property="og:image:secure_url" content="https://c0d1r.github.io/STUST-timetable/img/og.png">
-        <meta property="og:site_name" content="STUST－課程查詢系統">
-        
-        <meta name="twitter:card" content="">
-        <meta name="twitter:site" content="">
-        
-        <meta property="fb:app_id" content="">
-        
-        <link rel="stylesheet" href="./css/style.css">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    </head>
-    <body class="body">
+<head>
+    <title>title1</title>
+    <style>
+        * {
+            margin: none;
+            padding: none;
+            list-style: none;
+        }
+        .wrap {
+            width: 100%;
+            max-width: 1400px;
+            margin: auto;
+        }
+        .item {
+            background-color: #ffa;
+            margin: 0px 10px 20px;
+            padding: 10px;
+        }
+        @media screen and (min-width: 768px) {
+            .wrap {
+                display: flex;
+            }   
+        }
+    </style>
+    
+</head>
+<body>
         <div class="setwidth100 headingoutside">
             <div class="setmid setwidth82 headinginside">
                 <h1>
@@ -184,10 +184,8 @@
 
 
             <div id="checkbox">
-                <div class="float th">
+                    <!-- inline-block -->
                     <span>課程類別</span>
-                </div>
-                <div class="float td">
                     <label>
                         <input type="checkbox" name="course_type" value="compulsory_subject">
                         <span class="round button text2">必修</span>
@@ -200,8 +198,6 @@
                         <input type="checkbox" name="course_type" value="general_elective_subject">
                         <span class="round button text2">通識</span>
                     </label>
-                </div>
-                <div class="clear"></div>
             </div>
 
 
@@ -217,6 +213,31 @@
         </div>
         <div id="list" class="setmid setwidthpx1245 datalist"></div>
         <div class="setwidth100 footer"></div>
-        <script src="./js/script.js"></script>
-    </body>
-</html>
+    <div id="list">1</div>
+    <script>
+        alert("START");
+        function DataTransferTypeGET() {
+            const lang = document.getElementsByName("language");
+            const sem = document.getElementsByName("semester");
+            const dept = document.getElementsByName("department");
+            const courty = document.getElementsByName("course_type");
+            $('#list').html("");
+            $.ajax({
+                type: 'GET',
+                url: var_url,
+                data: {
+                    language: lang,
+                    semester: sem,
+                    department: dept,
+                    coursetype: courty
+                },
+                success: function(msg) {
+                    alert("SUCCESS");
+                    $('#list').html(msg);
+                }
+            });
+        }
+        var var_url = "https://script.google.com/macros/s/AKfycbxlIfOf6bRKlkDQmhmPY2l8rCl0UNOCdQb2jhjbnJ8Dh1jqCnxVzlepIMrwsxU8_efK3g/exec";
+        DataTransferTypeGET();
+    </script>
+</body>

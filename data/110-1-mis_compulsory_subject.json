@@ -1,0 +1,770 @@
+[
+    {
+        "list_name": "中文閱讀與表達(一)",
+        "list_credit": "2",
+        "list_lecturer": "蔡蕙如",
+        "list_type": "必修",
+        "list_field_class": "四技資管一乙",
+        "list_time": "五 2 3"
+    },
+    {
+        "list_name": "中文閱讀與表達(一)",
+        "list_credit": "2",
+        "list_lecturer": "莊秋君",
+        "list_type": "必修",
+        "list_field_class": "四技資管一丙",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "中文閱讀與表達(一)",
+        "list_credit": "2",
+        "list_lecturer": "陳金英",
+        "list_type": "必修",
+        "list_field_class": "四技資管一甲",
+        "list_time": "四 3 4"
+    },
+    {
+        "list_name": "企業倫理",
+        "list_credit": "2",
+        "list_lecturer": "汪美香",
+        "list_type": "必修",
+        "list_field_class": "四技資管四甲",
+        "list_time": "二 2 3"
+    },
+    {
+        "list_name": "企業倫理",
+        "list_credit": "2",
+        "list_lecturer": "汪美香",
+        "list_type": "必修",
+        "list_field_class": "四技資管四乙",
+        "list_time": "二 7 8"
+    },
+    {
+        "list_name": "企業倫理",
+        "list_credit": "2",
+        "list_lecturer": "汪美香",
+        "list_type": "必修",
+        "list_field_class": "四技資管四丙",
+        "list_time": "四 6 7"
+    },
+    {
+        "list_name": "企業概論",
+        "list_credit": "3",
+        "list_lecturer": "吳盛",
+        "list_type": "必修",
+        "list_field_class": "四技資管一甲",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "企業概論",
+        "list_credit": "3",
+        "list_lecturer": "吳盛",
+        "list_type": "必修",
+        "list_field_class": "四技資管一乙",
+        "list_time": "一 5 6 7"
+    },
+    {
+        "list_name": "企業概論",
+        "list_credit": "3",
+        "list_lecturer": "吳盛",
+        "list_type": "必修",
+        "list_field_class": "四技資管一丙",
+        "list_time": "四 5 6 7"
+    },
+    {
+        "list_name": "創意思考",
+        "list_credit": "2",
+        "list_lecturer": "江蕙民",
+        "list_type": "必修",
+        "list_field_class": "四技資管一丙",
+        "list_time": "一 5 6"
+    },
+    {
+        "list_name": "創意思考",
+        "list_credit": "2",
+        "list_lecturer": "江蕙民",
+        "list_type": "必修",
+        "list_field_class": "四技資管一甲",
+        "list_time": "四 6 7"
+    },
+    {
+        "list_name": "創意思考",
+        "list_credit": "2",
+        "list_lecturer": "江蕙民",
+        "list_type": "必修",
+        "list_field_class": "四技資管一乙",
+        "list_time": "一 8 9"
+    },
+    {
+        "list_name": "外語能力檢定",
+        "list_credit": "0",
+        "list_lecturer": "李政源",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "陳炳文",
+        "list_type": "必修",
+        "list_field_class": "四技資管一丙",
+        "list_time": "二 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "吳盛",
+        "list_type": "必修",
+        "list_field_class": "四技資管二甲",
+        "list_time": "二 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "黃仁鵬",
+        "list_type": "必修",
+        "list_field_class": "四技資管一乙",
+        "list_time": "二 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "王派洲",
+        "list_type": "必修",
+        "list_field_class": "四技資管一甲",
+        "list_time": "二 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "陳偉業",
+        "list_type": "必修",
+        "list_field_class": "四技資管二乙等合開",
+        "list_time": "二 6"
+    },
+    {
+        "list_name": "專業英文",
+        "list_credit": "2",
+        "list_lecturer": "王慶昌",
+        "list_type": "必修",
+        "list_field_class": "四技資管三丙",
+        "list_time": "四 7 8"
+    },
+    {
+        "list_name": "專業英文",
+        "list_credit": "2",
+        "list_lecturer": "何啟銘",
+        "list_type": "必修",
+        "list_field_class": "四技資管三乙",
+        "list_time": "二 2 3"
+    },
+    {
+        "list_name": "專業英文",
+        "list_credit": "2",
+        "list_lecturer": "方信普",
+        "list_type": "必修",
+        "list_field_class": "四技資管三甲",
+        "list_time": "五 7 8"
+    },
+    {
+        "list_name": "專業證照",
+        "list_credit": "0",
+        "list_lecturer": "汪美香",
+        "list_type": "自選必修",
+        "list_field_class": "二技資管延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "專題競賽",
+        "list_credit": "0",
+        "list_lecturer": "汪美香",
+        "list_type": "自選必修",
+        "list_field_class": "二技資管延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "王派洲",
+        "list_type": "必修",
+        "list_field_class": "四技資管一甲",
+        "list_time": "二 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "陳炳文",
+        "list_type": "必修",
+        "list_field_class": "四技資管一丙",
+        "list_time": "二 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "陳偉業",
+        "list_type": "必修",
+        "list_field_class": "四技資管二乙等合開",
+        "list_time": "二 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "張儀興",
+        "list_type": "必修",
+        "list_field_class": "四技資管三乙",
+        "list_time": "二 1"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "王鼎超",
+        "list_type": "必修",
+        "list_field_class": "四技資管四甲",
+        "list_time": "二 1"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "黃仁鵬",
+        "list_type": "必修",
+        "list_field_class": "四技資管一乙",
+        "list_time": "二 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "吳昭儀",
+        "list_type": "必修",
+        "list_field_class": "四技資管四乙",
+        "list_time": "四 1"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "吳盛",
+        "list_type": "必修",
+        "list_field_class": "四技資管二甲",
+        "list_time": "二 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "陳志達",
+        "list_type": "必修",
+        "list_field_class": "四技資管三甲",
+        "list_time": "四 7"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "王派洲",
+        "list_type": "必修",
+        "list_field_class": "四技資管四丙",
+        "list_time": "二 7"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "黃惠苓",
+        "list_type": "必修",
+        "list_field_class": "四技資管三丙",
+        "list_time": "二 3"
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技資管二甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技資管三乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技資管二丙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技資管二乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技資管三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技資管一丙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技資管四乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技資管三丙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技資管一甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技資管四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "自選必修",
+        "list_field_class": "二技企管延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技資管一乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技資管四丙",
+        "list_time": ""
+    },
+    {
+        "list_name": "服務學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "黃仁鵬",
+        "list_type": "必修",
+        "list_field_class": "四技資管一乙",
+        "list_time": "一 4"
+    },
+    {
+        "list_name": "服務學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "陳炳文",
+        "list_type": "必修",
+        "list_field_class": "四技資管一丙",
+        "list_time": "四 4"
+    },
+    {
+        "list_name": "服務學習(一)",
+        "list_credit": "1",
+        "list_lecturer": "王派洲",
+        "list_type": "必修",
+        "list_field_class": "四技資管一甲",
+        "list_time": "一 5"
+    },
+    {
+        "list_name": "物件導向程式設計(Java)",
+        "list_credit": "3",
+        "list_lecturer": "邱顯光",
+        "list_type": "必修",
+        "list_field_class": "四技資管二丙",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "物件導向程式設計(Java)",
+        "list_credit": "3",
+        "list_lecturer": "邱顯光",
+        "list_type": "必修",
+        "list_field_class": "四技資管二甲",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "物件導向程式設計(Java)",
+        "list_credit": "3",
+        "list_lecturer": "邱顯光",
+        "list_type": "必修",
+        "list_field_class": "四技資管二乙",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "程式設計(一)",
+        "list_credit": "3",
+        "list_lecturer": "張儀興",
+        "list_type": "必修",
+        "list_field_class": "四技資管一丙",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "程式設計(一)",
+        "list_credit": "3",
+        "list_lecturer": "王派洲",
+        "list_type": "必修",
+        "list_field_class": "四技資管一甲",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "程式設計(一)",
+        "list_credit": "3",
+        "list_lecturer": "張儀興",
+        "list_type": "必修",
+        "list_field_class": "四技資管一乙",
+        "list_time": "四 3 4 5"
+    },
+    {
+        "list_name": "管理數學",
+        "list_credit": "3",
+        "list_lecturer": "童冠燁",
+        "list_type": "必修",
+        "list_field_class": "四技資管一甲",
+        "list_time": "一 6 7 8"
+    },
+    {
+        "list_name": "管理數學",
+        "list_credit": "3",
+        "list_lecturer": "童冠燁",
+        "list_type": "必修",
+        "list_field_class": "四技資管一丙",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "管理數學",
+        "list_credit": "3",
+        "list_lecturer": "童冠燁",
+        "list_type": "必修",
+        "list_field_class": "四技資管一乙",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "統計學(一)",
+        "list_credit": "3",
+        "list_lecturer": "楊棠堯",
+        "list_type": "必修",
+        "list_field_class": "四技資管二甲",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "統計學(一)",
+        "list_credit": "3",
+        "list_lecturer": "楊棠堯",
+        "list_type": "必修",
+        "list_field_class": "四技資管二乙",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "統計學(一)",
+        "list_credit": "3",
+        "list_lecturer": "黃惠苓",
+        "list_type": "必修",
+        "list_field_class": "四技資管二丙",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "經濟學",
+        "list_credit": "3",
+        "list_lecturer": "蘇月娥",
+        "list_type": "必修",
+        "list_field_class": "四技資管二丙",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "經濟學",
+        "list_credit": "3",
+        "list_lecturer": "何啟銘",
+        "list_type": "必修",
+        "list_field_class": "四技資管二甲",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "經濟學",
+        "list_credit": "3",
+        "list_lecturer": "劉海清",
+        "list_type": "必修",
+        "list_field_class": "四技資管二乙",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "網頁程式設計",
+        "list_credit": "3",
+        "list_lecturer": "王派洲",
+        "list_type": "必修",
+        "list_field_class": "四技資管三甲",
+        "list_time": "五 4 5 6"
+    },
+    {
+        "list_name": "網頁程式設計",
+        "list_credit": "3",
+        "list_lecturer": "王派洲",
+        "list_type": "必修",
+        "list_field_class": "四技資管三丙",
+        "list_time": "一 1 2 3"
+    },
+    {
+        "list_name": "網頁程式設計",
+        "list_credit": "3",
+        "list_lecturer": "王派洲",
+        "list_type": "必修",
+        "list_field_class": "四技資管三乙",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "英文能力課程",
+        "list_credit": "3",
+        "list_lecturer": "黃麗麗",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控延修等合開",
+        "list_time": "五 7 8 9"
+    },
+    {
+        "list_name": "英語聽講實務(一)(A)",
+        "list_credit": "2",
+        "list_lecturer": "王福祥",
+        "list_type": "管制必修",
+        "list_field_class": "四技工管一甲等合開",
+        "list_time": "二 8 9"
+    },
+    {
+        "list_name": "英語聽講實務(一)(B1)",
+        "list_credit": "2",
+        "list_lecturer": "吳宜錚",
+        "list_type": "管制必修",
+        "list_field_class": "四技工管一甲等合開",
+        "list_time": "二 8 9"
+    },
+    {
+        "list_name": "英語聽講實務(一)(B2)",
+        "list_credit": "2",
+        "list_lecturer": "陳淑芬",
+        "list_type": "管制必修",
+        "list_field_class": "四技工管一甲等合開",
+        "list_time": "二 8 9"
+    },
+    {
+        "list_name": "英語聽講實務(一)(C1)",
+        "list_credit": "2",
+        "list_lecturer": "朱珊慧",
+        "list_type": "管制必修",
+        "list_field_class": "四技工管一甲等合開",
+        "list_time": "二 8 9"
+    },
+    {
+        "list_name": "英語聽講實務(一)(C2)",
+        "list_credit": "2",
+        "list_lecturer": "莊慈玟",
+        "list_type": "管制必修",
+        "list_field_class": "四技工管一甲等合開",
+        "list_time": "二 8 9"
+    },
+    {
+        "list_name": "計算機與程式設計概論",
+        "list_credit": "3",
+        "list_lecturer": "陳偉業",
+        "list_type": "必修",
+        "list_field_class": "四技資管一乙",
+        "list_time": "四 6 7 8"
+    },
+    {
+        "list_name": "計算機與程式設計概論",
+        "list_credit": "3",
+        "list_lecturer": "陳偉業",
+        "list_type": "必修",
+        "list_field_class": "四技資管一丙",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "計算機與程式設計概論",
+        "list_credit": "3",
+        "list_lecturer": "張儀興",
+        "list_type": "必修",
+        "list_field_class": "四技資管一甲",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "資料庫理論與設計",
+        "list_credit": "3",
+        "list_lecturer": "黃仁鵬",
+        "list_type": "必修",
+        "list_field_class": "四技資管二丙",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "資料庫理論與設計",
+        "list_credit": "3",
+        "list_lecturer": "王鼎超",
+        "list_type": "必修",
+        "list_field_class": "四技資管二甲",
+        "list_time": "一 1 2 3"
+    },
+    {
+        "list_name": "資料庫理論與設計",
+        "list_credit": "3",
+        "list_lecturer": "王鼎超",
+        "list_type": "必修",
+        "list_field_class": "四技資管二乙",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "資訊管理專題(二)",
+        "list_credit": "1",
+        "list_lecturer": "吳昭儀",
+        "list_type": "必修",
+        "list_field_class": "四技資管四乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "資訊管理專題(二)",
+        "list_credit": "1",
+        "list_lecturer": "吳昭儀",
+        "list_type": "自選必修",
+        "list_field_class": "二技資管延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "資訊管理專題(二)",
+        "list_credit": "1",
+        "list_lecturer": "吳昭儀",
+        "list_type": "必修",
+        "list_field_class": "四技資管四丙",
+        "list_time": ""
+    },
+    {
+        "list_name": "資訊管理專題(二)",
+        "list_credit": "1",
+        "list_lecturer": "吳昭儀",
+        "list_type": "必修",
+        "list_field_class": "四技資管四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "體育生活(一)",
+        "list_credit": "2",
+        "list_lecturer": "薛詔朧",
+        "list_type": "必修",
+        "list_field_class": "四技資管一丙",
+        "list_time": "四 1 2"
+    },
+    {
+        "list_name": "體育生活(一)",
+        "list_credit": "2",
+        "list_lecturer": "蘇素月",
+        "list_type": "必修",
+        "list_field_class": "四技資管一甲",
+        "list_time": "四 1 2"
+    },
+    {
+        "list_name": "體育生活(一)",
+        "list_credit": "2",
+        "list_lecturer": "谷淑華",
+        "list_type": "必修",
+        "list_field_class": "四技資管一乙",
+        "list_time": "四 1 2"
+    },
+    {
+        "list_name": "體育生活(三)：健身雕塑(C)",
+        "list_credit": "1",
+        "list_lecturer": "賈寶山",
+        "list_type": "自選必修",
+        "list_field_class": "四技高福二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：排球(C)",
+        "list_credit": "1",
+        "list_lecturer": "蘇素月",
+        "list_type": "自選必修",
+        "list_field_class": "四技高福二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：有氧舞蹈(C)",
+        "list_credit": "1",
+        "list_lecturer": "杜春治",
+        "list_type": "自選必修",
+        "list_field_class": "四技高福二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：桌球(C)",
+        "list_credit": "1",
+        "list_lecturer": "陳春安",
+        "list_type": "自選必修",
+        "list_field_class": "四技高福二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：游泳(C)",
+        "list_credit": "1",
+        "list_lecturer": "谷淑華",
+        "list_type": "自選必修",
+        "list_field_class": "四技高福二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：瑜珈(C)",
+        "list_credit": "1",
+        "list_lecturer": "黃鈺婷",
+        "list_type": "自選必修",
+        "list_field_class": "四技高福二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：籃球(C)",
+        "list_credit": "1",
+        "list_lecturer": "陳玉林",
+        "list_type": "自選必修",
+        "list_field_class": "四技高福二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：網球(C)",
+        "list_credit": "1",
+        "list_lecturer": "陳新福",
+        "list_type": "自選必修",
+        "list_field_class": "四技高福二甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "體育生活(三)：羽球(C)",
+        "list_credit": "1",
+        "list_lecturer": "杜珈霖",
+        "list_type": "自選必修",
+        "list_field_class": "四技高福二甲等合開",
+        "list_time": "二 3 4"
+    }
+]
