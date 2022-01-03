@@ -45,7 +45,7 @@ btn.addEventListener("click", function() {
     courtyValue = getCheckBoxValue(courty);
 
     const url = "https://script.google.com/macros/s/AKfycbxlIfOf6bRKlkDQmhmPY2l8rCl0UNOCdQb2jhjbnJ8Dh1jqCnxVzlepIMrwsxU8_efK3g/exec";
-    
+    alert("CLICK");
     (function() {
         alert("HEY GOOGLE");
         $('#list').html("");
@@ -53,10 +53,10 @@ btn.addEventListener("click", function() {
             type: 'GET',
             url: url,
             data: {
-                language: lang,
-                semester: sem,
-                department: dept,
-                coursetype: courty
+                language: langValue,
+                semester: semValue,
+                department: deptValue,
+                coursetype: courtyValue
             },
             success: function(msg) {
                 alert("SUCCESS");
