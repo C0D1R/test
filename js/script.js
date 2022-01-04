@@ -48,7 +48,7 @@ btn.addEventListener("click", function() {
             },
             success: function(msg) {
                 $('#list').html(JSON.parse(msg));
-                console.log(msg);
+                console.log(JSON.parse(msg));
             }
         });
     }());
