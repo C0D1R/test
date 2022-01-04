@@ -49,7 +49,7 @@ btn.addEventListener("click", function() {
             datatype: 'json',
             success: function(msg) {
                 $('#list').html(msg);
-                console.log(msg);
+                console.log(JSON.parse(msg));
             }
         });
     }());
