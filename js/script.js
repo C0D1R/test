@@ -30,7 +30,7 @@ btn.addEventListener("click", function() {
 
     (function() {
         $('#list').html("");
-        const url = "https://script.google.com/macros/s/AKfycbx6xFGzRhZhP7xUY1K7SkBFK86VN6vsy7bHzmce-wR9P-vaY66GgGWRYIRlRPE-OqedYA/exec";
+        const url = "https://script.google.com/macros/s/AKfycbwmjzlKmwqocg09qhRQ4bN1cpzjIjaW3IpGdx-7XpgA51QDcq-ce3a6Pdm1QU-AcMZedw/exec";
         /*
         const lang = document.getElementsByName("language");
         const sem = document.getElementsByName("semester");
@@ -47,7 +47,7 @@ btn.addEventListener("click", function() {
                 coursetype: getCheckBoxValue(document.getElementsByName("course_type"))
             },
             success: function(msg) {
-                $('#list').html(msg);
+                $('#list').html(JSON.parse(msg));
                 console.log(msg);
             }
         });
