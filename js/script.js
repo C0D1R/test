@@ -46,6 +46,7 @@ btn.addEventListener("click", function() {
                 department: getRadioBoxValue(document.getElementsByName("department")),
                 coursetype: getCheckBoxValue(document.getElementsByName("course_type"))
             },
+            datatype: 'json',
             success: function(msg) {
                 $('#list').html(msg);
                 console.log(msg);
