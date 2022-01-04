@@ -30,7 +30,7 @@ btn.addEventListener("click", function() {
 
     (function() {
         $('#list').html("");
-        const url = "https://script.google.com/macros/s/AKfycbxIpAAwdXdQHAY0_ng13tkpT4sQBduBS-LSJRx_iwDZSZoeWjU-HmuxJejQ5iWmEDxDUg/exec";
+        const url = "https://script.google.com/macros/s/AKfycbwAzrLelBBRsb359rRYrcHbyH1rEYjDhVBygIXEgHacYxqyEm5CIaXPns-tISi3igyXAg/exec";
         /*
         const lang = document.getElementsByName("language");
         const sem = document.getElementsByName("semester");
