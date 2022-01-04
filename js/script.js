@@ -47,8 +47,8 @@ btn.addEventListener("click", function() {
                 coursetype: getCheckBoxValue(document.getElementsByName("course_type"))
             },
             success: function(msg) {
-                $('#list').html(JSON.parse(msg));
-                console.log(JSON.parse(msg));
+                $('#list').html(msg);
+                console.log(msg);
             }
         });
     }());
