@@ -3,22 +3,17 @@ const list = document.getElementById("list");
 
 function getRadioBoxValue(RadioBoxValue) {
     for(let i = 0, len = RadioBoxValue.length; i < len; i++) {
-        return RadioBoxValue[i].checked && (RadioBoxValue[i].value);
-        /*
         if(RadioBoxValue[i].checked) {
             return RadioBoxValue[i].value;
         }
-        */
     }
 }
 function getCheckBoxValue(CheckBoxValue) {
     let CheckedValue = [];
     for(let i = 0, j = 0, len = CheckBoxValue.length; i < len; i++) {
-        CheckBoxValue[i].checked && (CheckedValue[j++] = CheckBoxValue[i].value);
-        /*
         if(CheckBoxValue[i].checked) {
             CheckedValue[j++] = CheckBoxValue[i].value;
-        }*/
+        }
     }
     console.log(CheckedValue);
     return CheckedValue;
