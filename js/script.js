@@ -3,7 +3,7 @@ const list = document.getElementById("list");
 
 function getRadioBoxValue(RadioBoxValue) {
     for(let i = 0, len = RadioBoxValue.length; i < len; i++) {
-        return RadioBoxValue[i].checked && RadioBoxValue[i].value;
+        return RadioBoxValue[i].checked && (RadioBoxValue[i].value);
         /*
         if(RadioBoxValue[i].checked) {
             return RadioBoxValue[i].value;
