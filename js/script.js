@@ -34,7 +34,7 @@ btn.addEventListener("click", function() {
     sessionStorage.clear();
     list.innerHTML = "";
 
-    console(getRadioBoxValue(document.getElementsByName("department")));
+    console.log(getRadioBoxValue(document.getElementsByName("department")));
     (function() {
         $('#list').html("");
         const url = "https://script.google.com/macros/s/AKfycbwe4Jglb_iKglwI1mIrZ7YwPFEFWaBG9Sy8xwicB4z_6YQf2QaSk2-V0VM5iSxR5k5oHg/exec";
