@@ -20,6 +20,7 @@ function getCheckBoxValue(CheckBoxValue) {
             CheckedValue[j++] = CheckBoxValue[i].value;
         }*/
     }
+    console.log(CheckedValue);
     return CheckedValue;
 }
 
