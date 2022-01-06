@@ -1,0 +1,122 @@
+[
+    {
+        "list_name": "創意思考",
+        "list_credit": "2",
+        "list_lecturer": "黃幼欣",
+        "list_type": "選修",
+        "list_field_class": "四技日語二甲等合開",
+        "list_time": "二 8 9"
+    },
+    {
+        "list_name": "台日服務產業個案分析",
+        "list_credit": "2",
+        "list_lecturer": "盧駿葳",
+        "list_type": "選修",
+        "list_field_class": "四技日語四甲等合開",
+        "list_time": "二 6 7"
+    },
+    {
+        "list_name": "台日生活文化概論",
+        "list_credit": "2",
+        "list_lecturer": "莊秀文",
+        "list_type": "選修",
+        "list_field_class": "四技日語四甲等合開",
+        "list_time": "二 8 9"
+    },
+    {
+        "list_name": "台日禮儀文化",
+        "list_credit": "2",
+        "list_lecturer": "王信心",
+        "list_type": "選修",
+        "list_field_class": "四技日語三甲等合開",
+        "list_time": "五 6 7"
+    },
+    {
+        "list_name": "台日行銷管理",
+        "list_credit": "2",
+        "list_lecturer": "鄭玫玲",
+        "list_type": "選修",
+        "list_field_class": "四技日語三甲等合開",
+        "list_time": "五 2 3"
+    },
+    {
+        "list_name": "商用日文書信寫作(二)",
+        "list_credit": "2",
+        "list_lecturer": "莊秀文",
+        "list_type": "選修",
+        "list_field_class": "四技日語四甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "商用日語會話(二)",
+        "list_credit": "2",
+        "list_lecturer": "桑澤悟史",
+        "list_type": "選修",
+        "list_field_class": "四技日語三甲等合開",
+        "list_time": "二 6 7"
+    },
+    {
+        "list_name": "媒體日文",
+        "list_credit": "2",
+        "list_lecturer": "楊子震",
+        "list_type": "選修",
+        "list_field_class": "四技日語四甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "日文簡報技巧",
+        "list_credit": "2",
+        "list_lecturer": "盧駿葳",
+        "list_type": "選修",
+        "list_field_class": "四技日語四甲等合開",
+        "list_time": "四 6 7"
+    },
+    {
+        "list_name": "日語基本句型練習(二)",
+        "list_credit": "2",
+        "list_lecturer": "楊琇媚",
+        "list_type": "選修",
+        "list_field_class": "四技日語一甲等合開",
+        "list_time": "五 2 3"
+    },
+    {
+        "list_name": "日語綜合練習(二)(A)",
+        "list_credit": "2",
+        "list_lecturer": "陳連浚",
+        "list_type": "選修",
+        "list_field_class": "四技日語四甲等合開",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "日語綜合練習(二)(B)",
+        "list_credit": "2",
+        "list_lecturer": "黃郁芳",
+        "list_type": "選修",
+        "list_field_class": "四技日語四甲等合開",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "服務產業日語會話(二)",
+        "list_credit": "2",
+        "list_lecturer": "中田綠",
+        "list_type": "選修",
+        "list_field_class": "四技日語三甲等合開",
+        "list_time": "三 3 4"
+    },
+    {
+        "list_name": "服務產業進階日語會話(二)",
+        "list_credit": "2",
+        "list_lecturer": "榊祐一",
+        "list_type": "選修",
+        "list_field_class": "四技日語四甲等合開",
+        "list_time": "一 7 8"
+    },
+    {
+        "list_name": "表達技巧與演練(二)",
+        "list_credit": "2",
+        "list_lecturer": "桑澤悟史",
+        "list_type": "選修",
+        "list_field_class": "四技日語四甲等合開",
+        "list_time": "五 2 3"
+    }
+]

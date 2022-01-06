@@ -1,0 +1,642 @@
+[
+    {
+        "list_name": "外語能力檢定",
+        "list_credit": "0",
+        "list_lecturer": "李政源",
+        "list_type": "必修",
+        "list_field_class": "四技休閒三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "外語能力檢定",
+        "list_credit": "0",
+        "list_lecturer": "李政源",
+        "list_type": "必修",
+        "list_field_class": "四技休閒三乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "外語能力檢定",
+        "list_credit": "0",
+        "list_lecturer": "李政源",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "柯伶玫",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一甲",
+        "list_time": "二 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "黃靖媛",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一乙",
+        "list_time": "二 6"
+    },
+    {
+        "list_name": "學生輔導時間",
+        "list_credit": "0",
+        "list_lecturer": "施鴻瑜",
+        "list_type": "必修",
+        "list_field_class": "四技休閒二甲等合開",
+        "list_time": "二 6"
+    },
+    {
+        "list_name": "專業證照",
+        "list_credit": "0",
+        "list_lecturer": "陳慧玲",
+        "list_type": "必修",
+        "list_field_class": "四技休閒四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "專業證照",
+        "list_credit": "0",
+        "list_lecturer": "陳慧玲",
+        "list_type": "必修",
+        "list_field_class": "四技休閒四乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "專業證照",
+        "list_credit": "0",
+        "list_lecturer": "陳慧玲",
+        "list_type": "自選必修",
+        "list_field_class": "二技休閒延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "柯伶玫",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一甲",
+        "list_time": "二 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "黃靖媛",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一乙",
+        "list_time": "二 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "施鴻瑜",
+        "list_type": "必修",
+        "list_field_class": "四技休閒二甲等合開",
+        "list_time": "二 5"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "洪飛碩",
+        "list_type": "必修",
+        "list_field_class": "四技休閒三甲",
+        "list_time": "四 2"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "盧筱筠",
+        "list_type": "必修",
+        "list_field_class": "四技休閒三乙",
+        "list_time": "四 8"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "王嘉淳",
+        "list_type": "必修",
+        "list_field_class": "四技休閒四甲",
+        "list_time": "四 2"
+    },
+    {
+        "list_name": "導師時間",
+        "list_credit": "0",
+        "list_lecturer": "楊蓓涵",
+        "list_type": "必修",
+        "list_field_class": "四技休閒四乙",
+        "list_time": "四 7"
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技休閒二甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技休閒二乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技休閒三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技休閒三乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技休閒四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "必修",
+        "list_field_class": "四技休閒四乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "操行",
+        "list_credit": "0",
+        "list_lecturer": "未定",
+        "list_type": "自選必修",
+        "list_field_class": "二技企管延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "基礎證照",
+        "list_credit": "1",
+        "list_lecturer": "陳慧玲",
+        "list_type": "必修",
+        "list_field_class": "四技休閒三甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "基礎證照",
+        "list_credit": "1",
+        "list_lecturer": "陳慧玲",
+        "list_type": "必修",
+        "list_field_class": "四技休閒三乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "實務專題(一)",
+        "list_credit": "1",
+        "list_lecturer": "陳慧玲",
+        "list_type": "自選必修",
+        "list_field_class": "二技休閒延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "實務專題(二)",
+        "list_credit": "1",
+        "list_lecturer": "陳慧玲",
+        "list_type": "自選必修",
+        "list_field_class": "二技休閒延修等合開",
+        "list_time": ""
+    },
+    {
+        "list_name": "專題製作(二)",
+        "list_credit": "1",
+        "list_lecturer": "陳慧玲",
+        "list_type": "必修",
+        "list_field_class": "四技休閒四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "專題製作(二)",
+        "list_credit": "1",
+        "list_lecturer": "陳慧玲",
+        "list_type": "必修",
+        "list_field_class": "四技休閒四乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "服務學習(二)",
+        "list_credit": "1",
+        "list_lecturer": "柯伶玫",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一甲",
+        "list_time": "四 5"
+    },
+    {
+        "list_name": "服務學習(二)",
+        "list_credit": "1",
+        "list_lecturer": "黃靖媛",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一乙",
+        "list_time": "一 5"
+    },
+    {
+        "list_name": "校內實習暨研習活動",
+        "list_credit": "1",
+        "list_lecturer": "陳慧玲",
+        "list_type": "必修",
+        "list_field_class": "四技休閒四甲",
+        "list_time": ""
+    },
+    {
+        "list_name": "校內實習暨研習活動",
+        "list_credit": "1",
+        "list_lecturer": "陳慧玲",
+        "list_type": "必修",
+        "list_field_class": "四技休閒四乙",
+        "list_time": ""
+    },
+    {
+        "list_name": "體育生活(四)：壘球(G)",
+        "list_credit": "1",
+        "list_lecturer": "蘇榮裕",
+        "list_type": "管制必修",
+        "list_field_class": "四技控晶二甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "體育生活(四)：拳擊(G)",
+        "list_credit": "1",
+        "list_lecturer": "李政達",
+        "list_type": "管制必修",
+        "list_field_class": "四技控晶二甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "體育生活(四)：排球(G)",
+        "list_credit": "1",
+        "list_lecturer": "邱榮貞",
+        "list_type": "管制必修",
+        "list_field_class": "四技控晶二甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "體育生活(四)：有氧舞蹈(G)",
+        "list_credit": "1",
+        "list_lecturer": "邱懿瑩",
+        "list_type": "管制必修",
+        "list_field_class": "四技控晶二甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "體育生活(四)：桌球(G)",
+        "list_credit": "1",
+        "list_lecturer": "陳春安",
+        "list_type": "管制必修",
+        "list_field_class": "四技控晶二甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "體育生活(四)：瑜珈(G)",
+        "list_credit": "1",
+        "list_lecturer": "張雅評",
+        "list_type": "管制必修",
+        "list_field_class": "四技控晶二甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "體育生活(四)：籃球(G)",
+        "list_credit": "1",
+        "list_lecturer": "傅慧榕",
+        "list_type": "管制必修",
+        "list_field_class": "四技控晶二甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "體育生活(四)：羽球(G)",
+        "list_credit": "1",
+        "list_lecturer": "蘇素月",
+        "list_type": "管制必修",
+        "list_field_class": "四技控晶二甲等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "中文閱讀與表達(二)",
+        "list_credit": "2",
+        "list_lecturer": "陳金英",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一甲",
+        "list_time": "二 1 2"
+    },
+    {
+        "list_name": "中文閱讀與表達(二)",
+        "list_credit": "2",
+        "list_lecturer": "駱育萱",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一乙",
+        "list_time": "一 6 7"
+    },
+    {
+        "list_name": "中級日文(二)",
+        "list_credit": "2",
+        "list_lecturer": "黃淑玲",
+        "list_type": "必修",
+        "list_field_class": "四技休閒二甲",
+        "list_time": "四 3 4"
+    },
+    {
+        "list_name": "中級日文(二)",
+        "list_credit": "2",
+        "list_lecturer": "黃淑玲",
+        "list_type": "必修",
+        "list_field_class": "四技休閒二乙",
+        "list_time": "四 1 2"
+    },
+    {
+        "list_name": "休閒專案企劃方法",
+        "list_credit": "2",
+        "list_lecturer": "張婷玥",
+        "list_type": "必修",
+        "list_field_class": "四技休閒二甲",
+        "list_time": "一 7 8"
+    },
+    {
+        "list_name": "休閒專案企劃方法",
+        "list_credit": "2",
+        "list_lecturer": "張婷玥",
+        "list_type": "必修",
+        "list_field_class": "四技休閒二乙",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "創意思考",
+        "list_credit": "2",
+        "list_lecturer": "柯伶玫",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一甲",
+        "list_time": "二 7 8"
+    },
+    {
+        "list_name": "創意思考",
+        "list_credit": "2",
+        "list_lecturer": "柯伶玫",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一乙",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "創業管理",
+        "list_credit": "2",
+        "list_lecturer": "楊蓓涵",
+        "list_type": "必修",
+        "list_field_class": "四技休閒四甲",
+        "list_time": "四 3 4"
+    },
+    {
+        "list_name": "創業管理",
+        "list_credit": "2",
+        "list_lecturer": "楊蓓涵",
+        "list_type": "必修",
+        "list_field_class": "四技休閒四乙",
+        "list_time": "四 5 6"
+    },
+    {
+        "list_name": "台灣與世界",
+        "list_credit": "2",
+        "list_lecturer": "陳雯宜",
+        "list_type": "必修",
+        "list_field_class": "四技休閒二甲",
+        "list_time": "四 1 2"
+    },
+    {
+        "list_name": "台灣與世界",
+        "list_credit": "2",
+        "list_lecturer": "林柏維",
+        "list_type": "必修",
+        "list_field_class": "四技休閒二乙",
+        "list_time": "四 3 4"
+    },
+    {
+        "list_name": "專業英文(A)",
+        "list_credit": "2",
+        "list_lecturer": "杜惠雯",
+        "list_type": "管制必修",
+        "list_field_class": "四技休閒二甲等合開",
+        "list_time": "一 1 2"
+    },
+    {
+        "list_name": "專業英文(B)",
+        "list_credit": "2",
+        "list_lecturer": "杜惠雯",
+        "list_type": "管制必修",
+        "list_field_class": "四技休閒二甲等合開",
+        "list_time": "一 5 6"
+    },
+    {
+        "list_name": "日文(二)",
+        "list_credit": "2",
+        "list_lecturer": "黃淑玲",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一甲",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "日文(二)",
+        "list_credit": "2",
+        "list_lecturer": "黃淑玲",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一乙",
+        "list_time": "二 1 2"
+    },
+    {
+        "list_name": "服務管理",
+        "list_credit": "2",
+        "list_lecturer": "張婷玥",
+        "list_type": "必修",
+        "list_field_class": "四技休閒三甲",
+        "list_time": "二 7 8"
+    },
+    {
+        "list_name": "英語聽講實務(二)(A)",
+        "list_credit": "2",
+        "list_lecturer": "程秋堯",
+        "list_type": "管制必修",
+        "list_field_class": "四技休閒一甲等合開",
+        "list_time": "一 8 9"
+    },
+    {
+        "list_name": "英語聽講實務(二)(A)",
+        "list_credit": "2",
+        "list_lecturer": "吳佩珊",
+        "list_type": "管制必修",
+        "list_field_class": "四技休閒一乙等合開",
+        "list_time": "四 5 6"
+    },
+    {
+        "list_name": "英語聽講實務(二)(B)",
+        "list_credit": "2",
+        "list_lecturer": "黃淑娥",
+        "list_type": "管制必修",
+        "list_field_class": "四技休閒一甲等合開",
+        "list_time": "一 8 9"
+    },
+    {
+        "list_name": "英語聽講實務(二)(B)",
+        "list_credit": "2",
+        "list_lecturer": "陳怡如",
+        "list_type": "管制必修",
+        "list_field_class": "四技休閒一乙等合開",
+        "list_time": "四 5 6"
+    },
+    {
+        "list_name": "英語聽講實務(二)(C)",
+        "list_credit": "2",
+        "list_lecturer": "夏幼川",
+        "list_type": "管制必修",
+        "list_field_class": "四技休閒一甲等合開",
+        "list_time": "一 8 9"
+    },
+    {
+        "list_name": "英語聽講實務(二)(C)",
+        "list_credit": "2",
+        "list_lecturer": "李政源",
+        "list_type": "管制必修",
+        "list_field_class": "四技休閒一乙等合開",
+        "list_time": "四 5 6"
+    },
+    {
+        "list_name": "觀光導論",
+        "list_credit": "2",
+        "list_lecturer": "洪飛碩",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一甲",
+        "list_time": "四 6 7"
+    },
+    {
+        "list_name": "觀光導論",
+        "list_credit": "2",
+        "list_lecturer": "石慶賀",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一乙",
+        "list_time": "四 7 8"
+    },
+    {
+        "list_name": "進階英文表達(A)",
+        "list_credit": "2",
+        "list_lecturer": "謝旼妤",
+        "list_type": "管制必修",
+        "list_field_class": "四技財金三乙等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "進階英文表達(B)",
+        "list_credit": "2",
+        "list_lecturer": "吳宜錚",
+        "list_type": "管制必修",
+        "list_field_class": "四技財金三乙等合開",
+        "list_time": "四 8 9"
+    },
+    {
+        "list_name": "遊憩管理(一)",
+        "list_credit": "2",
+        "list_lecturer": "王嘉淳",
+        "list_type": "必修",
+        "list_field_class": "四技休閒二甲",
+        "list_time": "二 7 8"
+    },
+    {
+        "list_name": "遊憩管理(一)",
+        "list_credit": "2",
+        "list_lecturer": "潘盈仁",
+        "list_type": "必修",
+        "list_field_class": "四技休閒二乙",
+        "list_time": "二 8 9"
+    },
+    {
+        "list_name": "體育生活(二)",
+        "list_credit": "2",
+        "list_lecturer": "賈寶山",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一甲",
+        "list_time": "四 1 2"
+    },
+    {
+        "list_name": "體育生活(二)",
+        "list_credit": "2",
+        "list_lecturer": "杜珈霖",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一乙",
+        "list_time": "四 1 2"
+    },
+    {
+        "list_name": "會計學",
+        "list_credit": "3",
+        "list_lecturer": "邱湘淇",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一甲",
+        "list_time": "一 5 6 7"
+    },
+    {
+        "list_name": "會計學",
+        "list_credit": "3",
+        "list_lecturer": "邱湘淇",
+        "list_type": "必修",
+        "list_field_class": "四技休閒一乙",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "統計學(二)",
+        "list_credit": "3",
+        "list_lecturer": "黃靖媛",
+        "list_type": "必修",
+        "list_field_class": "四技休閒二甲",
+        "list_time": "五 5 6 7"
+    },
+    {
+        "list_name": "統計學(二)",
+        "list_credit": "3",
+        "list_lecturer": "黃靖媛",
+        "list_type": "必修",
+        "list_field_class": "四技休閒二乙",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "英文能力課程",
+        "list_credit": "3",
+        "list_lecturer": "黃麗麗",
+        "list_type": "自選必修",
+        "list_field_class": "四技自控延修等合開",
+        "list_time": "五 7 8 9"
+    },
+    {
+        "list_name": "休閒建教合作實習(一)",
+        "list_credit": "12",
+        "list_lecturer": "陳慧玲",
+        "list_type": "必修",
+        "list_field_class": "四技休閒三乙",
+        "list_time": ""
+    }
+]

@@ -1,0 +1,330 @@
+[
+    {
+        "list_name": "獨立學習(六)",
+        "list_credit": "1",
+        "list_lecturer": "鄭琮生",
+        "list_type": "選修",
+        "list_field_class": "四技電子三丁",
+        "list_time": "五 5"
+    },
+    {
+        "list_name": "獨立學習(四)",
+        "list_credit": "1",
+        "list_lecturer": "王俊凱",
+        "list_type": "選修",
+        "list_field_class": "四技電子二丁",
+        "list_time": "二 2"
+    },
+    {
+        "list_name": "3D建模及快速成型實務",
+        "list_credit": "2",
+        "list_lecturer": "李博明",
+        "list_type": "選修",
+        "list_field_class": "四技系統四甲",
+        "list_time": "一 1 2 3 4"
+    },
+    {
+        "list_name": "Python程式設計",
+        "list_credit": "2",
+        "list_lecturer": "王立洋",
+        "list_type": "選修",
+        "list_field_class": "四技電子一丙",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "創意思考",
+        "list_credit": "2",
+        "list_lecturer": "唐蔚",
+        "list_type": "選修",
+        "list_field_class": "四技電子三甲等合開",
+        "list_time": "二 5 6"
+    },
+    {
+        "list_name": "嵌入式系統設計",
+        "list_credit": "2",
+        "list_lecturer": "李博明",
+        "list_type": "選修",
+        "list_field_class": "四技系統四甲",
+        "list_time": "二 5 6 7 8"
+    },
+    {
+        "list_name": "科技管理",
+        "list_credit": "2",
+        "list_lecturer": "郭金城",
+        "list_type": "系定選修",
+        "list_field_class": "四技網通四甲",
+        "list_time": "四 5 6"
+    },
+    {
+        "list_name": "科技管理",
+        "list_credit": "2",
+        "list_lecturer": "陳銘哲",
+        "list_type": "系定選修",
+        "list_field_class": "四技晶片四甲",
+        "list_time": "二 8 9"
+    },
+    {
+        "list_name": "科技管理",
+        "list_credit": "2",
+        "list_lecturer": "鄭琮生",
+        "list_type": "系定選修",
+        "list_field_class": "四技微電四甲",
+        "list_time": "二 5 6"
+    },
+    {
+        "list_name": "電子學實習(二)",
+        "list_credit": "2",
+        "list_lecturer": "張文俊",
+        "list_type": "選修",
+        "list_field_class": "四技電子二甲",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "電子學實習(二)",
+        "list_credit": "2",
+        "list_lecturer": "方信普",
+        "list_type": "選修",
+        "list_field_class": "四技電子二乙等合開",
+        "list_time": "一 6 7 8"
+    },
+    {
+        "list_name": "電子學實習(二)",
+        "list_credit": "2",
+        "list_lecturer": "楊峻泓",
+        "list_type": "選修",
+        "list_field_class": "四技電子二丁",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "APP程式設計實務",
+        "list_credit": "3",
+        "list_lecturer": "陳銘哲",
+        "list_type": "選修",
+        "list_field_class": "四技晶片四甲等合開",
+        "list_time": "五 5 6 7"
+    },
+    {
+        "list_name": "EDA設計流程整合",
+        "list_credit": "3",
+        "list_lecturer": "李博明",
+        "list_type": "選修",
+        "list_field_class": "四技晶片四甲等合開",
+        "list_time": "一 6 7 8"
+    },
+    {
+        "list_name": "FPGA設計實務",
+        "list_credit": "3",
+        "list_lecturer": "林瑞源",
+        "list_type": "選修",
+        "list_field_class": "四技電子二丙",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "VLSI實體設計與測試實務",
+        "list_credit": "3",
+        "list_lecturer": "李大輝",
+        "list_type": "選修",
+        "list_field_class": "四技電子三甲等合開",
+        "list_time": "五 5 6 7"
+    },
+    {
+        "list_name": "VLSI實體設計與測試實務",
+        "list_credit": "3",
+        "list_lecturer": "李大輝",
+        "list_type": "選修",
+        "list_field_class": "四技電子三乙",
+        "list_time": "五 2 3 4"
+    },
+    {
+        "list_name": "動態網頁程式設計",
+        "list_credit": "3",
+        "list_lecturer": "賴培淋",
+        "list_type": "選修",
+        "list_field_class": "四技晶片四甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "動態網頁設計",
+        "list_credit": "3",
+        "list_lecturer": "蘇健平",
+        "list_type": "選修",
+        "list_field_class": "四技電子三甲",
+        "list_time": "二 1 2 3"
+    },
+    {
+        "list_name": "動態網頁設計",
+        "list_credit": "3",
+        "list_lecturer": "楊榮林",
+        "list_type": "選修",
+        "list_field_class": "四技電子三乙",
+        "list_time": "二 1 2 3"
+    },
+    {
+        "list_name": "動態網頁設計",
+        "list_credit": "3",
+        "list_lecturer": "薛雲太",
+        "list_type": "選修",
+        "list_field_class": "四技電子三丙",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "動態網頁設計",
+        "list_credit": "3",
+        "list_lecturer": "王立洋",
+        "list_type": "選修",
+        "list_field_class": "四技電子三丁",
+        "list_time": "三 1 2 3"
+    },
+    {
+        "list_name": "半導體元件及物理",
+        "list_credit": "3",
+        "list_lecturer": "邱裕中",
+        "list_type": "選修",
+        "list_field_class": "四技電子二甲",
+        "list_time": "五 7 8 9"
+    },
+    {
+        "list_name": "半導體元件及物理",
+        "list_credit": "3",
+        "list_lecturer": "邱裕中",
+        "list_type": "選修",
+        "list_field_class": "四技電子二乙",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "半導體元件及物理",
+        "list_credit": "3",
+        "list_lecturer": "邱裕中",
+        "list_type": "選修",
+        "list_field_class": "四技電子二丁",
+        "list_time": "一 2 3 4"
+    },
+    {
+        "list_name": "半導體概論",
+        "list_credit": "3",
+        "list_lecturer": "鄭建民",
+        "list_type": "選修",
+        "list_field_class": "四技電子一甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "太陽能電池技術",
+        "list_credit": "3",
+        "list_lecturer": "張文俊",
+        "list_type": "選修",
+        "list_field_class": "四技微電四甲",
+        "list_time": "五 2 3 4"
+    },
+    {
+        "list_name": "感測元件應用實務",
+        "list_credit": "3",
+        "list_lecturer": "蔣富成",
+        "list_type": "選修",
+        "list_field_class": "四技電子三甲",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "感測元件應用實務",
+        "list_credit": "3",
+        "list_lecturer": "蔣富成",
+        "list_type": "選修",
+        "list_field_class": "四技電子三乙",
+        "list_time": "四 7 8 9"
+    },
+    {
+        "list_name": "感測元件應用實務",
+        "list_credit": "3",
+        "list_lecturer": "陳世芳",
+        "list_type": "選修",
+        "list_field_class": "四技電子三丙",
+        "list_time": "三 2 3 4"
+    },
+    {
+        "list_name": "感測元件應用實務專題",
+        "list_credit": "3",
+        "list_lecturer": "王俊凱,邱裕中,楊峻泓",
+        "list_type": "選修",
+        "list_field_class": "四技電子二丁",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "數據分析與管理實務專題",
+        "list_credit": "3",
+        "list_lecturer": "王立洋,陳銘哲,楊榮林",
+        "list_type": "選修",
+        "list_field_class": "四技電子三丁",
+        "list_time": "五 2 3 4"
+    },
+    {
+        "list_name": "機器人控制實務",
+        "list_credit": "3",
+        "list_lecturer": "薛雲太",
+        "list_type": "選修",
+        "list_field_class": "四技電子三甲等合開",
+        "list_time": "一 4 5 6"
+    },
+    {
+        "list_name": "物聯網應用實務專題",
+        "list_credit": "3",
+        "list_lecturer": "余兆棠,張萬榮,鄭琮生",
+        "list_type": "選修",
+        "list_field_class": "四技電子三丁",
+        "list_time": "二 1 2 3"
+    },
+    {
+        "list_name": "車用CAN Bus 網路",
+        "list_credit": "3",
+        "list_lecturer": "唐經洲",
+        "list_type": "選修",
+        "list_field_class": "四技網通四甲",
+        "list_time": "五 2 3 4"
+    },
+    {
+        "list_name": "軟體定義無線電",
+        "list_credit": "3",
+        "list_lecturer": "薛雲太",
+        "list_type": "選修",
+        "list_field_class": "四技網通四甲等合開",
+        "list_time": "二 5 6 7"
+    },
+    {
+        "list_name": "通訊系統",
+        "list_credit": "3",
+        "list_lecturer": "林瑞源",
+        "list_type": "選修",
+        "list_field_class": "四技電子三甲等合開",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "雲端資料庫實務",
+        "list_credit": "3",
+        "list_lecturer": "鄭琮生",
+        "list_type": "選修",
+        "list_field_class": "四技網通四甲等合開",
+        "list_time": "三 4 5 6"
+    },
+    {
+        "list_name": "電子學(二)",
+        "list_credit": "3",
+        "list_lecturer": "張文俊",
+        "list_type": "選修",
+        "list_field_class": "四技電子二甲",
+        "list_time": "一 7 8 9"
+    },
+    {
+        "list_name": "電子學(二)",
+        "list_credit": "3",
+        "list_lecturer": "田子坤",
+        "list_type": "選修",
+        "list_field_class": "四技電子二乙等合開",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "電子學(二)",
+        "list_credit": "3",
+        "list_lecturer": "楊峻泓",
+        "list_type": "選修",
+        "list_field_class": "四技電子二丁",
+        "list_time": "二 5 6 7"
+    }
+]

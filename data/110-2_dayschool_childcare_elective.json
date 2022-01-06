@@ -1,0 +1,178 @@
+[
+    {
+        "list_name": "兒童產業行銷",
+        "list_credit": "2",
+        "list_lecturer": "侯秀荏",
+        "list_type": "選修",
+        "list_field_class": "四技幼保四甲等合開",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "多元文化與親職教育",
+        "list_credit": "2",
+        "list_lecturer": "沈玫宜",
+        "list_type": "選修",
+        "list_field_class": "二技幼保四甲等合開",
+        "list_time": "二 3 4"
+    },
+    {
+        "list_name": "奧福與達克羅茲教學法",
+        "list_credit": "2",
+        "list_lecturer": "魏欣儀",
+        "list_type": "選修",
+        "list_field_class": "二技幼保四甲等合開",
+        "list_time": "一 7 8"
+    },
+    {
+        "list_name": "婚姻與家庭",
+        "list_credit": "2",
+        "list_lecturer": "張治遙",
+        "list_type": "選修",
+        "list_field_class": "二技幼保三甲等合開",
+        "list_time": "五 7 8"
+    },
+    {
+        "list_name": "幼兒數學創造性教學",
+        "list_credit": "2",
+        "list_lecturer": "黃盈斐",
+        "list_type": "選修",
+        "list_field_class": "四技幼保二甲",
+        "list_time": "四 1 2"
+    },
+    {
+        "list_name": "幼兒餐點與營養",
+        "list_credit": "2",
+        "list_lecturer": "陳春鳳",
+        "list_type": "選修",
+        "list_field_class": "二技幼保三甲等合開",
+        "list_time": "四 3 4"
+    },
+    {
+        "list_name": "幼兒體能",
+        "list_credit": "2",
+        "list_lecturer": "鄭伊恬",
+        "list_type": "選修",
+        "list_field_class": "二技幼保三甲等合開",
+        "list_time": "一 1 2"
+    },
+    {
+        "list_name": "早期療育",
+        "list_credit": "2",
+        "list_lecturer": "林健禾",
+        "list_type": "選修",
+        "list_field_class": "二技幼保三甲等合開",
+        "list_time": "五 3 4"
+    },
+    {
+        "list_name": "特殊幼兒教材教法",
+        "list_credit": "2",
+        "list_lecturer": "蔡秋桃",
+        "list_type": "選修",
+        "list_field_class": "四技幼保三甲等合開",
+        "list_time": "一 5 6"
+    },
+    {
+        "list_name": "生命教育",
+        "list_credit": "2",
+        "list_lecturer": "張治遙",
+        "list_type": "選修",
+        "list_field_class": "四技幼保四甲等合開",
+        "list_time": "一 5 6"
+    },
+    {
+        "list_name": "英文兒歌",
+        "list_credit": "2",
+        "list_lecturer": "魏欣儀",
+        "list_type": "選修",
+        "list_field_class": "二技幼保三甲等合開",
+        "list_time": "一 3 4"
+    },
+    {
+        "list_name": "蒙特梭利理論與實務",
+        "list_credit": "2",
+        "list_lecturer": "歐慧敏",
+        "list_type": "選修",
+        "list_field_class": "二技幼保三甲等合開",
+        "list_time": "二 7 8"
+    },
+    {
+        "list_name": "行為改變技術",
+        "list_credit": "2",
+        "list_lecturer": "楊淑娥",
+        "list_type": "選修",
+        "list_field_class": "四技幼保二甲",
+        "list_time": "四 5 6"
+    },
+    {
+        "list_name": "親子活動設計實務",
+        "list_credit": "2",
+        "list_lecturer": "魏欣儀",
+        "list_type": "選修",
+        "list_field_class": "四技幼保四甲等合開",
+        "list_time": "二 5 6"
+    },
+    {
+        "list_name": "親師溝通與情緒管理",
+        "list_credit": "2",
+        "list_lecturer": "張治遙",
+        "list_type": "選修",
+        "list_field_class": "四技幼保三甲等合開",
+        "list_time": "五 1 2"
+    },
+    {
+        "list_name": "說故事技巧與應用",
+        "list_credit": "2",
+        "list_lecturer": "李芳靜",
+        "list_type": "選修",
+        "list_field_class": "二技幼保四甲等合開",
+        "list_time": "四 7 8"
+    },
+    {
+        "list_name": "遊戲治療",
+        "list_credit": "2",
+        "list_lecturer": "楊淑娥",
+        "list_type": "選修",
+        "list_field_class": "四技幼保三甲等合開",
+        "list_time": "二 5 6"
+    },
+    {
+        "list_name": "創意遊戲教學活動設計與實務",
+        "list_credit": "3",
+        "list_lecturer": "卓美芳",
+        "list_type": "管制選修",
+        "list_field_class": "四技幼保四甲等合開",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "嬰幼兒健康照護技術(一)",
+        "list_credit": "3",
+        "list_lecturer": "陳怡文",
+        "list_type": "選修",
+        "list_field_class": "四技幼保三甲",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "嬰幼兒健康照護技術(一)",
+        "list_credit": "3",
+        "list_lecturer": "陳怡文",
+        "list_type": "選修",
+        "list_field_class": "四技幼保三乙",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "音樂創意教學活動設計與實務",
+        "list_credit": "3",
+        "list_lecturer": "魏欣儀",
+        "list_type": "管制選修",
+        "list_field_class": "四技幼保四甲等合開",
+        "list_time": "四 5 6 7"
+    },
+    {
+        "list_name": "教保實務實習(二)",
+        "list_credit": "10",
+        "list_lecturer": "歐慧敏",
+        "list_type": "管制選修",
+        "list_field_class": "四技幼保四甲等合開",
+        "list_time": ""
+    }
+]

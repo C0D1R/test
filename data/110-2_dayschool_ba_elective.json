@@ -1,0 +1,106 @@
+[
+    {
+        "list_name": "管理實務研討",
+        "list_credit": "2",
+        "list_lecturer": "莫素娟",
+        "list_type": "選修",
+        "list_field_class": "二技企管四甲等合開",
+        "list_time": "三 5 6"
+    },
+    {
+        "list_name": "企業資源規劃",
+        "list_credit": "3",
+        "list_lecturer": "丁志宏",
+        "list_type": "選修",
+        "list_field_class": "二技企管四甲等合開",
+        "list_time": "三 2 3 4"
+    },
+    {
+        "list_name": "品牌推廣企劃",
+        "list_credit": "3",
+        "list_lecturer": "黃峰蕙",
+        "list_type": "選修",
+        "list_field_class": "二技企管四甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "商業簡報技巧",
+        "list_credit": "3",
+        "list_lecturer": "簡俊成",
+        "list_type": "選修",
+        "list_field_class": "二技企管四甲等合開",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "問題分析與決策管理",
+        "list_credit": "3",
+        "list_lecturer": "賴春美",
+        "list_type": "選修",
+        "list_field_class": "二技企管四甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "團隊溝通",
+        "list_credit": "3",
+        "list_lecturer": "黃峰蕙,簡俊成",
+        "list_type": "選修",
+        "list_field_class": "四技企管二甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "服務業管理",
+        "list_credit": "3",
+        "list_lecturer": "林容璟",
+        "list_type": "選修",
+        "list_field_class": "四技國企四甲等合開",
+        "list_time": "二 7 8 9"
+    },
+    {
+        "list_name": "消費市場分析",
+        "list_credit": "3",
+        "list_lecturer": "郭幸萍",
+        "list_type": "選修",
+        "list_field_class": "二技企管四甲等合開",
+        "list_time": "二 2 3 4"
+    },
+    {
+        "list_name": "管理決策",
+        "list_credit": "3",
+        "list_lecturer": "林育德,林義旭",
+        "list_type": "選修",
+        "list_field_class": "二技企管四甲等合開",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "組織行為",
+        "list_credit": "3",
+        "list_lecturer": "方妙玲",
+        "list_type": "選修",
+        "list_field_class": "四技企管二甲等合開",
+        "list_time": "四 2 3 4"
+    },
+    {
+        "list_name": "職涯規劃與發展",
+        "list_credit": "3",
+        "list_lecturer": "王姿力",
+        "list_type": "選修",
+        "list_field_class": "二技企管四甲等合開",
+        "list_time": "五 1 2 3"
+    },
+    {
+        "list_name": "通路管理",
+        "list_credit": "3",
+        "list_lecturer": "林育理",
+        "list_type": "選修",
+        "list_field_class": "二技企管四甲等合開",
+        "list_time": "三 2 3 4"
+    },
+    {
+        "list_name": "進階套裝軟體應用",
+        "list_credit": "3",
+        "list_lecturer": "汪世義",
+        "list_type": "選修",
+        "list_field_class": "四技企管二甲等合開",
+        "list_time": "五 1 2 3"
+    }
+]
