@@ -53,7 +53,7 @@ btn.addEventListener("click", function() {
             }
         }());
         (function() {
-            const request = new XMLHttpRequest();
+            let request = new XMLHttpRequest();
             for(let i = url.length-1; i >= 0; i--) {
                 request.open("GET", url[i]);
                 request.send(null);
