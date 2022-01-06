@@ -54,6 +54,7 @@ btn.addEventListener("click", function() {
         }());
         (function() {
             for(let i = url.length-1; i >= 0; i--) {
+                console.log(url[i]);
                 const request = new XMLHttpRequest();
                 request.open("GET", url[i]);
                 request.send(null);
