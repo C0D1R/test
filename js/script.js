@@ -35,10 +35,21 @@ btn.addEventListener("click", function() {
             const schoolsystem = getRadioBoxValue(document.getElementsByName("schoolsystem"));
             const department =  getRadioBoxValue(document.getElementsByName("department"));
             const coursetype = getCheckBoxValue(document.getElementsByName("course_type"));
-            for(let i = coursetype.length-1; i >= 0; i--) {//length
-                console.log(coursetype[i] != "general_elective_subject"?
-                        "./data/" + semester + "_" + schoolsystem + "_" + department + "_" + coursetype + ".json":
+            for(let i = coursetype.length-1; i >= 0; i--) {
+                if(coursetype[i] != "general_elective_subject") {
+                    url.push("./data/" + semester + "_" + schoolsystem + "_" + department + "_" + coursetype[i] + ".json");
+                }
+                else {
+                    const gencourse = getGeneralField(department);
+                    for(let j = gencourse.length-1; j >= 0; j--) {
+                        url.push("./data/" + semester + "_" + gencourse[j] + ".json")
+                    }
+                }
+                /*
+                url.push(coursetype[i] != "general_elective_subject"?
+                        "./data/" + semester + "_" + schoolsystem + "_" + department + "_" + coursetype[] + ".json":
                         "./data/" + semester + "_" + getGeneralField(department) + ".json");
+                        */
             }
         }());
         (function() {
