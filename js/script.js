@@ -1,5 +1,5 @@
 const btn = document.getElementById("btn");
-const list = document.getElementById("list");
+let list = document.getElementById("list");
 
 function getRadioBoxValue(RadioBoxValue) {
     for(let i = RadioBoxValue.length-1; i >= 0; i--) {
