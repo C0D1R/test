@@ -37,12 +37,12 @@ btn.addEventListener("click", function() {
             const coursetype = getCheckBoxValue(document.getElementsByName("course_type"));
             for(let i = coursetype.length-1; i >= 0; i--) {
                 if(coursetype[i] != "general_elective") {
-                    url.push("./data/" + semester + "_" + schoolsystem + "_" + department + "_" + coursetype[i] + ".json");
+                    url.push("./data/" + semester + "-" + schoolsystem + "_" + department + "_" + coursetype[i] + ".json");
                 }
                 else {
                     const gencourse = getGeneralField(department);
                     for(let j = gencourse.length-1; j >= 0; j--) {
-                        url.push("./data/" + semester + "_" + gencourse[j] + ".json")
+                        url.push("./data/" + semester + "-" + gencourse[j] + ".json")
                     }
                 }
                 /*
