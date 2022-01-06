@@ -74,11 +74,12 @@ btn.addEventListener("click", function() {
                                     </div>
                                     `;
                         }
+                        console.log(html);
                     }
                 }
             }
         }());
-        console.log(html);
+        
         list.innerHTML += html;
         sessionStorage.setItem("CourseList", html);
     }());
