@@ -76,10 +76,13 @@ btn.addEventListener("click", function() {
                         }
                         console.log(html);
                     }
+                    console.log(html);
                 }
+                console.log(html);
             }
+            console.log(html);
         }());
-        
+        console.log(html);
         list.innerHTML += html;
         sessionStorage.setItem("CourseList", html);
     }());
