@@ -36,16 +36,14 @@ btn.addEventListener("click", function() {
             const department =  getRadioBoxValue(document.getElementsByName("department"));
             const coursetype = getCheckBoxValue(document.getElementsByName("course_type"));
             for(let i = coursetype.length-1; i >= 0; i--) {//length
-                url.push(coursetype[i] != "general_elective_subject"?
+                console.log(coursetype[i] != "general_elective_subject"?
                         "./data/" + semester + "_" + schoolsystem + "_" + department + "_" + coursetype + ".json":
                         "./data/" + semester + "_" + getGeneralField(department) + ".json");
-                console.log(url);
             }
         }());
         (function() {
             const request = new XMLHttpRequest();
             for(let i = url.length-1; i >= 0; i--) {
-                console.log(url[i]);
                 request.open("GET", url[i]);
                 request.send(null);
                 request.onload = function() {
