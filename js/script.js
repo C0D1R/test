@@ -36,7 +36,7 @@ btn.addEventListener("click", function() {
             const department =  getRadioBoxValue(document.getElementsByName("department"));
             const coursetype = getCheckBoxValue(document.getElementsByName("course_type"));
             for(let i = coursetype.length-1; i >= 0; i--) {
-                if(coursetype[i] != "general_elective_subject") {
+                if(coursetype[i] != "general_elective") {
                     url.push("./data/" + semester + "_" + schoolsystem + "_" + department + "_" + coursetype[i] + ".json");
                 }
                 else {
