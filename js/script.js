@@ -62,7 +62,7 @@ btn.addEventListener("click", function() {
                     if(request.status == 200) {
                         const data = JSON.parse(request.responseText);
                         for(let i = data.length-1, temp = null; i >= 0 && (temp = data[i]); i--) {
-                            console.log(temp);
+                            console.log(temp.list_name);
                             html += `
                                     <div>
                                         <div style="width: 30%; padding-left: 5%;" class="float datalistli">${temp.list_name}</div>
