@@ -84,8 +84,8 @@ function addlist_course_th() {
                         </div>`;
 }
 
-function getGeneralField() {
-    switch(deptValue) {
+function getGeneralField(department) {
+    switch(department) {
         case "ee":
         case "mech":
         case "eecs":
