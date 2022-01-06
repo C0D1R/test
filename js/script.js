@@ -1,5 +1,5 @@
 const btn = document.getElementById("btn");
-let list = document.getElementById("list");
+const list = document.getElementById("list");
 
 function getRadioBoxValue(RadioBoxValue) {
     for(let i = RadioBoxValue.length-1; i >= 0; i--) {
@@ -62,7 +62,6 @@ btn.addEventListener("click", function() {
                     if(request.status == 200) {
                         const data = JSON.parse(request.responseText);
                         for(let i = data.length-1, temp = null; i >= 0 && (temp = data[i]); i--) {
-                            console.log(temp.list_name);
                             html += `
                                     <div>
                                         <div style="width: 30%; padding-left: 5%;" class="float datalistli">${temp.list_name}</div>
@@ -79,6 +78,7 @@ btn.addEventListener("click", function() {
                 }
             }
         }());
+        console.log(html);
         list.innerHTML += html;
         sessionStorage.setItem("CourseList", html);
     }());
