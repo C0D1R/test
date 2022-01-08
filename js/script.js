@@ -28,34 +28,31 @@ btn.addEventListener("click", function() {
     sessionStorage.clear();
     list.innerHTML = "";
 
-    function getJson(url) {
-        const request = new XMLHttpRequest();
-        request.open("GET", url);
-        request.send(null);
-        request.onload = function() {
-            if(request.status == 200) {
-                const data = JSON.parse(request.responseText);
-                for(let i = data.length-1, temp = null; i >= 0 && (temp = data[i]); i--) {
-                    html += `
-                            <div>
-                                <div style="width: 30%; padding-left: 5%;" class="float datalistli">${temp.list_name}</div>
-                                <div style="width: 7%;" class="float datalistli">${temp.list_credit}</div>
-                                <div style="width: 18%;" class="float datalistli textsetmid">${temp.list_lecturer}</div>
-                                <div style="width: 13%;" class="float datalistli textsetmid">${temp.list_type}</div>
-                                <div style="width: 17%;" class="float datalistli textsetmid">${temp.list_field_class}</div>
-                                <div style="width: 10%;" class="float datalistli">${temp.list_time}</div>
-                                <div style="clear: both;"></div>
-                            </div>
-                            `;
-                }
-            }
-            list.innerHTML += html;
-            sessionStorage.setItem("CourseList", html);
-        }
-    }
-
     (function() {
         let html = "";
+        function getJson(url) {
+            const request = new XMLHttpRequest();
+            request.open("GET", url);
+            request.send(null);
+            request.onload = function() {
+                if(request.status == 200) {
+                    const data = JSON.parse(request.responseText);
+                    for(let i = data.length-1, temp = null; i >= 0 && (temp = data[i]); i--) {
+                        html += `
+                                <div>
+                                    <div style="width: 30%; padding-left: 5%;" class="float datalistli">${temp.list_name}</div>
+                                    <div style="width: 7%;" class="float datalistli">${temp.list_credit}</div>
+                                    <div style="width: 18%;" class="float datalistli textsetmid">${temp.list_lecturer}</div>
+                                    <div style="width: 13%;" class="float datalistli textsetmid">${temp.list_type}</div>
+                                    <div style="width: 17%;" class="float datalistli textsetmid">${temp.list_field_class}</div>
+                                    <div style="width: 10%;" class="float datalistli">${temp.list_time}</div>
+                                    <div style="clear: both;"></div>
+                                </div>
+                                `;
+                    }
+                }
+            }
+        }
         (function() {
             let url = "";
             const semester = getRadioBoxValue(document.getElementsByName("semester"));
@@ -75,6 +72,8 @@ btn.addEventListener("click", function() {
                 getJson(url);
             }
         }());
+        list.innerHTML += html;
+        sessionStorage.setItem("CourseList", html);
     }());
 });
 
