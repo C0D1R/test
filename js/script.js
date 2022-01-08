@@ -28,50 +28,49 @@ btn.addEventListener("click", function() {
     sessionStorage.clear();
     list.innerHTML = "";
 
-    (function() {
-        let html = "";
-        function getJson(url) {
-            const request = new XMLHttpRequest();
-            request.open("GET", url);
-            request.send(null);
-            request.onload = function() {
-                if(request.status == 200) {
-                    const data = JSON.parse(request.responseText);
-                    for(let i = data.length-1, temp = null; i >= 0 && (temp = data[i]); i--) {
-                        html += `
-                                <div>
-                                    <div style="width: 30%; padding-left: 5%;" class="float datalistli">${temp.list_name}</div>
-                                    <div style="width: 7%;" class="float datalistli">${temp.list_credit}</div>
-                                    <div style="width: 18%;" class="float datalistli textsetmid">${temp.list_lecturer}</div>
-                                    <div style="width: 13%;" class="float datalistli textsetmid">${temp.list_type}</div>
-                                    <div style="width: 17%;" class="float datalistli textsetmid">${temp.list_field_class}</div>
-                                    <div style="width: 10%;" class="float datalistli">${temp.list_time}</div>
-                                    <div style="clear: both;"></div>
-                                </div>
-                                `;
-                    }
+    function getJson(url) {
+        const request = new XMLHttpRequest();
+        request.open("GET", url);
+        request.send(null);
+        request.onload = function() {
+            if(request.status == 200) {
+                const data = JSON.parse(request.responseText);
+                let html = "";
+                for(let i = data.length-1, temp = null; i >= 0 && (temp = data[i]); i--) {
+                    html += `
+                            <div>
+                                <div style="width: 30%; padding-left: 5%;" class="float datalistli">${temp.list_name}</div>
+                                <div style="width: 7%;" class="float datalistli">${temp.list_credit}</div>
+                                <div style="width: 18%;" class="float datalistli textsetmid">${temp.list_lecturer}</div>
+                                <div style="width: 13%;" class="float datalistli textsetmid">${temp.list_type}</div>
+                                <div style="width: 17%;" class="float datalistli textsetmid">${temp.list_field_class}</div>
+                                <div style="width: 10%;" class="float datalistli">${temp.list_time}</div>
+                                <div style="clear: both;"></div>
+                            </div>
+                            `;
                 }
                 list.innerHTML += html;
             }
         }
-        (function() {
-            const semester = getRadioBoxValue(document.getElementsByName("semester"));
-            const schoolsystem = getRadioBoxValue(document.getElementsByName("schoolsystem"));
-            const department =  getRadioBoxValue(document.getElementsByName("department"));
-            const coursetype = getCheckBoxValue(document.getElementsByName("course_type"));
-            for(let i = coursetype.length-1, url = ""; i >= 0; i--) {
-                if(coursetype[i] != "general_elective") {
-                    url = "./data/" + semester + "_" + schoolsystem + "_" + department + "_" + coursetype[i] + ".json";
-                }
-                else {
-                    const gencourse = getGeneralField(department);
-                    for(let j = gencourse.length-1; j >= 0; j--) {
-                        url = "./data/" + semester + "_" + gencourse[j] + ".json";
-                    }
-                }
-                getJson(url);
+    }
+
+    (function() {
+        const semester = getRadioBoxValue(document.getElementsByName("semester"));
+        const schoolsystem = getRadioBoxValue(document.getElementsByName("schoolsystem"));
+        const department =  getRadioBoxValue(document.getElementsByName("department"));
+        const coursetype = getCheckBoxValue(document.getElementsByName("course_type"));
+        for(let i = coursetype.length-1, url = ""; i >= 0; i--) {
+            if(coursetype[i] != "general_elective") {
+                url = "./data/" + semester + "_" + schoolsystem + "_" + department + "_" + coursetype[i] + ".json";
             }
-        }());
+            else {
+                const gencourse = getGeneralField(department);
+                for(let j = gencourse.length-1; j >= 0; j--) {
+                    url = "./data/" + semester + "_" + gencourse[j] + ".json";
+                }
+            }
+            getJson(url);
+        }
         sessionStorage.setItem("CourseList", list.innerHTML);
     }());
 });
