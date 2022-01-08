@@ -1,6 +1,12 @@
 const btn = document.getElementById("btn");
 const list = document.getElementById("list");
 
+window.onload = function() {
+    if(sessionStorage.getItem("CourseList")) {
+        list.innerHTML = sessionStorage.getItem("CourseList")
+    }
+}
+
 function getRadioBoxValue(RadioBoxValue) {
     for(let i = RadioBoxValue.length-1; i >= 0; i--) {
         if(RadioBoxValue[i].checked) {
@@ -18,10 +24,38 @@ function getCheckBoxValue(CheckBoxValue) {
     return CheckedValue;
 }
 
-window.onload = function() {
-    if(sessionStorage.getItem("CourseList")) {
-        list.innerHTML = sessionStorage.getItem("CourseList")
-    };
+function getGeneralField(department) {
+    switch(department) {
+        case "ee":
+        case "mech":
+        case "eecs":
+        case "oe":
+        case "csie":
+        case "chem":
+        case "bio":
+        case "vc":
+        case "ic":
+        case "mes":
+        case "cpd":
+        case "pmi":
+            return ["humanities_and_arts", "social_science", "comprehensive_practice"];
+        case "imi":
+        case "ib":
+        case "accinfo":
+        case "ba":
+        case "fin":
+        case "leisure":
+        case "mim":
+        case "mis":
+        case "hm":
+        case "english":
+        case "japan":
+        case "childcare":
+        case "ss":
+            return ["humanities_and_arts", "natural_science", "comprehensive_practice"];
+        default:
+            return ["humanities_and_arts", "social_science", "natural_science", "comprehensive_practice"];
+    }
 }
 
 btn.addEventListener("click", function() {
@@ -85,40 +119,6 @@ function addlist_course_th() {
                             <div style="width: 10%;" class="float datalistlith">時間</div>
                             <div style="clear: both;"></div>
                         </div>`;
-}
-
-function getGeneralField(department) {
-    switch(department) {
-        case "ee":
-        case "mech":
-        case "eecs":
-        case "oe":
-        case "csie":
-        case "chem":
-        case "bio":
-        case "vc":
-        case "ic":
-        case "mes":
-        case "cpd":
-        case "pmi":
-            return ["humanities_and_arts", "social_science", "comprehensive_practice"];
-        case "imi":
-        case "ib":
-        case "accinfo":
-        case "ba":
-        case "fin":
-        case "leisure":
-        case "mim":
-        case "mis":
-        case "hm":
-        case "english":
-        case "japan":
-        case "childcare":
-        case "ss":
-            return ["humanities_and_arts", "natural_science", "comprehensive_practice"];
-        default:
-            return ["humanities_and_arts", "social_science", "natural_science", "comprehensive_practice"];
-    }
 }
 
 
