@@ -51,15 +51,15 @@ btn.addEventListener("click", function() {
                                 `;
                     }
                 }
+                list.innerHTML += html;
             }
         }
         (function() {
-            let url = "";
             const semester = getRadioBoxValue(document.getElementsByName("semester"));
             const schoolsystem = getRadioBoxValue(document.getElementsByName("schoolsystem"));
             const department =  getRadioBoxValue(document.getElementsByName("department"));
             const coursetype = getCheckBoxValue(document.getElementsByName("course_type"));
-            for(let i = coursetype.length-1; i >= 0; i--) {
+            for(let i = coursetype.length-1, url = ""; i >= 0; i--) {
                 if(coursetype[i] != "general_elective") {
                     url = "./data/" + semester + "_" + schoolsystem + "_" + department + "_" + coursetype[i] + ".json";
                 }
@@ -72,8 +72,7 @@ btn.addEventListener("click", function() {
                 getJson(url);
             }
         }());
-        list.innerHTML += html;
-        sessionStorage.setItem("CourseList", html);
+        sessionStorage.setItem("CourseList", list.innerHTML);
     }());
 });
 
