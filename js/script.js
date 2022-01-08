@@ -48,8 +48,8 @@ btn.addEventListener("click", function() {
             }
         }());
         (function() {
-            const request = new XMLHttpRequest();
             for(let i = url.length-1; i >= 0; i--) {
+                const request = new XMLHttpRequest();
                 request.open("GET", url[i]);
                 request.send(null);
                 request.onload = function() {
