@@ -29,124 +29,88 @@
                 margin: 0;
                 padding: 0;
             }
-            .float {
-                float: left;
-            }
-            .clear {
-                clear: both;
-            }
             .card {
-                width: 88%;
+                width: calc(100%/1.25);
                 margin: 0 auto;
-                border: 1px solid black;
                 border-radius: 8px;
+                box-shadow: 0px 0px 9px #cccccc;
+                margin-bottom: 8px;
             }
-            .col-first, .col-center {
-                display: flex;
+            .first, .last {
+                display: inline-flex;
                 justify-content: space-between;
-                align-items: center;
-                align-content: center;
+                padding: 0 10%;
             }
-            .col-first {
-                padding: 4px 2%;
-                border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+            .last {
+                display: flex;
             }
-            .row {
-                font-size: 12px;
-                color: #6a6a6a;
-            }
-            .col-last {
-                padding: 0 2% 4px;
-                font-size: 14px;
-            }
-            .name {
-                font-weight: bold;
-            }
-            .type {
-                padding: 0 4px;
-                font-size: 12px;
-                border: 1px solid lightblue;
-                border-radius: 16px;
+            @media screen and (min-width:768px) {
+                .last {
+                    display: inline-flex;
+                }
             }
         </style>
     </head>
     <body>
         <div id="list">
             <div class="card">
-                <div class="col-first">
-                    <span class="name">亞洲共同體之構築(國際名人系列講座)</span>
-                    <span class="type">通識</span>
+                <div calss="first">
+                    <span>亞洲共同體之構築(國際名人系列講座)</span>
+                    <span>通識</span>
                 </div>
-                <div class="col-first">
+                <div class="last">
                     <div>
-                        <div class="row">授課教師</div>
-                        <div>駱昭吟</div>
+                        <div>
+                            <div>授課教師</div>
+                            <div>駱昭吟</div>
+                        </div>
+                        <div>
+                            <div>通識領域</div>
+                            <div>人文藝術</div>
+                        </div>
                     </div>
                     <div>
-                        <div class="row">通識領域</div>
-                        <div>人文藝術</div>
-                    </div>
-                    <div>
-                        <div class="row">學分</div>
-                        <div>3</div>
-                    </div>
-                    <div>
-                        <div class="row">上課時間</div>
-                        <div>三 4 5 6</div>
-                    </div>
-                </div>
-            </div>
-
-
-            <div class="card">
-                <div class="col-first">
-                    <span class="name">健康素養與大數據分析(A)</span>
-                    <span class="type">通識</span>
-                </div>
-                <div class="col-first">
-                    <div>
-                        <div class="row">授課教師</div>
-                        <div>彭巧珍、劉毓芬</div>
-                    </div>
-                    <div>
-                        <div class="row">通識領域</div>
-                        <div>自然科學</div>
-                    </div>
-                    <div>
-                        <div class="row">學分</div>
-                        <div>3</div>
-                    </div>
-                    <div>
-                        <div class="row">上課時間</div>
-                        <div>三 1 2 3</div>
+                        <div>
+                            <div>學分</div>
+                            <div>3</div>
+                        </div>
+                        <div>
+                            <div>上課時間</div>
+                            <div>三 4 5 6</div>
+                        </div>
                     </div>
                 </div>
             </div>
 
             <div class="card">
-                <div class="col-first">
-                    <span class="name">外語能力檢定</span>
-                    <span class="type">自選必修</span>
+                <div>
+                    <span>健康素養與大數據分析(A)</span>
+                    <span>通識</span>
                 </div>
-                <div class="col-first">
+                <div class="last">
                     <div>
-                        <div class="row">授課教師</div>
-                        <div>李政源</div>
+                        <div>
+                            <div>授課教師</div>
+                            <div>彭巧珍、劉毓芬</div>
+                        </div>
+                        <div>
+                            <div>通識領域</div>
+                            <div>自然科學</div>
+                        </div>
                     </div>
                     <div>
-                        <div class="row">通識領域</div>
-                        <div>自控延修等合開</div>
-                    </div>
-                    <div>
-                        <div class="row">學分</div>
-                        <div>0</div>
-                    </div>
-                    <div>
-                        <div class="row">上課時間</div>
-                        <div></div>
+                        <div>
+                            <div>學分</div>
+                            <div>3</div>
+                        </div>
+                        <div>
+                            <div>上課時間</div>
+                            <div>三 1 2 3</div>
+                        </div>
                     </div>
                 </div>
             </div>
+
         </div>
     </body>
 </html>
