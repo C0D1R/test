@@ -30,7 +30,7 @@
                 padding: 0;
             }
             .card {
-                width: 80%;
+                width: 84%;
                 margin: 8px auto;
                 border-radius: 8px;
                 box-shadow: 0px 0px 9px #cccccc;
@@ -38,14 +38,35 @@
             .first, .last {
                 display: flex;
                 justify-content: space-between;
-                padding: 0 5%;
+                padding: 2px 5%;
                 text-align: center;
+            }
+            .first {
+                padding: 4px 3%;
+                border-bottom: 1px solid black;
             }
             .box1 {
                 width: 55%;
             }
             .box2 {
                 width: 45%;
+            }
+            .name {
+                font-size: 16px;
+                font-weight: 700;
+            }
+            .type {
+                padding: 0 8px;
+                font-size: 14px;
+                border: 1px solid blue;
+                border-radius: 16px;
+            }
+            .th {
+                font-size: 12px;
+                color: #6a6a6a;
+            }
+            .text {
+                font-size: 14px;
             }
             @media screen and (min-width: 768px) {
                 .box1, .box2 {
@@ -61,28 +82,28 @@
         <div id="list">
             <div class="card">
                 <div class="first">
-                    <span>亞洲共同體之構築(國際名人系列講座)</span>
-                    <span>通識</span>
+                    <span class="name">亞洲共同體之構築(國際名人系列講座)</span>
+                    <span class="type">通識</span>
                 </div>
                 <div class="last">
                     <div class="box1">
                         <div class="width">
-                            <div>授課教師</div>
-                            <div>駱昭吟</div>
+                            <div class="th">授課教師</div>
+                            <div class="text">駱昭吟</div>
                         </div>
                         <div class="width">
-                            <div>通識領域</div>
-                            <div>人文藝術</div>
+                            <div class="th">通識領域</div>
+                            <div class="text">人文藝術</div>
                         </div>
                     </div>
                     <div class="box2">
                         <div class="width">
-                            <div>學分</div>
-                            <div>3</div>
+                            <div class="th">學分</div>
+                            <div class="text">3</div>
                         </div>
                         <div class="width">
-                            <div>上課時間</div>
-                            <div>三 4 5 6</div>
+                            <div class="th">上課時間</div>
+                            <div class="text">三 4 5 6</div>
                         </div>
                     </div>
                 </div>
@@ -90,28 +111,28 @@
 
             <div class="card">
                 <div class="first">
-                    <span>健康素養與大數據分析(A)</span>
-                    <span>通識</span>
+                    <span class="name">健康素養與大數據分析(A)</span>
+                    <span class="type">通識</span>
                 </div>
                 <div class="last">
                     <div class="box1">
                         <div class="width">
-                            <div>授課教師</div>
-                            <div>彭巧珍、劉毓芬</div>
+                            <div class="th">授課教師</div>
+                            <div class="text">彭巧珍、劉毓芬</div>
                         </div>
                         <div class="width">
-                            <div>通識領域</div>
-                            <div>自然科學</div>
+                            <div class="th">通識領域</div>
+                            <div class="text">自然科學</div>
                         </div>
                     </div>
                     <div class="box2">
                         <div class="width">
-                            <div>學分</div>
-                            <div>3</div>
+                            <div class="th">學分</div>
+                            <div class="text">3</div>
                         </div>
                         <div class="width">
-                            <div>上課時間</div>
-                            <div>三 1 2 3</div>
+                            <div class="th">上課時間</div>
+                            <div class="text">三 1 2 3</div>
                         </div>
                     </div>
                 </div>
