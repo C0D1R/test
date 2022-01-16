@@ -43,7 +43,7 @@
             }
             .first {
                 padding: 4px 3%;
-                border-bottom: 1px solid black;
+                border-bottom: 1px solid rgba(0, 0, 0, 0.05);
             }
             .box1 {
                 width: 55%;
@@ -52,26 +52,42 @@
                 width: 45%;
             }
             .name {
-                font-size: 16px;
+                font-size: 1rem;
                 font-weight: 700;
             }
             .type {
-                padding: 0 8px;
-                font-size: 14px;
-                border: 1px solid blue;
+                padding: 0 0.5rem;
+                font-size: 0.875rem;
+                background-color: rgba(0, 0, 0, 0.1);
                 border-radius: 16px;
             }
             .th {
-                font-size: 12px;
-                color: #6a6a6a;
+                font-size: 0.75rem;
+                color: #999999;
             }
             .text {
-                font-size: 14px;
+                font-size: 0.875rem;
             }
             .width {
                 padding-bottom: 2px;
             }
             @media screen and (min-width: 768px) {
+                html {
+                    font-size: 18px;
+                }
+            }
+            @media screen and (max-width: 425px) {
+                html {
+                    font-size: 14px;
+                }
+            }
+            @media screen and (max-width: 375px) {
+                html {
+                    font-size: 12px;
+                }
+            }
+            /*-----------------------------------*/
+            @media screen and (min-width: 640px) {
                 .box1, .box2 {
                     display: flex;
                 }
@@ -136,6 +152,64 @@
                         <div class="width">
                             <div class="th">上課時間</div>
                             <div class="text">三 1 2 3</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="first">
+                    <span class="name">英語聽講實務(二)(A)</span>
+                    <span class="type">管制必修</span>
+                </div>
+                <div class="last">
+                    <div class="box1">
+                        <div class="width">
+                            <div class="th">授課教師</div>
+                            <div class="text">林智偉</div>
+                        </div>
+                        <div class="width">
+                            <div class="th">通識領域</div>
+                            <div class="text">四技化材一甲等合開</div>
+                        </div>
+                    </div>
+                    <div class="box2">
+                        <div class="width">
+                            <div class="th">學分</div>
+                            <div class="text">2</div>
+                        </div>
+                        <div class="width">
+                            <div class="th">上課時間</div>
+                            <div class="text">二 1 2</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="first">
+                    <span class="name">英語聽講實務(二)(A)</span>
+                    <span class="type">管制必修</span>
+                </div>
+                <div class="last">
+                    <div class="box1">
+                        <div class="width">
+                            <div class="th">授課教師</div>
+                            <div class="text">彭巧珍、劉毓芬</div>
+                        </div>
+                        <div class="width">
+                            <div class="th">通識領域</div>
+                            <div class="text">四技化材一甲等合開</div>
+                        </div>
+                    </div>
+                    <div class="box2">
+                        <div class="width">
+                            <div class="th">學分</div>
+                            <div class="text">2</div>
+                        </div>
+                        <div class="width">
+                            <div class="th">上課時間</div>
+                            <div class="text">二 1 2 3 二 1 2</div>
                         </div>
                     </div>
                 </div>
