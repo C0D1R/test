@@ -1,0 +1,91 @@
+<html>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+</html>
+<style>
+
+    .search {
+        width: 60%;
+        margin: 10px auto;
+        padding: 8px;
+        border-radius: 8px;
+        box-shadow: 0px 0px 9px #cccccc;
+
+        display: flex;
+        justify-content: space-around;
+    }
+</style>
+<script></script>
+<body>
+    <div class="search">
+        <div>
+            <span>學年學期</span>
+            <select>
+                <option value="110-2">110-2</option>
+                <option value="110-1">110-1</option>
+            </select>
+        </div>
+        <div>
+            <span>學制</span>
+            <select>
+                <option value="dayschool">日間部</option>
+                <option value="nightschool">夜間部</option>
+            </select>
+        </div>
+        <div>
+            <span>系所</span>
+            <select name="dept">
+                <!--<option selected disabled>請選擇科系</option>-->
+                <optgroup label="工學院">
+                    <option value="ee">電機系</option>
+                    <option value="mech">機械系</option>
+                    <option value="eecs">電子系</option>
+                    <option value="oe">光電系</option>
+                    <option value="csie">資工系</option>
+                    <option value="chem">化材系</option>
+                    <option value="bio">生食系</option>
+                </optgroup>
+                <optgroup label="商管學院">
+                    <option value="imi">工資系</option>
+                    <option value="ib">國企系</option>
+                    <option value="fin">財金系</option>
+                    <option value="ba">企管系</option>
+                    <option value="mis">資管系</option>
+                    <option value="accinfo">會資系</option>
+                    <option value="leisure">休閒系</option>
+                    <option value="mim">行流系</option>
+                    <option value="hm">餐旅系</option>
+                </optgroup>
+                <optgroup label="數位設計學院">
+                    <option value="ic">資傳系</option>
+                    <option value="vc">視傳系</option>
+                    <option value="mes">多樂系</option>
+                    <option value="cpd">產設系</option>
+                    <option value="pmi">流音系</option>
+                </optgroup>
+                <optgroup label="人文社會學院">
+                    <option value="english">英語系</option>
+                    <option value="japan">日語系</option>
+                    <option value="childcare">幼保系</option>
+                    <option value="ss">高福系</option>
+                </optgroup>
+            </select>
+        </div>
+        <div>
+            <span>課程類別</span>
+            <select>
+                <option value="compulsory">必修</option>
+                <option value="elective">選修</option>
+                <option value="general_elective">通識</option>
+            </select>
+        </div>
+        <div>
+            <span>年級</span>
+            <select>
+                <option value="">一年級</option>
+                <option value="">二年級</option>
+                <option value="">三年級</option>
+                <option value="">四年級</option>
+            </select>
+        </div>
+    </div>
+</body>
