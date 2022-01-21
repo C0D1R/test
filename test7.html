@@ -9,29 +9,47 @@
         padding: 8px;
         border-radius: 8px;
         box-shadow: 0px 0px 9px #cccccc;
-
-        display: flex;
-        justify-content: space-around;
+    }
+    @media screen and (max-width: 767px) {
+        .grid {
+            display: flex;
+            justify-content: space-evenly;
+            padding: 2px 0;
+        }
+        span {
+            width: 40%;
+            text-align: right;
+        }
+        select {
+            width: 40%;
+        }
+    }
+    @media screen and (min-width: 768px) {
+        .search {
+            width: 86%;
+            display: flex;
+            justify-content: space-around;
+        }
     }
 </style>
 <script></script>
 <body>
     <div class="search">
-        <div>
+        <div class="grid">
             <span>學年學期</span>
             <select>
                 <option value="110-2">110-2</option>
                 <option value="110-1">110-1</option>
             </select>
         </div>
-        <div>
+        <div class="grid">
             <span>學制</span>
             <select>
                 <option value="dayschool">日間部</option>
                 <option value="nightschool">夜間部</option>
             </select>
         </div>
-        <div>
+        <div class="grid">
             <span>系所</span>
             <select name="dept">
                 <!--<option selected disabled>請選擇科系</option>-->
@@ -70,7 +88,7 @@
                 </optgroup>
             </select>
         </div>
-        <div>
+        <div class="grid">
             <span>課程類別</span>
             <select>
                 <option value="compulsory">必修</option>
@@ -78,7 +96,7 @@
                 <option value="general_elective">通識</option>
             </select>
         </div>
-        <div>
+        <div class="grid">
             <span>年級</span>
             <select>
                 <option value="">一年級</option>
