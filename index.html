@@ -21,224 +21,201 @@
         <meta name="twitter:site" content="">
         
         <meta property="fb:app_id" content="">
-        
-        <!--<link rel="stylesheet" href="./css/style.css">-->
-        <script defer src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-        <style>
-            * {
-                font-size: 14px;
-            }
-            .float {
-                float: left;
-            }
-            .clear {
-                clear: both;
-            }
-            .form input {
-                display: none;
-            }
-            .button {
-                border: 1px solid blue;
-                border-radius: 6px;
-            }
-            .button:hover {
-                background-color: red;
-            }
-            .form input:checked + .button {
-                background-color: green;
-            }
-            .form input[type="button"]:active + .button {
-                background-color: orange;
-            }
-        </style>
+        <link rel="preconnect" href="">
+        <link rel="stylesheet" href="./css/style.css">
+        <script src="./js/script.js"></script>
     </head>
     <body class="body">
-        <header>
-            <h1>STUST課程查詢系統</h1>
-        </header>
-        <div class="form">
-            <div>
-                <span>語言</span>
-                <label>
-                    <input type="radio" name="language" value="中文" checked>
-                    <span class="button">中文</span>
-                </label>
+        <div class="setwidth100 headingoutside">
+            <div class="setmid setwidth82 headinginside">
+                <h1>
+                    <span class="headings1">STUST課程查詢系統</span>
+                </h1>
             </div>
-            <div>
-                <span>學年學期</span>
-                <label>
-                    <input type="radio" name="semester" value="110-1">
-                    <span class="button">110-1</span>
-                </label>
-                <label>
-                    <input type="radio" name="semester" value="110-2" checked>
-                    <span class="button">110-2</span>
-                </label>
-            </div>
-            <div>
-                <span>學制</span>
-                <label>
-                    <input type="radio" name="schoolsystem" value="dayschool">
-                    <span class="button">日間部</span>
-                </label>
-                <label>
-                    <input type="radio" name="schoolsystem" value="nightschool" checked>
-                    <span class="button">夜間部</span>
-                </label>
-            </div>
-            <div>
-                <span style="height: 100px;background-color: #aaa;" class="float">系所</span>
-                <div>
+        </div>
+        <div class="setmid form setwidthpx912">
+            <div id="radio">
+                <div class="float th">
+                    <span>語言</span>
+                </div>
+                <div class="float td">
                     <label>
-                        <input type="radio" name="department" value="imi">
-                        <span class="button">工資系</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="department" value="ib">
-                        <span class="button">國企系</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="department" value="fin">
-                        <span class="button">財金系</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="department" value="ba">
-                        <span class="button">企管系</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="department" value="mis">
-                        <span class="button">資管系</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="department" value="accinfo">
-                        <span class="button">會資系</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="department" value="leisure">
-                        <span class="button">休閒系</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="department" value="mim">
-                        <span class="button">行流系</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="department" value="hm">
-                        <span class="button">餐旅系</span>
+                        <input type="radio" name="language" value="中文" checked>
+                        <span class="round button text2">中文</span>
                     </label>
                 </div>
-                <div>
+                <div class="clear"></div>
+
+
+
+                <div class="float th">
+                    <span>學年學期</span>
+                </div>
+                <div class="float td">
                     <label>
-                        <input type="radio" name="department" value="ee">
-                        <span class="button">電機系</span>
+                        <input type="radio" name="semester" value="110-1">
+                        <span class="round button text25">110-1</span>
                     </label>
                     <label>
-                        <input type="radio" name="department" value="mech">
-                        <span class="button">機械系</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="department" value="eecs">
-                        <span class="button">電子系</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="department" value="oe">
-                        <span class="button">光電系</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="department" value="csie">
-                        <span class="button">資工系</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="department" value="chem">
-                        <span class="button">化材系</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="department" value="bio">
-                        <span class="button">生食系</span>
+                        <input type="radio" name="semester" value="110-2" checked>
+                        <span class="round button text25">110-2</span>
                     </label>
                 </div>
-                <div>
-                    <label>
-                        <input type="radio" name="department" value="ic">
-                        <span class="button">資傳系</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="department" value="vc">
-                        <span class="button">視傳系</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="department" value="mes">
-                        <span class="button">多樂系</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="department" value="cpd">
-                        <span class="button">產設系</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="department" value="pmi">
-                        <span class="button">流音系</span>
-                    </label>
+                <div class="clear"></div>
+
+
+
+                <div class="float thb">
+                    <span>系所</span>
                 </div>
-                <div>
+                <div class="float tdb">
+                    <div class="tdbtd">
+                        <label>
+                            <input type="radio" name="department" value="imi">
+                            <span class="round button text3">工資系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="ib">
+                            <span class="round button text3">國企系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="fin">
+                            <span class="round button text3">財金系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="ba">
+                            <span class="round button text3">企管系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="mis">
+                            <span class="round button text3">資管系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="accinfo">
+                            <span class="round button text3">會資系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="leisure">
+                            <span class="round button text3">休閒系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="mim">
+                            <span class="round button text3">行流系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="hm">
+                            <span class="round button text3">餐旅系</span>
+                        </label>
+                    </div>
+                    <div class="tdbtd">
+                        <label>
+                            <input type="radio" name="department" value="ee">
+                            <span class="round button text3">電機系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="mech">
+                            <span class="round button text3">機械系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="eecs">
+                            <span class="round button text3">電子系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="oe">
+                            <span class="round button text3">光電系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="csie">
+                            <span class="round button text3">資工系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="chem">
+                            <span class="round button text3">化材系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="bio">
+                            <span class="round button text3">生食系</span>
+                        </label>
+                    </div>
+                    <div class="tdbtd">
+                        <label>
+                            <input type="radio" name="department" value="ic">
+                            <span class="round button text3">資傳系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="vc">
+                            <span class="round button text3">視傳系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="mes">
+                            <span class="round button text3">多樂系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="cpd">
+                            <span class="round button text3">產設系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="pmi">
+                            <span class="round button text3">流音系</span>
+                        </label>
+                    </div>
+                    <div class="tdbtd">
+                        <label>
+                            <input type="radio" name="department" value="english">
+                            <span class="round button text3">英語系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="japan">
+                            <span class="round button text3">日語系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="childcare">
+                            <span class="round button text3">幼保系</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="department" value="ss">
+                            <span class="round button text3">高福系</span>
+                        </label>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+
+
+
+            <div id="checkbox">
+                <div class="float th">
+                    <span>課程類別</span>
+                </div>
+                <div class="float td">
                     <label>
-                        <input type="radio" name="department" value="english">
-                        <span class="button">英語系</span>
+                        <input type="checkbox" name="course_type" value="compulsory_subject">
+                        <span class="round button text2">必修</span>
                     </label>
                     <label>
-                        <input type="radio" name="department" value="japan">
-                        <span class="button">日語系</span>
+                        <input type="checkbox" name="course_type" value="elective_subject">
+                        <span class="round button text2">選修</span>
                     </label>
                     <label>
-                        <input type="radio" name="department" value="childcare">
-                        <span class="button">幼保系</span>
-                    </label>
-                    <label>
-                        <input type="radio" name="department" value="ss">
-                        <span class="button">高福系</span>
+                        <input type="checkbox" name="course_type" value="general_elective_subject">
+                        <span class="round button text2">通識</span>
                     </label>
                 </div>
                 <div class="clear"></div>
             </div>
-            <div>
-                <span>課程類別</span>
-                <label>
-                    <input type="checkbox" name="course_type" value="compulsory">
-                    <span class="button">必修</span>
-                </label>
-                <label>
-                    <input type="checkbox" name="course_type" value="elective">
-                    <span class="button">選修</span>
-                </label>
-                <label>
-                    <input type="checkbox" name="course_type" value="general_elective">
-                    <span class="button">通識</span>
-                </label>
+
+
+
+            <div id="button" class="tdbtnoutside">
+                <div class="tdbtninside">
+                    <label>
+                        <input id="btn" type="button" name="send" value="send">
+                        <span class="round button textbtn">送出</span>
+                    </label>
+                </div>
             </div>
-            <div>
-                <span>年級</span>
-                <label>
-                    <input type="checkbox" name="" value="">
-                    <span class="button">一年級</span>
-                </label>
-                <label>
-                    <input type="checkbox" name="" value="">
-                    <span class="button">二年級</span>
-                </label>
-                <label>
-                    <input type="checkbox" name="" value="">
-                    <span class="button">三年級</span>
-                </label>
-                <label>
-                    <input type="checkbox" name="" value="">
-                    <span class="button">四年級</span>
-                </label>
-            </div>
-            <label>
-                <input type="button" id="btn" name="send" value="send">
-                <span class="button">送出</span>
-            </label>
         </div>
         <div id="list" class="setmid setwidthpx1245 datalist"></div>
-        <!--<div class="setwidth100 footer"></div>-->
-        <footer></footer>
+        <div class="setwidth100 footer"></div>        
     </body>
 </html>

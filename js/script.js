@@ -1,14 +1,18 @@
+const lang = document.getElementsByName("language");
+const sem = document.getElementsByName("semester");
+const dept = document.getElementsByName("department");
+const courty = document.getElementsByName("course_type");
+
 const btn = document.getElementById("btn");
 const list = document.getElementById("list");
 
-window.onload = function() {
-    if(sessionStorage.getItem("CourseList")) {
-        list.innerHTML = sessionStorage.getItem("CourseList")
-    }
-}
+var langValue = "";
+var semValue = "";
+var deptValue = "";
+var courtyValue = [];
 
 function getRadioBoxValue(RadioBoxValue) {
-    for(let i = RadioBoxValue.length-1; i >= 0; i--) {
+    for(let i = 0, len = RadioBoxValue.length; i < len; i++) {
         if(RadioBoxValue[i].checked) {
             return RadioBoxValue[i].value;
         }
@@ -16,16 +20,88 @@ function getRadioBoxValue(RadioBoxValue) {
 }
 function getCheckBoxValue(CheckBoxValue) {
     let CheckedValue = [];
-    for(let i = CheckBoxValue.length-1, j = 0; i >= 0; i--) {
+    for(let i = 0, j = 0, len = CheckBoxValue.length; i < len; i++) {
         if(CheckBoxValue[i].checked) {
-            CheckedValue[j++] = CheckBoxValue[i].value;
+            CheckedValue[j] = CheckBoxValue[i].value;
+            j++;
         }
     }
     return CheckedValue;
 }
 
-function getGeneralField(department) {
-    switch(department) {
+window.onload = function() {
+    if(sessionStorage.getItem("listHTML")) {
+        list.innerHTML = sessionStorage.getItem("listHTML");
+    }
+}
+
+btn.addEventListener("click", function() {
+    sessionStorage.clear();
+    list.innerHTML = "";
+
+    langValue = getRadioBoxValue(lang);
+    semValue = getRadioBoxValue(sem);
+    deptValue = getRadioBoxValue(dept);
+    courtyValue = getCheckBoxValue(courty);
+
+    function getJson(url) {
+        let request = new XMLHttpRequest();
+        request.open("GET", url);
+        request.send(null);
+        request.onload = function() {
+            if(request.status == 200) {
+                let json = JSON.parse(request.responseText);
+                (function() {
+                    let html = "";
+                    for(let i = 0, len = json.length; i < len; i++) {
+                        html += `
+                                <div>
+                                    <div style="width: 30%; padding-left: 5%;" class="float datalistli">${json[i].list_name}</div>
+                                    <div style="width: 7%;" class="float datalistli">${json[i].list_credit}</div>
+                                    <div style="width: 18%;" class="float datalistli textsetmid">${json[i].list_lecturer}</div>
+                                    <div style="width: 13%;" class="float datalistli textsetmid">${json[i].list_type}</div>
+                                    <div style="width: 17%;" class="float datalistli textsetmid">${json[i].list_field_class}</div>
+                                    <div style="width: 10%;" class="float datalistli">${json[i].list_time}</div>
+                                    <div style="clear: both;"></div>
+                                </div>
+                                `;
+                    }
+                    list.innerHTML += html;
+                    sessionStorage.setItem("listHTML", list.innerHTML);
+                }());
+            }
+        }
+    }
+    addlist_course_th();
+    for(let i = 0, len = courtyValue.length; i < len; i++) {
+        if(courtyValue[i] != "general_elective_subject") {
+            let url = "./data/" + semValue + "-" + deptValue + "_" + courtyValue[i] + ".json";
+            getJson(url);
+        }
+        else {
+            general_course_list = judge_academy();
+            for(let j = 0, len = general_course_list.length; j < len; j++) {
+                let url = "./data/" + semValue + "-" + general_course_list[j] + ".json";
+                getJson(url);
+            }
+        }
+    }
+});
+
+function addlist_course_th() {
+    list.innerHTML += ` <div>
+                            <div style="width: 30%; padding-left: 5%;" class="float datalistlith">課程名稱</div>
+                            <div style="width: 7%;" class="float datalistlith">學分</div>
+                            <div style="width: 18%;" class="float datalistlith">任課教師</div>
+                            <div style="width: 13%;" class="float datalistlith">課程類別</div>
+                            <div style="width: 17%;" class="float datalistlith">班級／領域</div>
+                            <div style="width: 10%;" class="float datalistlith">時間</div>
+                            <div style="clear: both;"></div>
+                        </div>`;
+}
+
+function judge_academy() {
+    switch(deptValue) {
         case "ee":
         case "mech":
         case "eecs":
@@ -57,112 +133,3 @@ function getGeneralField(department) {
             return ["humanities_and_arts", "social_science", "natural_science", "comprehensive_practice"];
     }
 }
-
-btn.addEventListener("click", function() {
-    sessionStorage.clear();
-    list.innerHTML = "";
-
-    function getJson(url) {
-        const request = new XMLHttpRequest();
-        request.open("GET", url);
-        request.send(null);
-        request.onload = function() {
-            if(request.status == 200) {
-                const data = JSON.parse(request.responseText);
-                let html = "";
-                for(let i = data.length-1, temp = null; i >= 0 && (temp = data[i]); i--) {
-                    html += `
-                            <div>
-                                <div style="width: 30%; padding-left: 5%;" class="float datalistli">${temp.list_name}</div>
-                                <div style="width: 7%;" class="float datalistli">${temp.list_credit}</div>
-                                <div style="width: 18%;" class="float datalistli textsetmid">${temp.list_lecturer}</div>
-                                <div style="width: 13%;" class="float datalistli textsetmid">${temp.list_type}</div>
-                                <div style="width: 17%;" class="float datalistli textsetmid">${temp.list_field_class}</div>
-                                <div style="width: 10%;" class="float datalistli">${temp.list_time}</div>
-                                <div style="clear: both;"></div>
-                            </div>
-                            `;
-                }
-                list.innerHTML += html;
-            }
-        }
-    }
-
-    (function() {
-        const semester = getRadioBoxValue(document.getElementsByName("semester"));
-        const schoolsystem = getRadioBoxValue(document.getElementsByName("schoolsystem"));
-        const department =  getRadioBoxValue(document.getElementsByName("department"));
-        const coursetype = getCheckBoxValue(document.getElementsByName("course_type"));
-        for(let i = coursetype.length-1, url = ""; i >= 0; i--) {
-            if(coursetype[i] != "general_elective") {
-                url = "./data/" + semester + "_" + schoolsystem + "_" + department + "_" + coursetype[i] + ".json";
-            }
-            else {
-                const gencourse = getGeneralField(department);
-                for(let j = gencourse.length-1; j >= 0; j--) {
-                    url = "./data/" + semester + "_" + gencourse[j] + ".json";
-                }
-            }
-            getJson(url);
-        }
-        sessionStorage.setItem("CourseList", list.innerHTML);
-    }());
-});
-
-function addlist_course_th() {
-    list.innerHTML += ` <div>
-                            <div style="width: 30%; padding-left: 5%;" class="float datalistlith">課程名稱</div>
-                            <div style="width: 7%;" class="float datalistlith">學分</div>
-                            <div style="width: 18%;" class="float datalistlith">任課教師</div>
-                            <div style="width: 13%;" class="float datalistlith">課程類別</div>
-                            <div style="width: 17%;" class="float datalistlith">班級／領域</div>
-                            <div style="width: 10%;" class="float datalistlith">時間</div>
-                            <div style="clear: both;"></div>
-                        </div>`;
-}
-
-
-/*
-    (function() {
-        $('#list').html("");
-        const url = "https://script.google.com/macros/s/AKfycbwe4Jglb_iKglwI1mIrZ7YwPFEFWaBG9Sy8xwicB4z_6YQf2QaSk2-V0VM5iSxR5k5oHg/exec";
-        /*
-        const lang = document.getElementsByName("language");
-        const sem = document.getElementsByName("semester");
-        const dept = document.getElementsByName("department");
-        const courty = document.getElementsByName("course_type");
-        */
-
-        /*
-        $.ajax({
-            type: 'GET',
-            url: url,
-            data: {
-                language: getRadioBoxValue(document.getElementsByName("language")),
-                semester: getRadioBoxValue(document.getElementsByName("semester")),
-                department: getRadioBoxValue(document.getElementsByName("department")),
-                coursetype: getCheckBoxValue(document.getElementsByName("course_type"))
-            },
-            datatype: 'json',
-            success: function(response) {
-                response = JSON.parse(response);
-                console.log(response);
-                let html = "";
-                for(let i = 0, len = response.length; i < len; i++) {
-                    html += `
-                            <div>
-                                <div style="width: 30%; padding-left: 5%;" class="float datalistli">${response[i].name}</div>
-                                <div style="width: 7%;" class="float datalistli">${response[i].credit}</div>
-                                <div style="width: 18%;" class="float datalistli textsetmid">${response[i].lecturer}</div>
-                                <div style="width: 13%;" class="float datalistli textsetmid">${response[i].type}</div>
-                                <div style="width: 17%;" class="float datalistli textsetmid">${response[i].fieldclass}</div>
-                                <div style="width: 10%;" class="float datalistli">${response[i].time}</div>
-                                <div style="clear: both;"></div>
-                            </div>
-                            `;
-                }
-                $('#list').html(html);
-                sessionStorage.setItem("CourseList", html);
-            }
-        });
-    }());*/
