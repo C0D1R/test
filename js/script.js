@@ -34,7 +34,6 @@ window.onload = function() {
         list.innerHTML = sessionStorage.getItem("listHTML");
     }
 }
-
 btn.addEventListener("click", function() {
     sessionStorage.clear();
     list.innerHTML = "";
